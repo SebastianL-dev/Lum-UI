@@ -2,13 +2,14 @@
   "name": "lum-ui",
   "version": "0.0.1",
   "homepage": "",
+  "type": "module",
   "author": {
     "name": "Sebastián Lozano",
     "url": "https://sebastianl.dev"
   },
   "description": "A sleek, modern and brightness CSS framework designed to create beautiful and consistent styles easily.",
   "main": "src/css/lum-ui.css",
-  "style": "src/css/lum-ui.min.css",
+  "style": "src/css/lum-ui.nano.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/SebastianL-dev/Lum-UI"
@@ -16,7 +17,12 @@
   "bugs": {
     "url": "https://github.com/SebastianL-dev/Lum-UI/issues"
   },
-  "scripts": {},
+  "scripts": {
+    "clean": "rimraf src/css",
+    "build:css:expanded": "sass --style=expanded --source-map src/sass/main.scss src/css/lum-ui.css",
+    "postcss:css": "postcss src/css/lum-ui.css --no-map -o src/css/lum-ui.css",
+    "build:css": "npm run clean && npm run build:css:expanded && npm run postcss:css"
+  },
   "keywords": [
     "css",
     "scss",
@@ -28,5 +34,12 @@
     "ui"
   ],
   "license": "MIT",
-  "packageManager": "pnpm@10.10.0"
+  "packageManager": "pnpm@10.10.0",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "cssnano": "^7.1.0",
+    "postcss-cli": "^11.0.1",
+    "rimraf": "^6.0.1",
+    "sass": "^1.90.0"
+  }
 }
