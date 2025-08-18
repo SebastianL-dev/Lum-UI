@@ -1,0 +1,32 @@
+{
+  "name": "lum-ui",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "Sebastián Lozano",
+    "url": "https://sebastianl.dev"
+  },
+  "description": "A sleek, modern and brightness CSS framework designed to create beautiful and consistent styles easily.",
+  "main": "src/css/lum-ui.css",
+  "style": "src/css/lum-ui.min.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebastianL-dev/Lum-UI"
+  },
+  "bugs": {
+    "url": "https://github.com/SebastianL-dev/Lum-UI/issues"
+  },
+  "scripts": {},
+  "keywords": [
+    "css",
+    "scss",
+    "sass",
+    "sleek",
+    "modern",
+    "brightness",
+    "framework",
+    "ui"
+  ],
+  "license": "MIT",
+  "packageManager": "pnpm@10.10.0"
+}
