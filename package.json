@@ -19,10 +19,10 @@
   },
   "scripts": {
     "clean": "rimraf dist/css",
-    "build:css:expanded": "sass --style=expanded --source-map scss/_index.scss dist/css/lum-ui.css",
+    "build:css:expanded": "sass --style=expanded --source-map style.scss dist/css/lum-ui.css",
     "postcss:css": "postcss dist/css/lum-ui.css --no-map -o dist/css/lum-ui.min.css",
     "build:css": "npm run clean && npm run build:css:expanded && npm run postcss:css",
-    "lint:css": "stylelint scss/*.scss"
+    "lint:scss": "stylelint scss/*.scss"
   },
   "keywords": [
     "css",

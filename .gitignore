@@ -1,5 +1,5 @@
-# Modules
-/node_modules
+# Dependencies
+node_modules/
 
-# Build
-/dist
+# Editor files
+.vscode/
