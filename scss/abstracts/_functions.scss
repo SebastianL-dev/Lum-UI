@@ -1,0 +1,11 @@
+// Functions to use in scss variables or styles
+
+@use "sass:math";
+
+$font-ratio: 1.125;
+$font-base: 1rem;
+
+// Get scalable size
+@function size($steps) {
+  @return 1$font-base * math.pow($font-ratio, $steps);
+}

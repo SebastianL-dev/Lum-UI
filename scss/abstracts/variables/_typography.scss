@@ -1,0 +1,13 @@
+// Typography variables
+// All variables must follow the naming convention '$<category>-<scope>-<level>'
+@use "../functions" as f;
+
+$font-size-3xs: f.size(-4);
+$font-size-2xs: f.size(-3);
+$font-size-xs: f.size(-2);
+$font-size-sm: f.size(-1);
+$font-size-base: f.size(0);
+$font-size-lg: f.size(1);
+$font-size-xl: f.size(2);
+$font-size-2xl: f.size(3);
+$font-size-3xl: f.size(4);
