@@ -8,8 +8,8 @@
     "url": "https://sebastianl.dev"
   },
   "description": "A sleek, modern and brightness CSS framework designed to create beautiful and consistent styles easily.",
-  "main": "css/lum-ui.css",
-  "style": "css/lum-ui.css",
+  "main": "dist/css/lum-ui.css",
+  "style": "dist/css/lum-ui.min.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/SebastianL-dev/Lum-UI"
@@ -18,11 +18,11 @@
     "url": "https://github.com/SebastianL-dev/Lum-UI/issues"
   },
   "scripts": {
-    "clean": "rimraf css",
-    "build:css:expanded": "sass --style=expanded --source-map sass/main.scss css/lum-ui.css",
-    "postcss:css": "postcss css/lum-ui.css --no-map -o css/lum-ui.css",
+    "clean": "rimraf dist/css",
+    "build:css:expanded": "sass --style=expanded --source-map scss/_index.scss dist/css/lum-ui.css",
+    "postcss:css": "postcss dist/css/lum-ui.css --no-map -o dist/css/lum-ui.min.css",
     "build:css": "npm run clean && npm run build:css:expanded && npm run postcss:css",
-    "lint:css": "stylelint sass/*.scss"
+    "lint:css": "stylelint scss/*.scss"
   },
   "keywords": [
     "css",
