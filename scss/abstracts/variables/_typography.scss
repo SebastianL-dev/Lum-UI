@@ -1,13 +1,34 @@
 // Typography variables
 // All variables must follow the naming convention '$<category>-<scope>-<level>'
+// for consistent names.
 @use "../functions" as f;
 
-$font-size-3xs: f.size(-4);
-$font-size-2xs: f.size(-3);
-$font-size-xs: f.size(-2);
-$font-size-sm: f.size(-1);
-$font-size-base: f.size(0);
-$font-size-lg: f.size(1);
-$font-size-xl: f.size(2);
-$font-size-2xl: f.size(3);
-$font-size-3xl: f.size(4);
+// Font sizes
+$font-size-3xs: f.size(-4) !default;
+$font-size-2xs: f.size(-3) !default;
+$font-size-xs: f.size(-2) !default;
+$font-size-sm: f.size(-1) !default;
+$font-size-base: f.size(0) !default;
+$font-size-lg: f.size(1) !default;
+$font-size-xl: f.size(2) !default;
+$font-size-2xl: f.size(3) !default;
+$font-size-3xl: f.size(4) !default;
+
+// Font weights
+$font-weight-extralight: 200 !default;
+$font-weight-light: 300 !default;
+$font-weight-normal: 400 !default;
+$font-weight-medium: 500 !default;
+$font-weight-semibold: 600 !default;
+$font-weight-bold: 700 !default;
+$font-weight-extrabold: 800 !default;
+
+// Font styles
+$font-styles-normal: normal !default;
+$font-styles-italic: italic !default;
+$font-styles-oblique: oblique !default;
+
+// Font family
+$font-family-system: system-ui, sans-serif !default;
+$font-family-roboto: "Roboto", sans-serif !default;
+$font-family-arial: "Arial", sans-serif !default;
