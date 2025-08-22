@@ -36,4 +36,4 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Run SCSS lint
-        run: npm run lint:css
+        run: npm run lint:scss
