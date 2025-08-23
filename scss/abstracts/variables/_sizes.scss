@@ -1,0 +1,22 @@
+// Sizes variables
+//
+// All variables must follow the naming convention '$<category>-<scope>-<level>'
+// for consistent names.
+//
+// In some cases can follow '$<category>-<scope>-<level>'
+
+// Small sizes -> For font size, border radius or small targets
+$small-size-4xs: 2px !default;
+$small-size-5xs: 4px !default;
+$small-size-3xs: 8px !default;
+$small-size-2xs: 10px !default;
+$small-size-xs: 12px !default;
+$small-size-sm: 14px !default;
+$small-size-base: 16px !default;
+$small-size-lg: 18px !default;
+$small-size-xl: 20px !default;
+$small-size-2xl: 24px !default;
+$small-size-3xl: 28px !default;
+$small-size-4xl: 36px !default;
+$small-size-5xl: 40px !default;
+$small-size-6xl: 48px !default;

@@ -1,10 +1,11 @@
-// SCSS reset -> Remove margins, paddings, outlines and provide sane defaults.
+// SCSS reset -> Remove margins, paddings, outlines and provide sane default.
 
-@use "../abstracts/variables/typography" as typography;
+@use "../abstracts/variables/sizes" as size;
+@use "../abstracts/variables/typography" as font;
 
 html {
   box-sizing: border-box;
-  font-size: typography.$font-size-base;
+  font-size: size.$small-size-base;
   -webkit-text-size-adjust: 100%;
 }
 *,
@@ -106,9 +107,9 @@ video {
 // Body defaults
 body {
   line-height: 1.4;
-  font-family: typography.$font-family-system;
-  font-weight: typography.$font-weight-normal;
-  font-size: typography.$font-size-base;
+  font-family: font.$font-family-system;
+  font-weight: font.$font-weight-normal;
+  font-size: size.$small-size-base;
   color: inherit;
   background-color: transparent;
   text-rendering: optimizeLegibility;
@@ -153,7 +154,7 @@ kbd,
 samp {
   font-size: inherit;
   font-weight: inherit;
-  font-family: typography.$font-family-mono;
+  font-family: font.$font-family-mono;
 }
 
 sub,

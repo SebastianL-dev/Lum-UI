@@ -1,18 +1,9 @@
 // Typography variables
+//
 // All variables must follow the naming convention '$<category>-<scope>-<level>'
 // for consistent names.
-@use "../functions" as f;
-
-// Font sizes
-$font-size-3xs: f.size(-4) !default;
-$font-size-2xs: f.size(-3) !default;
-$font-size-xs: f.size(-2) !default;
-$font-size-sm: f.size(-1) !default;
-$font-size-base: f.size(0) !default;
-$font-size-lg: f.size(1) !default;
-$font-size-xl: f.size(2) !default;
-$font-size-2xl: f.size(3) !default;
-$font-size-3xl: f.size(4) !default;
+//
+// In special cases can use '$<scope>-<level>'
 
 // Font weights
 $font-weight-extralight: 200 !default;
