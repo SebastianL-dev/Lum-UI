@@ -268,7 +268,7 @@ details {
 }
 
 .card {
-  background-color: #f6f6f6;
+  background-color: #fafafa;
   border-radius: 16px;
   padding: 24px;
   display: flex;
@@ -280,14 +280,14 @@ details {
 .card-title {
   font-size: 18px;
   font-weight: 700;
-  color: #3c3c3c;
+  color: rgb(70, 81.2, 97.3);
   line-height: 24px;
 }
 
 .card-details {
   font-size: 14px;
   font-weight: 500;
-  color: #676767;
+  color: #64748b;
   line-height: 24px;
   flex-grow: 1;
 }
@@ -310,7 +310,7 @@ details {
   font-weight: 500;
   margin-top: 10px;
   font-size: 16px;
-  color: #3451b2;
+  color: #ff6b9d;
 }
 
 /*# sourceMappingURL=lum-ui.css.map */

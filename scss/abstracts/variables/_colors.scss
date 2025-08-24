@@ -1,0 +1,278 @@
+// Colors variables
+//
+// All variables must follow the naming convention '$<category>-<scope>-<level>'
+// for consistent names.
+
+@use "../functions" as *;
+
+// Gray scale colors
+$white: #ffffff !default;
+$gray-50: #fafafa;
+$gray-100: #f5f5f5;
+$gray-200: #e5e5e5;
+$gray-300: #d4d4d4;
+$gray-400: #a3a3a3;
+$gray-500: #737373;
+$gray-600: #525252;
+$gray-700: #404040;
+$gray-800: #262626;
+$gray-900: #171717;
+$gray-950: #0a0a0a;
+$black: #000000 !default;
+
+// Main colors
+$red: #e71d31 !default;
+$cherry: #f43f5e !default;
+$orange: #fd7e14 !default;
+$gold: #f5ab0b !default;
+$yellow: #f7d411 !default;
+$green: #28a745 !default;
+$teal: #20c997 !default;
+$cyan: #2baec2 !default;
+$sky: #38a5ff !default;
+$blue: #007bff !default;
+$royal: #6366f1 !default;
+$purple: #a855f7 !default;
+$magenta: #d946ef !default;
+$pink: #ff6b9d !default;
+
+// Dark colors
+$brown: #a0724f !default;
+$stone: #8b8680 !default;
+$iron: #64748b !default;
+$navy: #334155 !default;
+
+// Color variants
+// Red
+$red-50: lighter($red, 90%);
+$red-100: lighter($red, 75%);
+$red-200: lighter($red, 60%);
+$red-300: lighter($red, 45%);
+$red-400: lighter($red, 30%);
+$red-500: $red;
+$red-600: darker($red, 15%);
+$red-700: darker($red, 30%);
+$red-800: darker($red, 45%);
+$red-900: darker($red, 60%);
+$red-950: darker($red, 75%);
+
+// Cherry
+$cherry-50: lighter($cherry, 90%);
+$cherry-100: lighter($cherry, 75%);
+$cherry-200: lighter($cherry, 60%);
+$cherry-300: lighter($cherry, 45%);
+$cherry-400: lighter($cherry, 30%);
+$cherry-500: $cherry;
+$cherry-600: darker($cherry, 15%);
+$cherry-700: darker($cherry, 30%);
+$cherry-800: darker($cherry, 45%);
+$cherry-900: darker($cherry, 60%);
+$cherry-950: darker($cherry, 75%);
+
+// Orange
+$orange-50: lighter($orange, 90%);
+$orange-100: lighter($orange, 75%);
+$orange-200: lighter($orange, 60%);
+$orange-300: lighter($orange, 45%);
+$orange-400: lighter($orange, 30%);
+$orange-500: $orange;
+$orange-600: darker($orange, 15%);
+$orange-700: darker($orange, 30%);
+$orange-800: darker($orange, 45%);
+$orange-900: darker($orange, 60%);
+$orange-950: darker($orange, 75%);
+
+// Gold
+$gold-50: lighter($gold, 90%);
+$gold-100: lighter($gold, 75%);
+$gold-200: lighter($gold, 60%);
+$gold-300: lighter($gold, 45%);
+$gold-400: lighter($gold, 30%);
+$gold-500: $gold;
+$gold-600: darker($gold, 15%);
+$gold-700: darker($gold, 30%);
+$gold-800: darker($gold, 45%);
+$gold-900: darker($gold, 60%);
+$gold-950: darker($gold, 75%);
+
+// Yellow
+$yellow-50: lighter($yellow, 90%);
+$yellow-100: lighter($yellow, 75%);
+$yellow-200: lighter($yellow, 60%);
+$yellow-300: lighter($yellow, 45%);
+$yellow-400: lighter($yellow, 30%);
+$yellow-500: $yellow;
+$yellow-600: darker($yellow, 15%);
+$yellow-700: darker($yellow, 30%);
+$yellow-800: darker($yellow, 45%);
+$yellow-900: darker($yellow, 60%);
+$yellow-950: darker($yellow, 75%);
+
+// Green
+$green-50: lighter($green, 90%);
+$green-100: lighter($green, 75%);
+$green-200: lighter($green, 60%);
+$green-300: lighter($green, 45%);
+$green-400: lighter($green, 30%);
+$green-500: $green;
+$green-600: darker($green, 15%);
+$green-700: darker($green, 30%);
+$green-800: darker($green, 45%);
+$green-900: darker($green, 60%);
+$green-950: darker($green, 75%);
+
+// Teal
+$teal-50: lighter($teal, 90%);
+$teal-100: lighter($teal, 75%);
+$teal-200: lighter($teal, 60%);
+$teal-300: lighter($teal, 45%);
+$teal-400: lighter($teal, 30%);
+$teal-500: $teal;
+$teal-600: darker($teal, 15%);
+$teal-700: darker($teal, 30%);
+$teal-800: darker($teal, 45%);
+$teal-900: darker($teal, 60%);
+$teal-950: darker($teal, 75%);
+
+// Cyan
+$cyan-50: lighter($cyan, 90%);
+$cyan-100: lighter($cyan, 75%);
+$cyan-200: lighter($cyan, 60%);
+$cyan-300: lighter($cyan, 45%);
+$cyan-400: lighter($cyan, 30%);
+$cyan-500: $cyan;
+$cyan-600: darker($cyan, 15%);
+$cyan-700: darker($cyan, 30%);
+$cyan-800: darker($cyan, 45%);
+$cyan-900: darker($cyan, 60%);
+$cyan-950: darker($cyan, 75%);
+
+// Cyan
+$sky-50: lighter($sky, 90%);
+$sky-100: lighter($sky, 75%);
+$sky-200: lighter($sky, 60%);
+$sky-300: lighter($sky, 45%);
+$sky-400: lighter($sky, 30%);
+$sky-500: $sky;
+$sky-600: darker($sky, 15%);
+$sky-700: darker($sky, 30%);
+$sky-800: darker($sky, 45%);
+$sky-900: darker($sky, 60%);
+$sky-950: darker($sky, 75%);
+
+// Blue
+$blue-50: lighter($blue, 90%);
+$blue-100: lighter($blue, 75%);
+$blue-200: lighter($blue, 60%);
+$blue-300: lighter($blue, 45%);
+$blue-400: lighter($blue, 30%);
+$blue-500: $blue;
+$blue-600: darker($blue, 15%);
+$blue-700: darker($blue, 30%);
+$blue-800: darker($blue, 45%);
+$blue-900: darker($blue, 60%);
+$blue-950: darker($blue, 75%);
+
+// Royal
+$royal-50: lighter($royal, 90%);
+$royal-100: lighter($royal, 75%);
+$royal-200: lighter($royal, 60%);
+$royal-300: lighter($royal, 45%);
+$royal-400: lighter($royal, 30%);
+$royal-500: $royal;
+$royal-600: darker($royal, 15%);
+$royal-700: darker($royal, 30%);
+$royal-800: darker($royal, 45%);
+$royal-900: darker($royal, 60%);
+$royal-950: darker($royal, 75%);
+
+// purple
+$purple-50: lighter($purple, 90%);
+$purple-100: lighter($purple, 75%);
+$purple-200: lighter($purple, 60%);
+$purple-300: lighter($purple, 45%);
+$purple-400: lighter($purple, 30%);
+$purple-500: $purple;
+$purple-600: darker($purple, 15%);
+$purple-700: darker($purple, 30%);
+$purple-800: darker($purple, 45%);
+$purple-900: darker($purple, 60%);
+$purple-950: darker($purple, 75%);
+
+// Magenta
+$magenta-50: lighter($magenta, 90%);
+$magenta-100: lighter($magenta, 75%);
+$magenta-200: lighter($magenta, 60%);
+$magenta-300: lighter($magenta, 45%);
+$magenta-400: lighter($magenta, 30%);
+$magenta-500: $magenta;
+$magenta-600: darker($magenta, 15%);
+$magenta-700: darker($magenta, 30%);
+$magenta-800: darker($magenta, 45%);
+$magenta-900: darker($magenta, 60%);
+$magenta-950: darker($magenta, 75%);
+
+// Pink
+$pink-50: lighter($pink, 90%);
+$pink-100: lighter($pink, 75%);
+$pink-200: lighter($pink, 60%);
+$pink-300: lighter($pink, 45%);
+$pink-400: lighter($pink, 30%);
+$pink-500: $pink;
+$pink-600: darker($pink, 15%);
+$pink-700: darker($pink, 30%);
+$pink-800: darker($pink, 45%);
+$pink-900: darker($pink, 60%);
+$pink-950: darker($pink, 75%);
+
+// Brown
+$brown-50: lighter($brown, 90%);
+$brown-100: lighter($brown, 75%);
+$brown-200: lighter($brown, 60%);
+$brown-300: lighter($brown, 45%);
+$brown-400: lighter($brown, 30%);
+$brown-500: $brown;
+$brown-600: darker($brown, 15%);
+$brown-700: darker($brown, 30%);
+$brown-800: darker($brown, 45%);
+$brown-900: darker($brown, 60%);
+$brown-950: darker($brown, 75%);
+
+// Stone
+$stone-50: lighter($stone, 90%);
+$stone-100: lighter($stone, 75%);
+$stone-200: lighter($stone, 60%);
+$stone-300: lighter($stone, 45%);
+$stone-400: lighter($stone, 30%);
+$stone-500: $stone;
+$stone-600: darker($stone, 15%);
+$stone-700: darker($stone, 30%);
+$stone-800: darker($stone, 45%);
+$stone-900: darker($stone, 60%);
+$stone-950: darker($stone, 75%);
+
+// Iron
+$iron-50: lighter($iron, 90%);
+$iron-100: lighter($iron, 75%);
+$iron-200: lighter($iron, 60%);
+$iron-300: lighter($iron, 45%);
+$iron-400: lighter($iron, 30%);
+$iron-500: $iron;
+$iron-600: darker($iron, 15%);
+$iron-700: darker($iron, 30%);
+$iron-800: darker($iron, 45%);
+$iron-900: darker($iron, 60%);
+$iron-950: darker($iron, 75%);
+
+// Navy
+$navy-50: lighter($navy, 90%);
+$navy-100: lighter($navy, 75%);
+$navy-200: lighter($navy, 60%);
+$navy-300: lighter($navy, 45%);
+$navy-400: lighter($navy, 30%);
+$navy-500: $navy;
+$navy-600: darker($navy, 15%);
+$navy-700: darker($navy, 30%);
+$navy-800: darker($navy, 45%);
+$navy-900: darker($navy, 60%);
+$navy-950: darker($navy, 75%);
