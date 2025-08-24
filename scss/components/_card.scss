@@ -2,27 +2,37 @@
 @use "../abstracts/variables/typography" as *;
 @use "../abstracts/variables/colors" as *;
 
+// TODO: Make the card customizable. Allow users to edit link, background, and text colors, borders and scale transitions etc.
+
 .card {
-  background-color: $gray-50;
+  background-color: $gray-100;
   border-radius: $small-size-base;
   padding: $small-size-2xl;
   display: flex;
   flex-direction: column;
   height: 100%;
   gap: $small-size-3xs;
+  transition: color ease-in-out 200ms, border ease-in-out 150ms,
+    scale cubic-bezier(0.34, 1.56, 0.64, 1) 400ms;
+  border: 2px solid transparent;
+
+  &:hover {
+    border: 2px solid $gray-200;
+    // scale: 1.02;
+  }
 }
 
 .card-title {
   font-size: $small-size-lg;
   font-weight: $font-weight-bold;
-  color: $iron-700;
+  color: $navy-500;
   line-height: $small-size-2xl;
 }
 
 .card-details {
   font-size: $small-size-sm;
   font-weight: $font-weight-medium;
-  color: $iron-500;
+  color: $gray-700;
   line-height: $small-size-2xl;
   flex-grow: 1;
 }
@@ -32,8 +42,8 @@
   justify-content: center;
   align-items: center;
   margin-bottom: $small-size-2xs;
-  border-radius: $small-size-sm;
-  background-color: #e7e7e7;
+  border-radius: $small-size-xs;
+  background-color: $gray-200;
   width: 48px;
   height: 48px;
   font-size: $small-size-2xl;
@@ -43,7 +53,13 @@
   display: flex;
   align-items: center;
   font-weight: 500;
-  margin-top: $small-size-2xs;
+  width: fit-content;
+  margin-top: $small-size-xs;
   font-size: $small-size-base;
-  color: $pink-500;
+  color: $orange-500;
+  transition: inherit;
+
+  &:hover {
+    color: $orange-400;
+  }
 }
