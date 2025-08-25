@@ -274,47 +274,53 @@ details {
   display: flex;
   flex-direction: column;
   height: 100%;
-  gap: 8px;
+  gap: 14px;
   transition: color ease-in-out 200ms, border ease-in-out 150ms, scale cubic-bezier(0.34, 1.56, 0.64, 1) 400ms;
-  border: 2px solid transparent;
+  border: 1px solid transparent;
 }
 .card:hover {
-  border: 2px solid #eeeeee;
+  border: 1px solid #e0e0e0;
 }
-
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex-grow: 1;
+}
+.card-links {
+  display: flex;
+  column-gap: 16px;
+  row-gap: 4px;
+  flex-wrap: wrap;
+}
 .card-title {
   font-size: 18px;
   font-weight: 700;
   color: #334155;
   line-height: 24px;
 }
-
-.card-details {
+.card-text {
   font-size: 14px;
   font-weight: 500;
   color: #616161;
   line-height: 24px;
-  flex-grow: 1;
 }
-
 .card-icon {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10px;
   border-radius: 12px;
   background-color: #eeeeee;
-  width: 48px;
-  height: 48px;
+  width: fit-content;
+  height: fit-content;
+  padding: 8px;
   font-size: 24px;
 }
-
 .card-link {
   display: flex;
   align-items: center;
   font-weight: 500;
   width: fit-content;
-  margin-top: 12px;
   font-size: 16px;
   color: #fd7e14;
   transition: inherit;
