@@ -67,7 +67,7 @@
     width: fit-content;
     font-size: $small-size-base;
     color: $orange-500;
-    transition: inherit;
+    transition: color ease-in-out 200ms;
 
     &:hover {
       color: $orange-400;

@@ -1,3 +1,7599 @@
+.bg-red-50 {
+  background-color: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.text-red-50 {
+  color: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.decoration-red-50 {
+  text-decoration-color: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.border-red-50 {
+  border-color: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.outline-red-50 {
+  outline-color: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.accent-red-50 {
+  accent-color: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.caret-red-50 {
+  caret-color: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.fill-red-50 {
+  fill: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.stroke-red-50 {
+  stroke: rgb(252.6, 232.4, 234.4) !important;
+}
+
+.bg-red-100 {
+  background-color: rgb(249, 198.5, 203.5) !important;
+}
+
+.text-red-100 {
+  color: rgb(249, 198.5, 203.5) !important;
+}
+
+.decoration-red-100 {
+  text-decoration-color: rgb(249, 198.5, 203.5) !important;
+}
+
+.border-red-100 {
+  border-color: rgb(249, 198.5, 203.5) !important;
+}
+
+.outline-red-100 {
+  outline-color: rgb(249, 198.5, 203.5) !important;
+}
+
+.accent-red-100 {
+  accent-color: rgb(249, 198.5, 203.5) !important;
+}
+
+.caret-red-100 {
+  caret-color: rgb(249, 198.5, 203.5) !important;
+}
+
+.fill-red-100 {
+  fill: rgb(249, 198.5, 203.5) !important;
+}
+
+.stroke-red-100 {
+  stroke: rgb(249, 198.5, 203.5) !important;
+}
+
+.bg-red-200 {
+  background-color: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.text-red-200 {
+  color: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.decoration-red-200 {
+  text-decoration-color: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.border-red-200 {
+  border-color: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.outline-red-200 {
+  outline-color: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.accent-red-200 {
+  accent-color: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.caret-red-200 {
+  caret-color: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.fill-red-200 {
+  fill: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.stroke-red-200 {
+  stroke: rgb(245.4, 164.6, 172.6) !important;
+}
+
+.bg-red-300 {
+  background-color: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.text-red-300 {
+  color: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.decoration-red-300 {
+  text-decoration-color: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.border-red-300 {
+  border-color: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.outline-red-300 {
+  outline-color: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.accent-red-300 {
+  accent-color: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.caret-red-300 {
+  caret-color: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.fill-red-300 {
+  fill: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.stroke-red-300 {
+  stroke: rgb(241.8, 130.7, 141.7) !important;
+}
+
+.bg-red-400 {
+  background-color: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.text-red-400 {
+  color: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.decoration-red-400 {
+  text-decoration-color: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.border-red-400 {
+  border-color: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.outline-red-400 {
+  outline-color: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.accent-red-400 {
+  accent-color: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.caret-red-400 {
+  caret-color: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.fill-red-400 {
+  fill: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.stroke-red-400 {
+  stroke: rgb(238.2, 96.8, 110.8) !important;
+}
+
+.bg-red-500 {
+  background-color: #e71d31 !important;
+}
+
+.text-red-500 {
+  color: #e71d31 !important;
+}
+
+.decoration-red-500 {
+  text-decoration-color: #e71d31 !important;
+}
+
+.border-red-500 {
+  border-color: #e71d31 !important;
+}
+
+.outline-red-500 {
+  outline-color: #e71d31 !important;
+}
+
+.accent-red-500 {
+  accent-color: #e71d31 !important;
+}
+
+.caret-red-500 {
+  caret-color: #e71d31 !important;
+}
+
+.fill-red-500 {
+  fill: #e71d31 !important;
+}
+
+.stroke-red-500 {
+  stroke: #e71d31 !important;
+}
+
+.bg-red-600 {
+  background-color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.text-red-600 {
+  color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.decoration-red-600 {
+  text-decoration-color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.border-red-600 {
+  border-color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.outline-red-600 {
+  outline-color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.accent-red-600 {
+  accent-color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.caret-red-600 {
+  caret-color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.fill-red-600 {
+  fill: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.stroke-red-600 {
+  stroke: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.bg-red-700 {
+  background-color: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.text-red-700 {
+  color: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.decoration-red-700 {
+  text-decoration-color: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.border-red-700 {
+  border-color: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.outline-red-700 {
+  outline-color: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.accent-red-700 {
+  accent-color: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.caret-red-700 {
+  caret-color: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.fill-red-700 {
+  fill: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.stroke-red-700 {
+  stroke: rgb(161.7, 20.3, 34.3) !important;
+}
+
+.bg-red-800 {
+  background-color: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.text-red-800 {
+  color: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.decoration-red-800 {
+  text-decoration-color: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.border-red-800 {
+  border-color: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.outline-red-800 {
+  outline-color: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.accent-red-800 {
+  accent-color: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.caret-red-800 {
+  caret-color: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.fill-red-800 {
+  fill: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.stroke-red-800 {
+  stroke: rgb(127.05, 15.95, 26.95) !important;
+}
+
+.bg-red-900 {
+  background-color: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.text-red-900 {
+  color: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.decoration-red-900 {
+  text-decoration-color: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.border-red-900 {
+  border-color: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.outline-red-900 {
+  outline-color: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.accent-red-900 {
+  accent-color: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.caret-red-900 {
+  caret-color: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.fill-red-900 {
+  fill: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.stroke-red-900 {
+  stroke: rgb(92.4, 11.6, 19.6) !important;
+}
+
+.bg-red-950 {
+  background-color: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.text-red-950 {
+  color: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.decoration-red-950 {
+  text-decoration-color: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.border-red-950 {
+  border-color: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.outline-red-950 {
+  outline-color: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.accent-red-950 {
+  accent-color: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.caret-red-950 {
+  caret-color: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.fill-red-950 {
+  fill: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.stroke-red-950 {
+  stroke: rgb(57.75, 7.25, 12.25) !important;
+}
+
+.bg-cherry-50 {
+  background-color: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.text-cherry-50 {
+  color: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.decoration-cherry-50 {
+  text-decoration-color: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.border-cherry-50 {
+  border-color: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.outline-cherry-50 {
+  outline-color: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.accent-cherry-50 {
+  accent-color: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.caret-cherry-50 {
+  caret-color: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.fill-cherry-50 {
+  fill: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.stroke-cherry-50 {
+  stroke: rgb(253.9, 235.8, 238.9) !important;
+}
+
+.bg-cherry-100 {
+  background-color: rgb(252.25, 207, 214.75) !important;
+}
+
+.text-cherry-100 {
+  color: rgb(252.25, 207, 214.75) !important;
+}
+
+.decoration-cherry-100 {
+  text-decoration-color: rgb(252.25, 207, 214.75) !important;
+}
+
+.border-cherry-100 {
+  border-color: rgb(252.25, 207, 214.75) !important;
+}
+
+.outline-cherry-100 {
+  outline-color: rgb(252.25, 207, 214.75) !important;
+}
+
+.accent-cherry-100 {
+  accent-color: rgb(252.25, 207, 214.75) !important;
+}
+
+.caret-cherry-100 {
+  caret-color: rgb(252.25, 207, 214.75) !important;
+}
+
+.fill-cherry-100 {
+  fill: rgb(252.25, 207, 214.75) !important;
+}
+
+.stroke-cherry-100 {
+  stroke: rgb(252.25, 207, 214.75) !important;
+}
+
+.bg-cherry-200 {
+  background-color: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.text-cherry-200 {
+  color: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.decoration-cherry-200 {
+  text-decoration-color: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.border-cherry-200 {
+  border-color: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.outline-cherry-200 {
+  outline-color: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.accent-cherry-200 {
+  accent-color: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.caret-cherry-200 {
+  caret-color: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.fill-cherry-200 {
+  fill: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.stroke-cherry-200 {
+  stroke: rgb(250.6, 178.2, 190.6) !important;
+}
+
+.bg-cherry-300 {
+  background-color: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.text-cherry-300 {
+  color: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.decoration-cherry-300 {
+  text-decoration-color: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.border-cherry-300 {
+  border-color: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.outline-cherry-300 {
+  outline-color: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.accent-cherry-300 {
+  accent-color: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.caret-cherry-300 {
+  caret-color: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.fill-cherry-300 {
+  fill: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.stroke-cherry-300 {
+  stroke: rgb(248.95, 149.4, 166.45) !important;
+}
+
+.bg-cherry-400 {
+  background-color: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.text-cherry-400 {
+  color: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.decoration-cherry-400 {
+  text-decoration-color: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.border-cherry-400 {
+  border-color: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.outline-cherry-400 {
+  outline-color: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.accent-cherry-400 {
+  accent-color: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.caret-cherry-400 {
+  caret-color: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.fill-cherry-400 {
+  fill: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.stroke-cherry-400 {
+  stroke: rgb(247.3, 120.6, 142.3) !important;
+}
+
+.bg-cherry-500 {
+  background-color: #f43f5e !important;
+}
+
+.text-cherry-500 {
+  color: #f43f5e !important;
+}
+
+.decoration-cherry-500 {
+  text-decoration-color: #f43f5e !important;
+}
+
+.border-cherry-500 {
+  border-color: #f43f5e !important;
+}
+
+.outline-cherry-500 {
+  outline-color: #f43f5e !important;
+}
+
+.accent-cherry-500 {
+  accent-color: #f43f5e !important;
+}
+
+.caret-cherry-500 {
+  caret-color: #f43f5e !important;
+}
+
+.fill-cherry-500 {
+  fill: #f43f5e !important;
+}
+
+.stroke-cherry-500 {
+  stroke: #f43f5e !important;
+}
+
+.bg-cherry-600 {
+  background-color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.text-cherry-600 {
+  color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.decoration-cherry-600 {
+  text-decoration-color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.border-cherry-600 {
+  border-color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.outline-cherry-600 {
+  outline-color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.accent-cherry-600 {
+  accent-color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.caret-cherry-600 {
+  caret-color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.fill-cherry-600 {
+  fill: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.stroke-cherry-600 {
+  stroke: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.bg-cherry-700 {
+  background-color: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.text-cherry-700 {
+  color: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.decoration-cherry-700 {
+  text-decoration-color: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.border-cherry-700 {
+  border-color: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.outline-cherry-700 {
+  outline-color: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.accent-cherry-700 {
+  accent-color: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.caret-cherry-700 {
+  caret-color: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.fill-cherry-700 {
+  fill: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.stroke-cherry-700 {
+  stroke: rgb(170.8, 44.1, 65.8) !important;
+}
+
+.bg-cherry-800 {
+  background-color: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.text-cherry-800 {
+  color: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.decoration-cherry-800 {
+  text-decoration-color: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.border-cherry-800 {
+  border-color: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.outline-cherry-800 {
+  outline-color: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.accent-cherry-800 {
+  accent-color: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.caret-cherry-800 {
+  caret-color: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.fill-cherry-800 {
+  fill: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.stroke-cherry-800 {
+  stroke: rgb(134.2, 34.65, 51.7) !important;
+}
+
+.bg-cherry-900 {
+  background-color: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.text-cherry-900 {
+  color: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.decoration-cherry-900 {
+  text-decoration-color: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.border-cherry-900 {
+  border-color: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.outline-cherry-900 {
+  outline-color: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.accent-cherry-900 {
+  accent-color: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.caret-cherry-900 {
+  caret-color: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.fill-cherry-900 {
+  fill: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.stroke-cherry-900 {
+  stroke: rgb(97.6, 25.2, 37.6) !important;
+}
+
+.bg-cherry-950 {
+  background-color: rgb(61, 15.75, 23.5) !important;
+}
+
+.text-cherry-950 {
+  color: rgb(61, 15.75, 23.5) !important;
+}
+
+.decoration-cherry-950 {
+  text-decoration-color: rgb(61, 15.75, 23.5) !important;
+}
+
+.border-cherry-950 {
+  border-color: rgb(61, 15.75, 23.5) !important;
+}
+
+.outline-cherry-950 {
+  outline-color: rgb(61, 15.75, 23.5) !important;
+}
+
+.accent-cherry-950 {
+  accent-color: rgb(61, 15.75, 23.5) !important;
+}
+
+.caret-cherry-950 {
+  caret-color: rgb(61, 15.75, 23.5) !important;
+}
+
+.fill-cherry-950 {
+  fill: rgb(61, 15.75, 23.5) !important;
+}
+
+.stroke-cherry-950 {
+  stroke: rgb(61, 15.75, 23.5) !important;
+}
+
+.bg-orange-50 {
+  background-color: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.text-orange-50 {
+  color: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.decoration-orange-50 {
+  text-decoration-color: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.border-orange-50 {
+  border-color: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.outline-orange-50 {
+  outline-color: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.accent-orange-50 {
+  accent-color: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.caret-orange-50 {
+  caret-color: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.fill-orange-50 {
+  fill: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.stroke-orange-50 {
+  stroke: rgb(254.8, 242.1, 231.5) !important;
+}
+
+.bg-orange-100 {
+  background-color: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.text-orange-100 {
+  color: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.decoration-orange-100 {
+  text-decoration-color: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.border-orange-100 {
+  border-color: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.outline-orange-100 {
+  outline-color: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.accent-orange-100 {
+  accent-color: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.caret-orange-100 {
+  caret-color: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.fill-orange-100 {
+  fill: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.stroke-orange-100 {
+  stroke: rgb(254.5, 222.75, 196.25) !important;
+}
+
+.bg-orange-200 {
+  background-color: rgb(254.2, 203.4, 161) !important;
+}
+
+.text-orange-200 {
+  color: rgb(254.2, 203.4, 161) !important;
+}
+
+.decoration-orange-200 {
+  text-decoration-color: rgb(254.2, 203.4, 161) !important;
+}
+
+.border-orange-200 {
+  border-color: rgb(254.2, 203.4, 161) !important;
+}
+
+.outline-orange-200 {
+  outline-color: rgb(254.2, 203.4, 161) !important;
+}
+
+.accent-orange-200 {
+  accent-color: rgb(254.2, 203.4, 161) !important;
+}
+
+.caret-orange-200 {
+  caret-color: rgb(254.2, 203.4, 161) !important;
+}
+
+.fill-orange-200 {
+  fill: rgb(254.2, 203.4, 161) !important;
+}
+
+.stroke-orange-200 {
+  stroke: rgb(254.2, 203.4, 161) !important;
+}
+
+.bg-orange-300 {
+  background-color: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.text-orange-300 {
+  color: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.decoration-orange-300 {
+  text-decoration-color: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.border-orange-300 {
+  border-color: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.outline-orange-300 {
+  outline-color: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.accent-orange-300 {
+  accent-color: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.caret-orange-300 {
+  caret-color: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.fill-orange-300 {
+  fill: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.stroke-orange-300 {
+  stroke: rgb(253.9, 184.05, 125.75) !important;
+}
+
+.bg-orange-400 {
+  background-color: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.text-orange-400 {
+  color: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.decoration-orange-400 {
+  text-decoration-color: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.border-orange-400 {
+  border-color: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.outline-orange-400 {
+  outline-color: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.accent-orange-400 {
+  accent-color: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.caret-orange-400 {
+  caret-color: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.fill-orange-400 {
+  fill: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.stroke-orange-400 {
+  stroke: rgb(253.6, 164.7, 90.5) !important;
+}
+
+.bg-orange-500 {
+  background-color: #fd7e14 !important;
+}
+
+.text-orange-500 {
+  color: #fd7e14 !important;
+}
+
+.decoration-orange-500 {
+  text-decoration-color: #fd7e14 !important;
+}
+
+.border-orange-500 {
+  border-color: #fd7e14 !important;
+}
+
+.outline-orange-500 {
+  outline-color: #fd7e14 !important;
+}
+
+.accent-orange-500 {
+  accent-color: #fd7e14 !important;
+}
+
+.caret-orange-500 {
+  caret-color: #fd7e14 !important;
+}
+
+.fill-orange-500 {
+  fill: #fd7e14 !important;
+}
+
+.stroke-orange-500 {
+  stroke: #fd7e14 !important;
+}
+
+.bg-orange-600 {
+  background-color: rgb(215.05, 107.1, 17) !important;
+}
+
+.text-orange-600 {
+  color: rgb(215.05, 107.1, 17) !important;
+}
+
+.decoration-orange-600 {
+  text-decoration-color: rgb(215.05, 107.1, 17) !important;
+}
+
+.border-orange-600 {
+  border-color: rgb(215.05, 107.1, 17) !important;
+}
+
+.outline-orange-600 {
+  outline-color: rgb(215.05, 107.1, 17) !important;
+}
+
+.accent-orange-600 {
+  accent-color: rgb(215.05, 107.1, 17) !important;
+}
+
+.caret-orange-600 {
+  caret-color: rgb(215.05, 107.1, 17) !important;
+}
+
+.fill-orange-600 {
+  fill: rgb(215.05, 107.1, 17) !important;
+}
+
+.stroke-orange-600 {
+  stroke: rgb(215.05, 107.1, 17) !important;
+}
+
+.bg-orange-700 {
+  background-color: rgb(177.1, 88.2, 14) !important;
+}
+
+.text-orange-700 {
+  color: rgb(177.1, 88.2, 14) !important;
+}
+
+.decoration-orange-700 {
+  text-decoration-color: rgb(177.1, 88.2, 14) !important;
+}
+
+.border-orange-700 {
+  border-color: rgb(177.1, 88.2, 14) !important;
+}
+
+.outline-orange-700 {
+  outline-color: rgb(177.1, 88.2, 14) !important;
+}
+
+.accent-orange-700 {
+  accent-color: rgb(177.1, 88.2, 14) !important;
+}
+
+.caret-orange-700 {
+  caret-color: rgb(177.1, 88.2, 14) !important;
+}
+
+.fill-orange-700 {
+  fill: rgb(177.1, 88.2, 14) !important;
+}
+
+.stroke-orange-700 {
+  stroke: rgb(177.1, 88.2, 14) !important;
+}
+
+.bg-orange-800 {
+  background-color: rgb(139.15, 69.3, 11) !important;
+}
+
+.text-orange-800 {
+  color: rgb(139.15, 69.3, 11) !important;
+}
+
+.decoration-orange-800 {
+  text-decoration-color: rgb(139.15, 69.3, 11) !important;
+}
+
+.border-orange-800 {
+  border-color: rgb(139.15, 69.3, 11) !important;
+}
+
+.outline-orange-800 {
+  outline-color: rgb(139.15, 69.3, 11) !important;
+}
+
+.accent-orange-800 {
+  accent-color: rgb(139.15, 69.3, 11) !important;
+}
+
+.caret-orange-800 {
+  caret-color: rgb(139.15, 69.3, 11) !important;
+}
+
+.fill-orange-800 {
+  fill: rgb(139.15, 69.3, 11) !important;
+}
+
+.stroke-orange-800 {
+  stroke: rgb(139.15, 69.3, 11) !important;
+}
+
+.bg-orange-900 {
+  background-color: rgb(101.2, 50.4, 8) !important;
+}
+
+.text-orange-900 {
+  color: rgb(101.2, 50.4, 8) !important;
+}
+
+.decoration-orange-900 {
+  text-decoration-color: rgb(101.2, 50.4, 8) !important;
+}
+
+.border-orange-900 {
+  border-color: rgb(101.2, 50.4, 8) !important;
+}
+
+.outline-orange-900 {
+  outline-color: rgb(101.2, 50.4, 8) !important;
+}
+
+.accent-orange-900 {
+  accent-color: rgb(101.2, 50.4, 8) !important;
+}
+
+.caret-orange-900 {
+  caret-color: rgb(101.2, 50.4, 8) !important;
+}
+
+.fill-orange-900 {
+  fill: rgb(101.2, 50.4, 8) !important;
+}
+
+.stroke-orange-900 {
+  stroke: rgb(101.2, 50.4, 8) !important;
+}
+
+.bg-orange-950 {
+  background-color: rgb(63.25, 31.5, 5) !important;
+}
+
+.text-orange-950 {
+  color: rgb(63.25, 31.5, 5) !important;
+}
+
+.decoration-orange-950 {
+  text-decoration-color: rgb(63.25, 31.5, 5) !important;
+}
+
+.border-orange-950 {
+  border-color: rgb(63.25, 31.5, 5) !important;
+}
+
+.outline-orange-950 {
+  outline-color: rgb(63.25, 31.5, 5) !important;
+}
+
+.accent-orange-950 {
+  accent-color: rgb(63.25, 31.5, 5) !important;
+}
+
+.caret-orange-950 {
+  caret-color: rgb(63.25, 31.5, 5) !important;
+}
+
+.fill-orange-950 {
+  fill: rgb(63.25, 31.5, 5) !important;
+}
+
+.stroke-orange-950 {
+  stroke: rgb(63.25, 31.5, 5) !important;
+}
+
+.bg-gold-50 {
+  background-color: rgb(254, 246.6, 230.6) !important;
+}
+
+.text-gold-50 {
+  color: rgb(254, 246.6, 230.6) !important;
+}
+
+.decoration-gold-50 {
+  text-decoration-color: rgb(254, 246.6, 230.6) !important;
+}
+
+.border-gold-50 {
+  border-color: rgb(254, 246.6, 230.6) !important;
+}
+
+.outline-gold-50 {
+  outline-color: rgb(254, 246.6, 230.6) !important;
+}
+
+.accent-gold-50 {
+  accent-color: rgb(254, 246.6, 230.6) !important;
+}
+
+.caret-gold-50 {
+  caret-color: rgb(254, 246.6, 230.6) !important;
+}
+
+.fill-gold-50 {
+  fill: rgb(254, 246.6, 230.6) !important;
+}
+
+.stroke-gold-50 {
+  stroke: rgb(254, 246.6, 230.6) !important;
+}
+
+.bg-gold-100 {
+  background-color: rgb(252.5, 234, 194) !important;
+}
+
+.text-gold-100 {
+  color: rgb(252.5, 234, 194) !important;
+}
+
+.decoration-gold-100 {
+  text-decoration-color: rgb(252.5, 234, 194) !important;
+}
+
+.border-gold-100 {
+  border-color: rgb(252.5, 234, 194) !important;
+}
+
+.outline-gold-100 {
+  outline-color: rgb(252.5, 234, 194) !important;
+}
+
+.accent-gold-100 {
+  accent-color: rgb(252.5, 234, 194) !important;
+}
+
+.caret-gold-100 {
+  caret-color: rgb(252.5, 234, 194) !important;
+}
+
+.fill-gold-100 {
+  fill: rgb(252.5, 234, 194) !important;
+}
+
+.stroke-gold-100 {
+  stroke: rgb(252.5, 234, 194) !important;
+}
+
+.bg-gold-200 {
+  background-color: rgb(251, 221.4, 157.4) !important;
+}
+
+.text-gold-200 {
+  color: rgb(251, 221.4, 157.4) !important;
+}
+
+.decoration-gold-200 {
+  text-decoration-color: rgb(251, 221.4, 157.4) !important;
+}
+
+.border-gold-200 {
+  border-color: rgb(251, 221.4, 157.4) !important;
+}
+
+.outline-gold-200 {
+  outline-color: rgb(251, 221.4, 157.4) !important;
+}
+
+.accent-gold-200 {
+  accent-color: rgb(251, 221.4, 157.4) !important;
+}
+
+.caret-gold-200 {
+  caret-color: rgb(251, 221.4, 157.4) !important;
+}
+
+.fill-gold-200 {
+  fill: rgb(251, 221.4, 157.4) !important;
+}
+
+.stroke-gold-200 {
+  stroke: rgb(251, 221.4, 157.4) !important;
+}
+
+.bg-gold-300 {
+  background-color: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.text-gold-300 {
+  color: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.decoration-gold-300 {
+  text-decoration-color: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.border-gold-300 {
+  border-color: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.outline-gold-300 {
+  outline-color: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.accent-gold-300 {
+  accent-color: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.caret-gold-300 {
+  caret-color: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.fill-gold-300 {
+  fill: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.stroke-gold-300 {
+  stroke: rgb(249.5, 208.8, 120.8) !important;
+}
+
+.bg-gold-400 {
+  background-color: rgb(248, 196.2, 84.2) !important;
+}
+
+.text-gold-400 {
+  color: rgb(248, 196.2, 84.2) !important;
+}
+
+.decoration-gold-400 {
+  text-decoration-color: rgb(248, 196.2, 84.2) !important;
+}
+
+.border-gold-400 {
+  border-color: rgb(248, 196.2, 84.2) !important;
+}
+
+.outline-gold-400 {
+  outline-color: rgb(248, 196.2, 84.2) !important;
+}
+
+.accent-gold-400 {
+  accent-color: rgb(248, 196.2, 84.2) !important;
+}
+
+.caret-gold-400 {
+  caret-color: rgb(248, 196.2, 84.2) !important;
+}
+
+.fill-gold-400 {
+  fill: rgb(248, 196.2, 84.2) !important;
+}
+
+.stroke-gold-400 {
+  stroke: rgb(248, 196.2, 84.2) !important;
+}
+
+.bg-gold-500 {
+  background-color: #f5ab0b !important;
+}
+
+.text-gold-500 {
+  color: #f5ab0b !important;
+}
+
+.decoration-gold-500 {
+  text-decoration-color: #f5ab0b !important;
+}
+
+.border-gold-500 {
+  border-color: #f5ab0b !important;
+}
+
+.outline-gold-500 {
+  outline-color: #f5ab0b !important;
+}
+
+.accent-gold-500 {
+  accent-color: #f5ab0b !important;
+}
+
+.caret-gold-500 {
+  caret-color: #f5ab0b !important;
+}
+
+.fill-gold-500 {
+  fill: #f5ab0b !important;
+}
+
+.stroke-gold-500 {
+  stroke: #f5ab0b !important;
+}
+
+.bg-gold-600 {
+  background-color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.text-gold-600 {
+  color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.decoration-gold-600 {
+  text-decoration-color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.border-gold-600 {
+  border-color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.outline-gold-600 {
+  outline-color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.accent-gold-600 {
+  accent-color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.caret-gold-600 {
+  caret-color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.fill-gold-600 {
+  fill: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.stroke-gold-600 {
+  stroke: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.bg-gold-700 {
+  background-color: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.text-gold-700 {
+  color: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.decoration-gold-700 {
+  text-decoration-color: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.border-gold-700 {
+  border-color: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.outline-gold-700 {
+  outline-color: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.accent-gold-700 {
+  accent-color: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.caret-gold-700 {
+  caret-color: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.fill-gold-700 {
+  fill: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.stroke-gold-700 {
+  stroke: rgb(171.5, 119.7, 7.7) !important;
+}
+
+.bg-gold-800 {
+  background-color: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.text-gold-800 {
+  color: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.decoration-gold-800 {
+  text-decoration-color: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.border-gold-800 {
+  border-color: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.outline-gold-800 {
+  outline-color: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.accent-gold-800 {
+  accent-color: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.caret-gold-800 {
+  caret-color: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.fill-gold-800 {
+  fill: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.stroke-gold-800 {
+  stroke: rgb(134.75, 94.05, 6.05) !important;
+}
+
+.bg-gold-900 {
+  background-color: rgb(98, 68.4, 4.4) !important;
+}
+
+.text-gold-900 {
+  color: rgb(98, 68.4, 4.4) !important;
+}
+
+.decoration-gold-900 {
+  text-decoration-color: rgb(98, 68.4, 4.4) !important;
+}
+
+.border-gold-900 {
+  border-color: rgb(98, 68.4, 4.4) !important;
+}
+
+.outline-gold-900 {
+  outline-color: rgb(98, 68.4, 4.4) !important;
+}
+
+.accent-gold-900 {
+  accent-color: rgb(98, 68.4, 4.4) !important;
+}
+
+.caret-gold-900 {
+  caret-color: rgb(98, 68.4, 4.4) !important;
+}
+
+.fill-gold-900 {
+  fill: rgb(98, 68.4, 4.4) !important;
+}
+
+.stroke-gold-900 {
+  stroke: rgb(98, 68.4, 4.4) !important;
+}
+
+.bg-gold-950 {
+  background-color: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.text-gold-950 {
+  color: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.decoration-gold-950 {
+  text-decoration-color: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.border-gold-950 {
+  border-color: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.outline-gold-950 {
+  outline-color: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.accent-gold-950 {
+  accent-color: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.caret-gold-950 {
+  caret-color: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.fill-gold-950 {
+  fill: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.stroke-gold-950 {
+  stroke: rgb(61.25, 42.75, 2.75) !important;
+}
+
+.bg-yellow-50 {
+  background-color: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.text-yellow-50 {
+  color: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.decoration-yellow-50 {
+  text-decoration-color: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.border-yellow-50 {
+  border-color: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.outline-yellow-50 {
+  outline-color: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.accent-yellow-50 {
+  accent-color: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.caret-yellow-50 {
+  caret-color: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.fill-yellow-50 {
+  fill: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.stroke-yellow-50 {
+  stroke: rgb(254.2, 250.7, 231.2) !important;
+}
+
+.bg-yellow-100 {
+  background-color: rgb(253, 244.25, 195.5) !important;
+}
+
+.text-yellow-100 {
+  color: rgb(253, 244.25, 195.5) !important;
+}
+
+.decoration-yellow-100 {
+  text-decoration-color: rgb(253, 244.25, 195.5) !important;
+}
+
+.border-yellow-100 {
+  border-color: rgb(253, 244.25, 195.5) !important;
+}
+
+.outline-yellow-100 {
+  outline-color: rgb(253, 244.25, 195.5) !important;
+}
+
+.accent-yellow-100 {
+  accent-color: rgb(253, 244.25, 195.5) !important;
+}
+
+.caret-yellow-100 {
+  caret-color: rgb(253, 244.25, 195.5) !important;
+}
+
+.fill-yellow-100 {
+  fill: rgb(253, 244.25, 195.5) !important;
+}
+
+.stroke-yellow-100 {
+  stroke: rgb(253, 244.25, 195.5) !important;
+}
+
+.bg-yellow-200 {
+  background-color: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.text-yellow-200 {
+  color: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.decoration-yellow-200 {
+  text-decoration-color: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.border-yellow-200 {
+  border-color: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.outline-yellow-200 {
+  outline-color: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.accent-yellow-200 {
+  accent-color: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.caret-yellow-200 {
+  caret-color: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.fill-yellow-200 {
+  fill: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.stroke-yellow-200 {
+  stroke: rgb(251.8, 237.8, 159.8) !important;
+}
+
+.bg-yellow-300 {
+  background-color: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.text-yellow-300 {
+  color: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.decoration-yellow-300 {
+  text-decoration-color: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.border-yellow-300 {
+  border-color: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.outline-yellow-300 {
+  outline-color: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.accent-yellow-300 {
+  accent-color: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.caret-yellow-300 {
+  caret-color: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.fill-yellow-300 {
+  fill: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.stroke-yellow-300 {
+  stroke: rgb(250.6, 231.35, 124.1) !important;
+}
+
+.bg-yellow-400 {
+  background-color: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.text-yellow-400 {
+  color: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.decoration-yellow-400 {
+  text-decoration-color: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.border-yellow-400 {
+  border-color: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.outline-yellow-400 {
+  outline-color: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.accent-yellow-400 {
+  accent-color: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.caret-yellow-400 {
+  caret-color: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.fill-yellow-400 {
+  fill: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.stroke-yellow-400 {
+  stroke: rgb(249.4, 224.9, 88.4) !important;
+}
+
+.bg-yellow-500 {
+  background-color: #f7d411 !important;
+}
+
+.text-yellow-500 {
+  color: #f7d411 !important;
+}
+
+.decoration-yellow-500 {
+  text-decoration-color: #f7d411 !important;
+}
+
+.border-yellow-500 {
+  border-color: #f7d411 !important;
+}
+
+.outline-yellow-500 {
+  outline-color: #f7d411 !important;
+}
+
+.accent-yellow-500 {
+  accent-color: #f7d411 !important;
+}
+
+.caret-yellow-500 {
+  caret-color: #f7d411 !important;
+}
+
+.fill-yellow-500 {
+  fill: #f7d411 !important;
+}
+
+.stroke-yellow-500 {
+  stroke: #f7d411 !important;
+}
+
+.bg-yellow-600 {
+  background-color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.text-yellow-600 {
+  color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.decoration-yellow-600 {
+  text-decoration-color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.border-yellow-600 {
+  border-color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.outline-yellow-600 {
+  outline-color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.accent-yellow-600 {
+  accent-color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.caret-yellow-600 {
+  caret-color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.fill-yellow-600 {
+  fill: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.stroke-yellow-600 {
+  stroke: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.bg-yellow-700 {
+  background-color: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.text-yellow-700 {
+  color: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.decoration-yellow-700 {
+  text-decoration-color: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.border-yellow-700 {
+  border-color: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.outline-yellow-700 {
+  outline-color: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.accent-yellow-700 {
+  accent-color: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.caret-yellow-700 {
+  caret-color: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.fill-yellow-700 {
+  fill: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.stroke-yellow-700 {
+  stroke: rgb(172.9, 148.4, 11.9) !important;
+}
+
+.bg-yellow-800 {
+  background-color: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.text-yellow-800 {
+  color: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.decoration-yellow-800 {
+  text-decoration-color: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.border-yellow-800 {
+  border-color: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.outline-yellow-800 {
+  outline-color: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.accent-yellow-800 {
+  accent-color: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.caret-yellow-800 {
+  caret-color: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.fill-yellow-800 {
+  fill: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.stroke-yellow-800 {
+  stroke: rgb(135.85, 116.6, 9.35) !important;
+}
+
+.bg-yellow-900 {
+  background-color: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.text-yellow-900 {
+  color: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.decoration-yellow-900 {
+  text-decoration-color: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.border-yellow-900 {
+  border-color: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.outline-yellow-900 {
+  outline-color: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.accent-yellow-900 {
+  accent-color: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.caret-yellow-900 {
+  caret-color: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.fill-yellow-900 {
+  fill: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.stroke-yellow-900 {
+  stroke: rgb(98.8, 84.8, 6.8) !important;
+}
+
+.bg-yellow-950 {
+  background-color: rgb(61.75, 53, 4.25) !important;
+}
+
+.text-yellow-950 {
+  color: rgb(61.75, 53, 4.25) !important;
+}
+
+.decoration-yellow-950 {
+  text-decoration-color: rgb(61.75, 53, 4.25) !important;
+}
+
+.border-yellow-950 {
+  border-color: rgb(61.75, 53, 4.25) !important;
+}
+
+.outline-yellow-950 {
+  outline-color: rgb(61.75, 53, 4.25) !important;
+}
+
+.accent-yellow-950 {
+  accent-color: rgb(61.75, 53, 4.25) !important;
+}
+
+.caret-yellow-950 {
+  caret-color: rgb(61.75, 53, 4.25) !important;
+}
+
+.fill-yellow-950 {
+  fill: rgb(61.75, 53, 4.25) !important;
+}
+
+.stroke-yellow-950 {
+  stroke: rgb(61.75, 53, 4.25) !important;
+}
+
+.bg-green-50 {
+  background-color: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.text-green-50 {
+  color: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.decoration-green-50 {
+  text-decoration-color: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.border-green-50 {
+  border-color: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.outline-green-50 {
+  outline-color: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.accent-green-50 {
+  accent-color: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.caret-green-50 {
+  caret-color: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.fill-green-50 {
+  fill: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.stroke-green-50 {
+  stroke: rgb(233.5, 246.2, 236.4) !important;
+}
+
+.bg-green-100 {
+  background-color: rgb(201.25, 233, 208.5) !important;
+}
+
+.text-green-100 {
+  color: rgb(201.25, 233, 208.5) !important;
+}
+
+.decoration-green-100 {
+  text-decoration-color: rgb(201.25, 233, 208.5) !important;
+}
+
+.border-green-100 {
+  border-color: rgb(201.25, 233, 208.5) !important;
+}
+
+.outline-green-100 {
+  outline-color: rgb(201.25, 233, 208.5) !important;
+}
+
+.accent-green-100 {
+  accent-color: rgb(201.25, 233, 208.5) !important;
+}
+
+.caret-green-100 {
+  caret-color: rgb(201.25, 233, 208.5) !important;
+}
+
+.fill-green-100 {
+  fill: rgb(201.25, 233, 208.5) !important;
+}
+
+.stroke-green-100 {
+  stroke: rgb(201.25, 233, 208.5) !important;
+}
+
+.bg-green-200 {
+  background-color: rgb(169, 219.8, 180.6) !important;
+}
+
+.text-green-200 {
+  color: rgb(169, 219.8, 180.6) !important;
+}
+
+.decoration-green-200 {
+  text-decoration-color: rgb(169, 219.8, 180.6) !important;
+}
+
+.border-green-200 {
+  border-color: rgb(169, 219.8, 180.6) !important;
+}
+
+.outline-green-200 {
+  outline-color: rgb(169, 219.8, 180.6) !important;
+}
+
+.accent-green-200 {
+  accent-color: rgb(169, 219.8, 180.6) !important;
+}
+
+.caret-green-200 {
+  caret-color: rgb(169, 219.8, 180.6) !important;
+}
+
+.fill-green-200 {
+  fill: rgb(169, 219.8, 180.6) !important;
+}
+
+.stroke-green-200 {
+  stroke: rgb(169, 219.8, 180.6) !important;
+}
+
+.bg-green-300 {
+  background-color: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.text-green-300 {
+  color: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.decoration-green-300 {
+  text-decoration-color: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.border-green-300 {
+  border-color: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.outline-green-300 {
+  outline-color: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.accent-green-300 {
+  accent-color: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.caret-green-300 {
+  caret-color: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.fill-green-300 {
+  fill: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.stroke-green-300 {
+  stroke: rgb(136.75, 206.6, 152.7) !important;
+}
+
+.bg-green-400 {
+  background-color: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.text-green-400 {
+  color: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.decoration-green-400 {
+  text-decoration-color: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.border-green-400 {
+  border-color: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.outline-green-400 {
+  outline-color: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.accent-green-400 {
+  accent-color: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.caret-green-400 {
+  caret-color: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.fill-green-400 {
+  fill: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.stroke-green-400 {
+  stroke: rgb(104.5, 193.4, 124.8) !important;
+}
+
+.bg-green-500 {
+  background-color: #28a745 !important;
+}
+
+.text-green-500 {
+  color: #28a745 !important;
+}
+
+.decoration-green-500 {
+  text-decoration-color: #28a745 !important;
+}
+
+.border-green-500 {
+  border-color: #28a745 !important;
+}
+
+.outline-green-500 {
+  outline-color: #28a745 !important;
+}
+
+.accent-green-500 {
+  accent-color: #28a745 !important;
+}
+
+.caret-green-500 {
+  caret-color: #28a745 !important;
+}
+
+.fill-green-500 {
+  fill: #28a745 !important;
+}
+
+.stroke-green-500 {
+  stroke: #28a745 !important;
+}
+
+.bg-green-600 {
+  background-color: rgb(34, 141.95, 58.65) !important;
+}
+
+.text-green-600 {
+  color: rgb(34, 141.95, 58.65) !important;
+}
+
+.decoration-green-600 {
+  text-decoration-color: rgb(34, 141.95, 58.65) !important;
+}
+
+.border-green-600 {
+  border-color: rgb(34, 141.95, 58.65) !important;
+}
+
+.outline-green-600 {
+  outline-color: rgb(34, 141.95, 58.65) !important;
+}
+
+.accent-green-600 {
+  accent-color: rgb(34, 141.95, 58.65) !important;
+}
+
+.caret-green-600 {
+  caret-color: rgb(34, 141.95, 58.65) !important;
+}
+
+.fill-green-600 {
+  fill: rgb(34, 141.95, 58.65) !important;
+}
+
+.stroke-green-600 {
+  stroke: rgb(34, 141.95, 58.65) !important;
+}
+
+.bg-green-700 {
+  background-color: rgb(28, 116.9, 48.3) !important;
+}
+
+.text-green-700 {
+  color: rgb(28, 116.9, 48.3) !important;
+}
+
+.decoration-green-700 {
+  text-decoration-color: rgb(28, 116.9, 48.3) !important;
+}
+
+.border-green-700 {
+  border-color: rgb(28, 116.9, 48.3) !important;
+}
+
+.outline-green-700 {
+  outline-color: rgb(28, 116.9, 48.3) !important;
+}
+
+.accent-green-700 {
+  accent-color: rgb(28, 116.9, 48.3) !important;
+}
+
+.caret-green-700 {
+  caret-color: rgb(28, 116.9, 48.3) !important;
+}
+
+.fill-green-700 {
+  fill: rgb(28, 116.9, 48.3) !important;
+}
+
+.stroke-green-700 {
+  stroke: rgb(28, 116.9, 48.3) !important;
+}
+
+.bg-green-800 {
+  background-color: rgb(22, 91.85, 37.95) !important;
+}
+
+.text-green-800 {
+  color: rgb(22, 91.85, 37.95) !important;
+}
+
+.decoration-green-800 {
+  text-decoration-color: rgb(22, 91.85, 37.95) !important;
+}
+
+.border-green-800 {
+  border-color: rgb(22, 91.85, 37.95) !important;
+}
+
+.outline-green-800 {
+  outline-color: rgb(22, 91.85, 37.95) !important;
+}
+
+.accent-green-800 {
+  accent-color: rgb(22, 91.85, 37.95) !important;
+}
+
+.caret-green-800 {
+  caret-color: rgb(22, 91.85, 37.95) !important;
+}
+
+.fill-green-800 {
+  fill: rgb(22, 91.85, 37.95) !important;
+}
+
+.stroke-green-800 {
+  stroke: rgb(22, 91.85, 37.95) !important;
+}
+
+.bg-green-900 {
+  background-color: rgb(16, 66.8, 27.6) !important;
+}
+
+.text-green-900 {
+  color: rgb(16, 66.8, 27.6) !important;
+}
+
+.decoration-green-900 {
+  text-decoration-color: rgb(16, 66.8, 27.6) !important;
+}
+
+.border-green-900 {
+  border-color: rgb(16, 66.8, 27.6) !important;
+}
+
+.outline-green-900 {
+  outline-color: rgb(16, 66.8, 27.6) !important;
+}
+
+.accent-green-900 {
+  accent-color: rgb(16, 66.8, 27.6) !important;
+}
+
+.caret-green-900 {
+  caret-color: rgb(16, 66.8, 27.6) !important;
+}
+
+.fill-green-900 {
+  fill: rgb(16, 66.8, 27.6) !important;
+}
+
+.stroke-green-900 {
+  stroke: rgb(16, 66.8, 27.6) !important;
+}
+
+.bg-green-950 {
+  background-color: rgb(10, 41.75, 17.25) !important;
+}
+
+.text-green-950 {
+  color: rgb(10, 41.75, 17.25) !important;
+}
+
+.decoration-green-950 {
+  text-decoration-color: rgb(10, 41.75, 17.25) !important;
+}
+
+.border-green-950 {
+  border-color: rgb(10, 41.75, 17.25) !important;
+}
+
+.outline-green-950 {
+  outline-color: rgb(10, 41.75, 17.25) !important;
+}
+
+.accent-green-950 {
+  accent-color: rgb(10, 41.75, 17.25) !important;
+}
+
+.caret-green-950 {
+  caret-color: rgb(10, 41.75, 17.25) !important;
+}
+
+.fill-green-950 {
+  fill: rgb(10, 41.75, 17.25) !important;
+}
+
+.stroke-green-950 {
+  stroke: rgb(10, 41.75, 17.25) !important;
+}
+
+.bg-teal-50 {
+  background-color: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.text-teal-50 {
+  color: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.decoration-teal-50 {
+  text-decoration-color: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.border-teal-50 {
+  border-color: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.outline-teal-50 {
+  outline-color: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.accent-teal-50 {
+  accent-color: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.caret-teal-50 {
+  caret-color: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.fill-teal-50 {
+  fill: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.stroke-teal-50 {
+  stroke: rgb(232.7, 249.6, 244.6) !important;
+}
+
+.bg-teal-100 {
+  background-color: rgb(199.25, 241.5, 229) !important;
+}
+
+.text-teal-100 {
+  color: rgb(199.25, 241.5, 229) !important;
+}
+
+.decoration-teal-100 {
+  text-decoration-color: rgb(199.25, 241.5, 229) !important;
+}
+
+.border-teal-100 {
+  border-color: rgb(199.25, 241.5, 229) !important;
+}
+
+.outline-teal-100 {
+  outline-color: rgb(199.25, 241.5, 229) !important;
+}
+
+.accent-teal-100 {
+  accent-color: rgb(199.25, 241.5, 229) !important;
+}
+
+.caret-teal-100 {
+  caret-color: rgb(199.25, 241.5, 229) !important;
+}
+
+.fill-teal-100 {
+  fill: rgb(199.25, 241.5, 229) !important;
+}
+
+.stroke-teal-100 {
+  stroke: rgb(199.25, 241.5, 229) !important;
+}
+
+.bg-teal-200 {
+  background-color: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.text-teal-200 {
+  color: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.decoration-teal-200 {
+  text-decoration-color: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.border-teal-200 {
+  border-color: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.outline-teal-200 {
+  outline-color: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.accent-teal-200 {
+  accent-color: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.caret-teal-200 {
+  caret-color: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.fill-teal-200 {
+  fill: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.stroke-teal-200 {
+  stroke: rgb(165.8, 233.4, 213.4) !important;
+}
+
+.bg-teal-300 {
+  background-color: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.text-teal-300 {
+  color: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.decoration-teal-300 {
+  text-decoration-color: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.border-teal-300 {
+  border-color: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.outline-teal-300 {
+  outline-color: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.accent-teal-300 {
+  accent-color: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.caret-teal-300 {
+  caret-color: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.fill-teal-300 {
+  fill: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.stroke-teal-300 {
+  stroke: rgb(132.35, 225.3, 197.8) !important;
+}
+
+.bg-teal-400 {
+  background-color: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.text-teal-400 {
+  color: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.decoration-teal-400 {
+  text-decoration-color: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.border-teal-400 {
+  border-color: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.outline-teal-400 {
+  outline-color: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.accent-teal-400 {
+  accent-color: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.caret-teal-400 {
+  caret-color: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.fill-teal-400 {
+  fill: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.stroke-teal-400 {
+  stroke: rgb(98.9, 217.2, 182.2) !important;
+}
+
+.bg-teal-500 {
+  background-color: #20c997 !important;
+}
+
+.text-teal-500 {
+  color: #20c997 !important;
+}
+
+.decoration-teal-500 {
+  text-decoration-color: #20c997 !important;
+}
+
+.border-teal-500 {
+  border-color: #20c997 !important;
+}
+
+.outline-teal-500 {
+  outline-color: #20c997 !important;
+}
+
+.accent-teal-500 {
+  accent-color: #20c997 !important;
+}
+
+.caret-teal-500 {
+  caret-color: #20c997 !important;
+}
+
+.fill-teal-500 {
+  fill: #20c997 !important;
+}
+
+.stroke-teal-500 {
+  stroke: #20c997 !important;
+}
+
+.bg-teal-600 {
+  background-color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.text-teal-600 {
+  color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.decoration-teal-600 {
+  text-decoration-color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.border-teal-600 {
+  border-color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.outline-teal-600 {
+  outline-color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.accent-teal-600 {
+  accent-color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.caret-teal-600 {
+  caret-color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.fill-teal-600 {
+  fill: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.stroke-teal-600 {
+  stroke: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.bg-teal-700 {
+  background-color: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.text-teal-700 {
+  color: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.decoration-teal-700 {
+  text-decoration-color: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.border-teal-700 {
+  border-color: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.outline-teal-700 {
+  outline-color: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.accent-teal-700 {
+  accent-color: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.caret-teal-700 {
+  caret-color: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.fill-teal-700 {
+  fill: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.stroke-teal-700 {
+  stroke: rgb(22.4, 140.7, 105.7) !important;
+}
+
+.bg-teal-800 {
+  background-color: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.text-teal-800 {
+  color: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.decoration-teal-800 {
+  text-decoration-color: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.border-teal-800 {
+  border-color: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.outline-teal-800 {
+  outline-color: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.accent-teal-800 {
+  accent-color: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.caret-teal-800 {
+  caret-color: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.fill-teal-800 {
+  fill: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.stroke-teal-800 {
+  stroke: rgb(17.6, 110.55, 83.05) !important;
+}
+
+.bg-teal-900 {
+  background-color: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.text-teal-900 {
+  color: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.decoration-teal-900 {
+  text-decoration-color: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.border-teal-900 {
+  border-color: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.outline-teal-900 {
+  outline-color: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.accent-teal-900 {
+  accent-color: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.caret-teal-900 {
+  caret-color: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.fill-teal-900 {
+  fill: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.stroke-teal-900 {
+  stroke: rgb(12.8, 80.4, 60.4) !important;
+}
+
+.bg-teal-950 {
+  background-color: rgb(8, 50.25, 37.75) !important;
+}
+
+.text-teal-950 {
+  color: rgb(8, 50.25, 37.75) !important;
+}
+
+.decoration-teal-950 {
+  text-decoration-color: rgb(8, 50.25, 37.75) !important;
+}
+
+.border-teal-950 {
+  border-color: rgb(8, 50.25, 37.75) !important;
+}
+
+.outline-teal-950 {
+  outline-color: rgb(8, 50.25, 37.75) !important;
+}
+
+.accent-teal-950 {
+  accent-color: rgb(8, 50.25, 37.75) !important;
+}
+
+.caret-teal-950 {
+  caret-color: rgb(8, 50.25, 37.75) !important;
+}
+
+.fill-teal-950 {
+  fill: rgb(8, 50.25, 37.75) !important;
+}
+
+.stroke-teal-950 {
+  stroke: rgb(8, 50.25, 37.75) !important;
+}
+
+.bg-cyan-50 {
+  background-color: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.text-cyan-50 {
+  color: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.decoration-cyan-50 {
+  text-decoration-color: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.border-cyan-50 {
+  border-color: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.outline-cyan-50 {
+  outline-color: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.accent-cyan-50 {
+  accent-color: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.caret-cyan-50 {
+  caret-color: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.fill-cyan-50 {
+  fill: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.stroke-cyan-50 {
+  stroke: rgb(233.8, 246.9, 248.9) !important;
+}
+
+.bg-cyan-100 {
+  background-color: rgb(202, 234.75, 239.75) !important;
+}
+
+.text-cyan-100 {
+  color: rgb(202, 234.75, 239.75) !important;
+}
+
+.decoration-cyan-100 {
+  text-decoration-color: rgb(202, 234.75, 239.75) !important;
+}
+
+.border-cyan-100 {
+  border-color: rgb(202, 234.75, 239.75) !important;
+}
+
+.outline-cyan-100 {
+  outline-color: rgb(202, 234.75, 239.75) !important;
+}
+
+.accent-cyan-100 {
+  accent-color: rgb(202, 234.75, 239.75) !important;
+}
+
+.caret-cyan-100 {
+  caret-color: rgb(202, 234.75, 239.75) !important;
+}
+
+.fill-cyan-100 {
+  fill: rgb(202, 234.75, 239.75) !important;
+}
+
+.stroke-cyan-100 {
+  stroke: rgb(202, 234.75, 239.75) !important;
+}
+
+.bg-cyan-200 {
+  background-color: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.text-cyan-200 {
+  color: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.decoration-cyan-200 {
+  text-decoration-color: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.border-cyan-200 {
+  border-color: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.outline-cyan-200 {
+  outline-color: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.accent-cyan-200 {
+  accent-color: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.caret-cyan-200 {
+  caret-color: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.fill-cyan-200 {
+  fill: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.stroke-cyan-200 {
+  stroke: rgb(170.2, 222.6, 230.6) !important;
+}
+
+.bg-cyan-300 {
+  background-color: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.text-cyan-300 {
+  color: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.decoration-cyan-300 {
+  text-decoration-color: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.border-cyan-300 {
+  border-color: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.outline-cyan-300 {
+  outline-color: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.accent-cyan-300 {
+  accent-color: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.caret-cyan-300 {
+  caret-color: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.fill-cyan-300 {
+  fill: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.stroke-cyan-300 {
+  stroke: rgb(138.4, 210.45, 221.45) !important;
+}
+
+.bg-cyan-400 {
+  background-color: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.text-cyan-400 {
+  color: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.decoration-cyan-400 {
+  text-decoration-color: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.border-cyan-400 {
+  border-color: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.outline-cyan-400 {
+  outline-color: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.accent-cyan-400 {
+  accent-color: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.caret-cyan-400 {
+  caret-color: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.fill-cyan-400 {
+  fill: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.stroke-cyan-400 {
+  stroke: rgb(106.6, 198.3, 212.3) !important;
+}
+
+.bg-cyan-500 {
+  background-color: #2baec2 !important;
+}
+
+.text-cyan-500 {
+  color: #2baec2 !important;
+}
+
+.decoration-cyan-500 {
+  text-decoration-color: #2baec2 !important;
+}
+
+.border-cyan-500 {
+  border-color: #2baec2 !important;
+}
+
+.outline-cyan-500 {
+  outline-color: #2baec2 !important;
+}
+
+.accent-cyan-500 {
+  accent-color: #2baec2 !important;
+}
+
+.caret-cyan-500 {
+  caret-color: #2baec2 !important;
+}
+
+.fill-cyan-500 {
+  fill: #2baec2 !important;
+}
+
+.stroke-cyan-500 {
+  stroke: #2baec2 !important;
+}
+
+.bg-cyan-600 {
+  background-color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.text-cyan-600 {
+  color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.decoration-cyan-600 {
+  text-decoration-color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.border-cyan-600 {
+  border-color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.outline-cyan-600 {
+  outline-color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.accent-cyan-600 {
+  accent-color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.caret-cyan-600 {
+  caret-color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.fill-cyan-600 {
+  fill: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.stroke-cyan-600 {
+  stroke: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.bg-cyan-700 {
+  background-color: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.text-cyan-700 {
+  color: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.decoration-cyan-700 {
+  text-decoration-color: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.border-cyan-700 {
+  border-color: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.outline-cyan-700 {
+  outline-color: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.accent-cyan-700 {
+  accent-color: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.caret-cyan-700 {
+  caret-color: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.fill-cyan-700 {
+  fill: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.stroke-cyan-700 {
+  stroke: rgb(30.1, 121.8, 135.8) !important;
+}
+
+.bg-cyan-800 {
+  background-color: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.text-cyan-800 {
+  color: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.decoration-cyan-800 {
+  text-decoration-color: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.border-cyan-800 {
+  border-color: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.outline-cyan-800 {
+  outline-color: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.accent-cyan-800 {
+  accent-color: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.caret-cyan-800 {
+  caret-color: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.fill-cyan-800 {
+  fill: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.stroke-cyan-800 {
+  stroke: rgb(23.65, 95.7, 106.7) !important;
+}
+
+.bg-cyan-900 {
+  background-color: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.text-cyan-900 {
+  color: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.decoration-cyan-900 {
+  text-decoration-color: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.border-cyan-900 {
+  border-color: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.outline-cyan-900 {
+  outline-color: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.accent-cyan-900 {
+  accent-color: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.caret-cyan-900 {
+  caret-color: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.fill-cyan-900 {
+  fill: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.stroke-cyan-900 {
+  stroke: rgb(17.2, 69.6, 77.6) !important;
+}
+
+.bg-cyan-950 {
+  background-color: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.text-cyan-950 {
+  color: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.decoration-cyan-950 {
+  text-decoration-color: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.border-cyan-950 {
+  border-color: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.outline-cyan-950 {
+  outline-color: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.accent-cyan-950 {
+  accent-color: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.caret-cyan-950 {
+  caret-color: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.fill-cyan-950 {
+  fill: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.stroke-cyan-950 {
+  stroke: rgb(10.75, 43.5, 48.5) !important;
+}
+
+.bg-sky-50 {
+  background-color: rgb(235.1, 246, 255) !important;
+}
+
+.text-sky-50 {
+  color: rgb(235.1, 246, 255) !important;
+}
+
+.decoration-sky-50 {
+  text-decoration-color: rgb(235.1, 246, 255) !important;
+}
+
+.border-sky-50 {
+  border-color: rgb(235.1, 246, 255) !important;
+}
+
+.outline-sky-50 {
+  outline-color: rgb(235.1, 246, 255) !important;
+}
+
+.accent-sky-50 {
+  accent-color: rgb(235.1, 246, 255) !important;
+}
+
+.caret-sky-50 {
+  caret-color: rgb(235.1, 246, 255) !important;
+}
+
+.fill-sky-50 {
+  fill: rgb(235.1, 246, 255) !important;
+}
+
+.stroke-sky-50 {
+  stroke: rgb(235.1, 246, 255) !important;
+}
+
+.bg-sky-100 {
+  background-color: rgb(205.25, 232.5, 255) !important;
+}
+
+.text-sky-100 {
+  color: rgb(205.25, 232.5, 255) !important;
+}
+
+.decoration-sky-100 {
+  text-decoration-color: rgb(205.25, 232.5, 255) !important;
+}
+
+.border-sky-100 {
+  border-color: rgb(205.25, 232.5, 255) !important;
+}
+
+.outline-sky-100 {
+  outline-color: rgb(205.25, 232.5, 255) !important;
+}
+
+.accent-sky-100 {
+  accent-color: rgb(205.25, 232.5, 255) !important;
+}
+
+.caret-sky-100 {
+  caret-color: rgb(205.25, 232.5, 255) !important;
+}
+
+.fill-sky-100 {
+  fill: rgb(205.25, 232.5, 255) !important;
+}
+
+.stroke-sky-100 {
+  stroke: rgb(205.25, 232.5, 255) !important;
+}
+
+.bg-sky-200 {
+  background-color: rgb(175.4, 219, 255) !important;
+}
+
+.text-sky-200 {
+  color: rgb(175.4, 219, 255) !important;
+}
+
+.decoration-sky-200 {
+  text-decoration-color: rgb(175.4, 219, 255) !important;
+}
+
+.border-sky-200 {
+  border-color: rgb(175.4, 219, 255) !important;
+}
+
+.outline-sky-200 {
+  outline-color: rgb(175.4, 219, 255) !important;
+}
+
+.accent-sky-200 {
+  accent-color: rgb(175.4, 219, 255) !important;
+}
+
+.caret-sky-200 {
+  caret-color: rgb(175.4, 219, 255) !important;
+}
+
+.fill-sky-200 {
+  fill: rgb(175.4, 219, 255) !important;
+}
+
+.stroke-sky-200 {
+  stroke: rgb(175.4, 219, 255) !important;
+}
+
+.bg-sky-300 {
+  background-color: rgb(145.55, 205.5, 255) !important;
+}
+
+.text-sky-300 {
+  color: rgb(145.55, 205.5, 255) !important;
+}
+
+.decoration-sky-300 {
+  text-decoration-color: rgb(145.55, 205.5, 255) !important;
+}
+
+.border-sky-300 {
+  border-color: rgb(145.55, 205.5, 255) !important;
+}
+
+.outline-sky-300 {
+  outline-color: rgb(145.55, 205.5, 255) !important;
+}
+
+.accent-sky-300 {
+  accent-color: rgb(145.55, 205.5, 255) !important;
+}
+
+.caret-sky-300 {
+  caret-color: rgb(145.55, 205.5, 255) !important;
+}
+
+.fill-sky-300 {
+  fill: rgb(145.55, 205.5, 255) !important;
+}
+
+.stroke-sky-300 {
+  stroke: rgb(145.55, 205.5, 255) !important;
+}
+
+.bg-sky-400 {
+  background-color: rgb(115.7, 192, 255) !important;
+}
+
+.text-sky-400 {
+  color: rgb(115.7, 192, 255) !important;
+}
+
+.decoration-sky-400 {
+  text-decoration-color: rgb(115.7, 192, 255) !important;
+}
+
+.border-sky-400 {
+  border-color: rgb(115.7, 192, 255) !important;
+}
+
+.outline-sky-400 {
+  outline-color: rgb(115.7, 192, 255) !important;
+}
+
+.accent-sky-400 {
+  accent-color: rgb(115.7, 192, 255) !important;
+}
+
+.caret-sky-400 {
+  caret-color: rgb(115.7, 192, 255) !important;
+}
+
+.fill-sky-400 {
+  fill: rgb(115.7, 192, 255) !important;
+}
+
+.stroke-sky-400 {
+  stroke: rgb(115.7, 192, 255) !important;
+}
+
+.bg-sky-500 {
+  background-color: #38a5ff !important;
+}
+
+.text-sky-500 {
+  color: #38a5ff !important;
+}
+
+.decoration-sky-500 {
+  text-decoration-color: #38a5ff !important;
+}
+
+.border-sky-500 {
+  border-color: #38a5ff !important;
+}
+
+.outline-sky-500 {
+  outline-color: #38a5ff !important;
+}
+
+.accent-sky-500 {
+  accent-color: #38a5ff !important;
+}
+
+.caret-sky-500 {
+  caret-color: #38a5ff !important;
+}
+
+.fill-sky-500 {
+  fill: #38a5ff !important;
+}
+
+.stroke-sky-500 {
+  stroke: #38a5ff !important;
+}
+
+.bg-sky-600 {
+  background-color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.text-sky-600 {
+  color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.decoration-sky-600 {
+  text-decoration-color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.border-sky-600 {
+  border-color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.outline-sky-600 {
+  outline-color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.accent-sky-600 {
+  accent-color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.caret-sky-600 {
+  caret-color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.fill-sky-600 {
+  fill: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.stroke-sky-600 {
+  stroke: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.bg-sky-700 {
+  background-color: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.text-sky-700 {
+  color: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.decoration-sky-700 {
+  text-decoration-color: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.border-sky-700 {
+  border-color: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.outline-sky-700 {
+  outline-color: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.accent-sky-700 {
+  accent-color: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.caret-sky-700 {
+  caret-color: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.fill-sky-700 {
+  fill: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.stroke-sky-700 {
+  stroke: rgb(39.2, 115.5, 178.5) !important;
+}
+
+.bg-sky-800 {
+  background-color: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.text-sky-800 {
+  color: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.decoration-sky-800 {
+  text-decoration-color: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.border-sky-800 {
+  border-color: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.outline-sky-800 {
+  outline-color: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.accent-sky-800 {
+  accent-color: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.caret-sky-800 {
+  caret-color: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.fill-sky-800 {
+  fill: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.stroke-sky-800 {
+  stroke: rgb(30.8, 90.75, 140.25) !important;
+}
+
+.bg-sky-900 {
+  background-color: rgb(22.4, 66, 102) !important;
+}
+
+.text-sky-900 {
+  color: rgb(22.4, 66, 102) !important;
+}
+
+.decoration-sky-900 {
+  text-decoration-color: rgb(22.4, 66, 102) !important;
+}
+
+.border-sky-900 {
+  border-color: rgb(22.4, 66, 102) !important;
+}
+
+.outline-sky-900 {
+  outline-color: rgb(22.4, 66, 102) !important;
+}
+
+.accent-sky-900 {
+  accent-color: rgb(22.4, 66, 102) !important;
+}
+
+.caret-sky-900 {
+  caret-color: rgb(22.4, 66, 102) !important;
+}
+
+.fill-sky-900 {
+  fill: rgb(22.4, 66, 102) !important;
+}
+
+.stroke-sky-900 {
+  stroke: rgb(22.4, 66, 102) !important;
+}
+
+.bg-sky-950 {
+  background-color: rgb(14, 41.25, 63.75) !important;
+}
+
+.text-sky-950 {
+  color: rgb(14, 41.25, 63.75) !important;
+}
+
+.decoration-sky-950 {
+  text-decoration-color: rgb(14, 41.25, 63.75) !important;
+}
+
+.border-sky-950 {
+  border-color: rgb(14, 41.25, 63.75) !important;
+}
+
+.outline-sky-950 {
+  outline-color: rgb(14, 41.25, 63.75) !important;
+}
+
+.accent-sky-950 {
+  accent-color: rgb(14, 41.25, 63.75) !important;
+}
+
+.caret-sky-950 {
+  caret-color: rgb(14, 41.25, 63.75) !important;
+}
+
+.fill-sky-950 {
+  fill: rgb(14, 41.25, 63.75) !important;
+}
+
+.stroke-sky-950 {
+  stroke: rgb(14, 41.25, 63.75) !important;
+}
+
+.bg-blue-50 {
+  background-color: rgb(229.5, 241.8, 255) !important;
+}
+
+.text-blue-50 {
+  color: rgb(229.5, 241.8, 255) !important;
+}
+
+.decoration-blue-50 {
+  text-decoration-color: rgb(229.5, 241.8, 255) !important;
+}
+
+.border-blue-50 {
+  border-color: rgb(229.5, 241.8, 255) !important;
+}
+
+.outline-blue-50 {
+  outline-color: rgb(229.5, 241.8, 255) !important;
+}
+
+.accent-blue-50 {
+  accent-color: rgb(229.5, 241.8, 255) !important;
+}
+
+.caret-blue-50 {
+  caret-color: rgb(229.5, 241.8, 255) !important;
+}
+
+.fill-blue-50 {
+  fill: rgb(229.5, 241.8, 255) !important;
+}
+
+.stroke-blue-50 {
+  stroke: rgb(229.5, 241.8, 255) !important;
+}
+
+.bg-blue-100 {
+  background-color: rgb(191.25, 222, 255) !important;
+}
+
+.text-blue-100 {
+  color: rgb(191.25, 222, 255) !important;
+}
+
+.decoration-blue-100 {
+  text-decoration-color: rgb(191.25, 222, 255) !important;
+}
+
+.border-blue-100 {
+  border-color: rgb(191.25, 222, 255) !important;
+}
+
+.outline-blue-100 {
+  outline-color: rgb(191.25, 222, 255) !important;
+}
+
+.accent-blue-100 {
+  accent-color: rgb(191.25, 222, 255) !important;
+}
+
+.caret-blue-100 {
+  caret-color: rgb(191.25, 222, 255) !important;
+}
+
+.fill-blue-100 {
+  fill: rgb(191.25, 222, 255) !important;
+}
+
+.stroke-blue-100 {
+  stroke: rgb(191.25, 222, 255) !important;
+}
+
+.bg-blue-200 {
+  background-color: rgb(153, 202.2, 255) !important;
+}
+
+.text-blue-200 {
+  color: rgb(153, 202.2, 255) !important;
+}
+
+.decoration-blue-200 {
+  text-decoration-color: rgb(153, 202.2, 255) !important;
+}
+
+.border-blue-200 {
+  border-color: rgb(153, 202.2, 255) !important;
+}
+
+.outline-blue-200 {
+  outline-color: rgb(153, 202.2, 255) !important;
+}
+
+.accent-blue-200 {
+  accent-color: rgb(153, 202.2, 255) !important;
+}
+
+.caret-blue-200 {
+  caret-color: rgb(153, 202.2, 255) !important;
+}
+
+.fill-blue-200 {
+  fill: rgb(153, 202.2, 255) !important;
+}
+
+.stroke-blue-200 {
+  stroke: rgb(153, 202.2, 255) !important;
+}
+
+.bg-blue-300 {
+  background-color: rgb(114.75, 182.4, 255) !important;
+}
+
+.text-blue-300 {
+  color: rgb(114.75, 182.4, 255) !important;
+}
+
+.decoration-blue-300 {
+  text-decoration-color: rgb(114.75, 182.4, 255) !important;
+}
+
+.border-blue-300 {
+  border-color: rgb(114.75, 182.4, 255) !important;
+}
+
+.outline-blue-300 {
+  outline-color: rgb(114.75, 182.4, 255) !important;
+}
+
+.accent-blue-300 {
+  accent-color: rgb(114.75, 182.4, 255) !important;
+}
+
+.caret-blue-300 {
+  caret-color: rgb(114.75, 182.4, 255) !important;
+}
+
+.fill-blue-300 {
+  fill: rgb(114.75, 182.4, 255) !important;
+}
+
+.stroke-blue-300 {
+  stroke: rgb(114.75, 182.4, 255) !important;
+}
+
+.bg-blue-400 {
+  background-color: rgb(76.5, 162.6, 255) !important;
+}
+
+.text-blue-400 {
+  color: rgb(76.5, 162.6, 255) !important;
+}
+
+.decoration-blue-400 {
+  text-decoration-color: rgb(76.5, 162.6, 255) !important;
+}
+
+.border-blue-400 {
+  border-color: rgb(76.5, 162.6, 255) !important;
+}
+
+.outline-blue-400 {
+  outline-color: rgb(76.5, 162.6, 255) !important;
+}
+
+.accent-blue-400 {
+  accent-color: rgb(76.5, 162.6, 255) !important;
+}
+
+.caret-blue-400 {
+  caret-color: rgb(76.5, 162.6, 255) !important;
+}
+
+.fill-blue-400 {
+  fill: rgb(76.5, 162.6, 255) !important;
+}
+
+.stroke-blue-400 {
+  stroke: rgb(76.5, 162.6, 255) !important;
+}
+
+.bg-blue-500 {
+  background-color: #007bff !important;
+}
+
+.text-blue-500 {
+  color: #007bff !important;
+}
+
+.decoration-blue-500 {
+  text-decoration-color: #007bff !important;
+}
+
+.border-blue-500 {
+  border-color: #007bff !important;
+}
+
+.outline-blue-500 {
+  outline-color: #007bff !important;
+}
+
+.accent-blue-500 {
+  accent-color: #007bff !important;
+}
+
+.caret-blue-500 {
+  caret-color: #007bff !important;
+}
+
+.fill-blue-500 {
+  fill: #007bff !important;
+}
+
+.stroke-blue-500 {
+  stroke: #007bff !important;
+}
+
+.bg-blue-600 {
+  background-color: rgb(0, 104.55, 216.75) !important;
+}
+
+.text-blue-600 {
+  color: rgb(0, 104.55, 216.75) !important;
+}
+
+.decoration-blue-600 {
+  text-decoration-color: rgb(0, 104.55, 216.75) !important;
+}
+
+.border-blue-600 {
+  border-color: rgb(0, 104.55, 216.75) !important;
+}
+
+.outline-blue-600 {
+  outline-color: rgb(0, 104.55, 216.75) !important;
+}
+
+.accent-blue-600 {
+  accent-color: rgb(0, 104.55, 216.75) !important;
+}
+
+.caret-blue-600 {
+  caret-color: rgb(0, 104.55, 216.75) !important;
+}
+
+.fill-blue-600 {
+  fill: rgb(0, 104.55, 216.75) !important;
+}
+
+.stroke-blue-600 {
+  stroke: rgb(0, 104.55, 216.75) !important;
+}
+
+.bg-blue-700 {
+  background-color: rgb(0, 86.1, 178.5) !important;
+}
+
+.text-blue-700 {
+  color: rgb(0, 86.1, 178.5) !important;
+}
+
+.decoration-blue-700 {
+  text-decoration-color: rgb(0, 86.1, 178.5) !important;
+}
+
+.border-blue-700 {
+  border-color: rgb(0, 86.1, 178.5) !important;
+}
+
+.outline-blue-700 {
+  outline-color: rgb(0, 86.1, 178.5) !important;
+}
+
+.accent-blue-700 {
+  accent-color: rgb(0, 86.1, 178.5) !important;
+}
+
+.caret-blue-700 {
+  caret-color: rgb(0, 86.1, 178.5) !important;
+}
+
+.fill-blue-700 {
+  fill: rgb(0, 86.1, 178.5) !important;
+}
+
+.stroke-blue-700 {
+  stroke: rgb(0, 86.1, 178.5) !important;
+}
+
+.bg-blue-800 {
+  background-color: rgb(0, 67.65, 140.25) !important;
+}
+
+.text-blue-800 {
+  color: rgb(0, 67.65, 140.25) !important;
+}
+
+.decoration-blue-800 {
+  text-decoration-color: rgb(0, 67.65, 140.25) !important;
+}
+
+.border-blue-800 {
+  border-color: rgb(0, 67.65, 140.25) !important;
+}
+
+.outline-blue-800 {
+  outline-color: rgb(0, 67.65, 140.25) !important;
+}
+
+.accent-blue-800 {
+  accent-color: rgb(0, 67.65, 140.25) !important;
+}
+
+.caret-blue-800 {
+  caret-color: rgb(0, 67.65, 140.25) !important;
+}
+
+.fill-blue-800 {
+  fill: rgb(0, 67.65, 140.25) !important;
+}
+
+.stroke-blue-800 {
+  stroke: rgb(0, 67.65, 140.25) !important;
+}
+
+.bg-blue-900 {
+  background-color: rgb(0, 49.2, 102) !important;
+}
+
+.text-blue-900 {
+  color: rgb(0, 49.2, 102) !important;
+}
+
+.decoration-blue-900 {
+  text-decoration-color: rgb(0, 49.2, 102) !important;
+}
+
+.border-blue-900 {
+  border-color: rgb(0, 49.2, 102) !important;
+}
+
+.outline-blue-900 {
+  outline-color: rgb(0, 49.2, 102) !important;
+}
+
+.accent-blue-900 {
+  accent-color: rgb(0, 49.2, 102) !important;
+}
+
+.caret-blue-900 {
+  caret-color: rgb(0, 49.2, 102) !important;
+}
+
+.fill-blue-900 {
+  fill: rgb(0, 49.2, 102) !important;
+}
+
+.stroke-blue-900 {
+  stroke: rgb(0, 49.2, 102) !important;
+}
+
+.bg-blue-950 {
+  background-color: rgb(0, 30.75, 63.75) !important;
+}
+
+.text-blue-950 {
+  color: rgb(0, 30.75, 63.75) !important;
+}
+
+.decoration-blue-950 {
+  text-decoration-color: rgb(0, 30.75, 63.75) !important;
+}
+
+.border-blue-950 {
+  border-color: rgb(0, 30.75, 63.75) !important;
+}
+
+.outline-blue-950 {
+  outline-color: rgb(0, 30.75, 63.75) !important;
+}
+
+.accent-blue-950 {
+  accent-color: rgb(0, 30.75, 63.75) !important;
+}
+
+.caret-blue-950 {
+  caret-color: rgb(0, 30.75, 63.75) !important;
+}
+
+.fill-blue-950 {
+  fill: rgb(0, 30.75, 63.75) !important;
+}
+
+.stroke-blue-950 {
+  stroke: rgb(0, 30.75, 63.75) !important;
+}
+
+.bg-royal-50 {
+  background-color: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.text-royal-50 {
+  color: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.decoration-royal-50 {
+  text-decoration-color: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.border-royal-50 {
+  border-color: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.outline-royal-50 {
+  outline-color: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.accent-royal-50 {
+  accent-color: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.caret-royal-50 {
+  caret-color: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.fill-royal-50 {
+  fill: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.stroke-royal-50 {
+  stroke: rgb(239.4, 239.7, 253.6) !important;
+}
+
+.bg-royal-100 {
+  background-color: rgb(216, 216.75, 251.5) !important;
+}
+
+.text-royal-100 {
+  color: rgb(216, 216.75, 251.5) !important;
+}
+
+.decoration-royal-100 {
+  text-decoration-color: rgb(216, 216.75, 251.5) !important;
+}
+
+.border-royal-100 {
+  border-color: rgb(216, 216.75, 251.5) !important;
+}
+
+.outline-royal-100 {
+  outline-color: rgb(216, 216.75, 251.5) !important;
+}
+
+.accent-royal-100 {
+  accent-color: rgb(216, 216.75, 251.5) !important;
+}
+
+.caret-royal-100 {
+  caret-color: rgb(216, 216.75, 251.5) !important;
+}
+
+.fill-royal-100 {
+  fill: rgb(216, 216.75, 251.5) !important;
+}
+
+.stroke-royal-100 {
+  stroke: rgb(216, 216.75, 251.5) !important;
+}
+
+.bg-royal-200 {
+  background-color: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.text-royal-200 {
+  color: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.decoration-royal-200 {
+  text-decoration-color: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.border-royal-200 {
+  border-color: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.outline-royal-200 {
+  outline-color: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.accent-royal-200 {
+  accent-color: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.caret-royal-200 {
+  caret-color: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.fill-royal-200 {
+  fill: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.stroke-royal-200 {
+  stroke: rgb(192.6, 193.8, 249.4) !important;
+}
+
+.bg-royal-300 {
+  background-color: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.text-royal-300 {
+  color: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.decoration-royal-300 {
+  text-decoration-color: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.border-royal-300 {
+  border-color: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.outline-royal-300 {
+  outline-color: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.accent-royal-300 {
+  accent-color: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.caret-royal-300 {
+  caret-color: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.fill-royal-300 {
+  fill: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.stroke-royal-300 {
+  stroke: rgb(169.2, 170.85, 247.3) !important;
+}
+
+.bg-royal-400 {
+  background-color: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.text-royal-400 {
+  color: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.decoration-royal-400 {
+  text-decoration-color: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.border-royal-400 {
+  border-color: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.outline-royal-400 {
+  outline-color: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.accent-royal-400 {
+  accent-color: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.caret-royal-400 {
+  caret-color: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.fill-royal-400 {
+  fill: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.stroke-royal-400 {
+  stroke: rgb(145.8, 147.9, 245.2) !important;
+}
+
+.bg-royal-500 {
+  background-color: #6366f1 !important;
+}
+
+.text-royal-500 {
+  color: #6366f1 !important;
+}
+
+.decoration-royal-500 {
+  text-decoration-color: #6366f1 !important;
+}
+
+.border-royal-500 {
+  border-color: #6366f1 !important;
+}
+
+.outline-royal-500 {
+  outline-color: #6366f1 !important;
+}
+
+.accent-royal-500 {
+  accent-color: #6366f1 !important;
+}
+
+.caret-royal-500 {
+  caret-color: #6366f1 !important;
+}
+
+.fill-royal-500 {
+  fill: #6366f1 !important;
+}
+
+.stroke-royal-500 {
+  stroke: #6366f1 !important;
+}
+
+.bg-royal-600 {
+  background-color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.text-royal-600 {
+  color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.decoration-royal-600 {
+  text-decoration-color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.border-royal-600 {
+  border-color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.outline-royal-600 {
+  outline-color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.accent-royal-600 {
+  accent-color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.caret-royal-600 {
+  caret-color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.fill-royal-600 {
+  fill: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.stroke-royal-600 {
+  stroke: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.bg-royal-700 {
+  background-color: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.text-royal-700 {
+  color: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.decoration-royal-700 {
+  text-decoration-color: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.border-royal-700 {
+  border-color: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.outline-royal-700 {
+  outline-color: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.accent-royal-700 {
+  accent-color: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.caret-royal-700 {
+  caret-color: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.fill-royal-700 {
+  fill: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.stroke-royal-700 {
+  stroke: rgb(69.3, 71.4, 168.7) !important;
+}
+
+.bg-royal-800 {
+  background-color: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.text-royal-800 {
+  color: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.decoration-royal-800 {
+  text-decoration-color: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.border-royal-800 {
+  border-color: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.outline-royal-800 {
+  outline-color: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.accent-royal-800 {
+  accent-color: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.caret-royal-800 {
+  caret-color: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.fill-royal-800 {
+  fill: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.stroke-royal-800 {
+  stroke: rgb(54.45, 56.1, 132.55) !important;
+}
+
+.bg-royal-900 {
+  background-color: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.text-royal-900 {
+  color: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.decoration-royal-900 {
+  text-decoration-color: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.border-royal-900 {
+  border-color: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.outline-royal-900 {
+  outline-color: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.accent-royal-900 {
+  accent-color: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.caret-royal-900 {
+  caret-color: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.fill-royal-900 {
+  fill: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.stroke-royal-900 {
+  stroke: rgb(39.6, 40.8, 96.4) !important;
+}
+
+.bg-royal-950 {
+  background-color: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.text-royal-950 {
+  color: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.decoration-royal-950 {
+  text-decoration-color: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.border-royal-950 {
+  border-color: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.outline-royal-950 {
+  outline-color: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.accent-royal-950 {
+  accent-color: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.caret-royal-950 {
+  caret-color: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.fill-royal-950 {
+  fill: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.stroke-royal-950 {
+  stroke: rgb(24.75, 25.5, 60.25) !important;
+}
+
+.bg-purple-50 {
+  background-color: rgb(246.3, 238, 254.2) !important;
+}
+
+.text-purple-50 {
+  color: rgb(246.3, 238, 254.2) !important;
+}
+
+.decoration-purple-50 {
+  text-decoration-color: rgb(246.3, 238, 254.2) !important;
+}
+
+.border-purple-50 {
+  border-color: rgb(246.3, 238, 254.2) !important;
+}
+
+.outline-purple-50 {
+  outline-color: rgb(246.3, 238, 254.2) !important;
+}
+
+.accent-purple-50 {
+  accent-color: rgb(246.3, 238, 254.2) !important;
+}
+
+.caret-purple-50 {
+  caret-color: rgb(246.3, 238, 254.2) !important;
+}
+
+.fill-purple-50 {
+  fill: rgb(246.3, 238, 254.2) !important;
+}
+
+.stroke-purple-50 {
+  stroke: rgb(246.3, 238, 254.2) !important;
+}
+
+.bg-purple-100 {
+  background-color: rgb(233.25, 212.5, 253) !important;
+}
+
+.text-purple-100 {
+  color: rgb(233.25, 212.5, 253) !important;
+}
+
+.decoration-purple-100 {
+  text-decoration-color: rgb(233.25, 212.5, 253) !important;
+}
+
+.border-purple-100 {
+  border-color: rgb(233.25, 212.5, 253) !important;
+}
+
+.outline-purple-100 {
+  outline-color: rgb(233.25, 212.5, 253) !important;
+}
+
+.accent-purple-100 {
+  accent-color: rgb(233.25, 212.5, 253) !important;
+}
+
+.caret-purple-100 {
+  caret-color: rgb(233.25, 212.5, 253) !important;
+}
+
+.fill-purple-100 {
+  fill: rgb(233.25, 212.5, 253) !important;
+}
+
+.stroke-purple-100 {
+  stroke: rgb(233.25, 212.5, 253) !important;
+}
+
+.bg-purple-200 {
+  background-color: rgb(220.2, 187, 251.8) !important;
+}
+
+.text-purple-200 {
+  color: rgb(220.2, 187, 251.8) !important;
+}
+
+.decoration-purple-200 {
+  text-decoration-color: rgb(220.2, 187, 251.8) !important;
+}
+
+.border-purple-200 {
+  border-color: rgb(220.2, 187, 251.8) !important;
+}
+
+.outline-purple-200 {
+  outline-color: rgb(220.2, 187, 251.8) !important;
+}
+
+.accent-purple-200 {
+  accent-color: rgb(220.2, 187, 251.8) !important;
+}
+
+.caret-purple-200 {
+  caret-color: rgb(220.2, 187, 251.8) !important;
+}
+
+.fill-purple-200 {
+  fill: rgb(220.2, 187, 251.8) !important;
+}
+
+.stroke-purple-200 {
+  stroke: rgb(220.2, 187, 251.8) !important;
+}
+
+.bg-purple-300 {
+  background-color: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.text-purple-300 {
+  color: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.decoration-purple-300 {
+  text-decoration-color: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.border-purple-300 {
+  border-color: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.outline-purple-300 {
+  outline-color: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.accent-purple-300 {
+  accent-color: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.caret-purple-300 {
+  caret-color: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.fill-purple-300 {
+  fill: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.stroke-purple-300 {
+  stroke: rgb(207.15, 161.5, 250.6) !important;
+}
+
+.bg-purple-400 {
+  background-color: rgb(194.1, 136, 249.4) !important;
+}
+
+.text-purple-400 {
+  color: rgb(194.1, 136, 249.4) !important;
+}
+
+.decoration-purple-400 {
+  text-decoration-color: rgb(194.1, 136, 249.4) !important;
+}
+
+.border-purple-400 {
+  border-color: rgb(194.1, 136, 249.4) !important;
+}
+
+.outline-purple-400 {
+  outline-color: rgb(194.1, 136, 249.4) !important;
+}
+
+.accent-purple-400 {
+  accent-color: rgb(194.1, 136, 249.4) !important;
+}
+
+.caret-purple-400 {
+  caret-color: rgb(194.1, 136, 249.4) !important;
+}
+
+.fill-purple-400 {
+  fill: rgb(194.1, 136, 249.4) !important;
+}
+
+.stroke-purple-400 {
+  stroke: rgb(194.1, 136, 249.4) !important;
+}
+
+.bg-purple-500 {
+  background-color: #a855f7 !important;
+}
+
+.text-purple-500 {
+  color: #a855f7 !important;
+}
+
+.decoration-purple-500 {
+  text-decoration-color: #a855f7 !important;
+}
+
+.border-purple-500 {
+  border-color: #a855f7 !important;
+}
+
+.outline-purple-500 {
+  outline-color: #a855f7 !important;
+}
+
+.accent-purple-500 {
+  accent-color: #a855f7 !important;
+}
+
+.caret-purple-500 {
+  caret-color: #a855f7 !important;
+}
+
+.fill-purple-500 {
+  fill: #a855f7 !important;
+}
+
+.stroke-purple-500 {
+  stroke: #a855f7 !important;
+}
+
+.bg-purple-600 {
+  background-color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.text-purple-600 {
+  color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.decoration-purple-600 {
+  text-decoration-color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.border-purple-600 {
+  border-color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.outline-purple-600 {
+  outline-color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.accent-purple-600 {
+  accent-color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.caret-purple-600 {
+  caret-color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.fill-purple-600 {
+  fill: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.stroke-purple-600 {
+  stroke: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.bg-purple-700 {
+  background-color: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.text-purple-700 {
+  color: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.decoration-purple-700 {
+  text-decoration-color: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.border-purple-700 {
+  border-color: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.outline-purple-700 {
+  outline-color: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.accent-purple-700 {
+  accent-color: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.caret-purple-700 {
+  caret-color: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.fill-purple-700 {
+  fill: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.stroke-purple-700 {
+  stroke: rgb(117.6, 59.5, 172.9) !important;
+}
+
+.bg-purple-800 {
+  background-color: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.text-purple-800 {
+  color: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.decoration-purple-800 {
+  text-decoration-color: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.border-purple-800 {
+  border-color: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.outline-purple-800 {
+  outline-color: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.accent-purple-800 {
+  accent-color: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.caret-purple-800 {
+  caret-color: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.fill-purple-800 {
+  fill: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.stroke-purple-800 {
+  stroke: rgb(92.4, 46.75, 135.85) !important;
+}
+
+.bg-purple-900 {
+  background-color: rgb(67.2, 34, 98.8) !important;
+}
+
+.text-purple-900 {
+  color: rgb(67.2, 34, 98.8) !important;
+}
+
+.decoration-purple-900 {
+  text-decoration-color: rgb(67.2, 34, 98.8) !important;
+}
+
+.border-purple-900 {
+  border-color: rgb(67.2, 34, 98.8) !important;
+}
+
+.outline-purple-900 {
+  outline-color: rgb(67.2, 34, 98.8) !important;
+}
+
+.accent-purple-900 {
+  accent-color: rgb(67.2, 34, 98.8) !important;
+}
+
+.caret-purple-900 {
+  caret-color: rgb(67.2, 34, 98.8) !important;
+}
+
+.fill-purple-900 {
+  fill: rgb(67.2, 34, 98.8) !important;
+}
+
+.stroke-purple-900 {
+  stroke: rgb(67.2, 34, 98.8) !important;
+}
+
+.bg-purple-950 {
+  background-color: rgb(42, 21.25, 61.75) !important;
+}
+
+.text-purple-950 {
+  color: rgb(42, 21.25, 61.75) !important;
+}
+
+.decoration-purple-950 {
+  text-decoration-color: rgb(42, 21.25, 61.75) !important;
+}
+
+.border-purple-950 {
+  border-color: rgb(42, 21.25, 61.75) !important;
+}
+
+.outline-purple-950 {
+  outline-color: rgb(42, 21.25, 61.75) !important;
+}
+
+.accent-purple-950 {
+  accent-color: rgb(42, 21.25, 61.75) !important;
+}
+
+.caret-purple-950 {
+  caret-color: rgb(42, 21.25, 61.75) !important;
+}
+
+.fill-purple-950 {
+  fill: rgb(42, 21.25, 61.75) !important;
+}
+
+.stroke-purple-950 {
+  stroke: rgb(42, 21.25, 61.75) !important;
+}
+
+.bg-magenta-50 {
+  background-color: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.text-magenta-50 {
+  color: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.decoration-magenta-50 {
+  text-decoration-color: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.border-magenta-50 {
+  border-color: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.outline-magenta-50 {
+  outline-color: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.accent-magenta-50 {
+  accent-color: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.caret-magenta-50 {
+  caret-color: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.fill-magenta-50 {
+  fill: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.stroke-magenta-50 {
+  stroke: rgb(251.2, 236.5, 253.4) !important;
+}
+
+.bg-magenta-100 {
+  background-color: rgb(245.5, 208.75, 251) !important;
+}
+
+.text-magenta-100 {
+  color: rgb(245.5, 208.75, 251) !important;
+}
+
+.decoration-magenta-100 {
+  text-decoration-color: rgb(245.5, 208.75, 251) !important;
+}
+
+.border-magenta-100 {
+  border-color: rgb(245.5, 208.75, 251) !important;
+}
+
+.outline-magenta-100 {
+  outline-color: rgb(245.5, 208.75, 251) !important;
+}
+
+.accent-magenta-100 {
+  accent-color: rgb(245.5, 208.75, 251) !important;
+}
+
+.caret-magenta-100 {
+  caret-color: rgb(245.5, 208.75, 251) !important;
+}
+
+.fill-magenta-100 {
+  fill: rgb(245.5, 208.75, 251) !important;
+}
+
+.stroke-magenta-100 {
+  stroke: rgb(245.5, 208.75, 251) !important;
+}
+
+.bg-magenta-200 {
+  background-color: rgb(239.8, 181, 248.6) !important;
+}
+
+.text-magenta-200 {
+  color: rgb(239.8, 181, 248.6) !important;
+}
+
+.decoration-magenta-200 {
+  text-decoration-color: rgb(239.8, 181, 248.6) !important;
+}
+
+.border-magenta-200 {
+  border-color: rgb(239.8, 181, 248.6) !important;
+}
+
+.outline-magenta-200 {
+  outline-color: rgb(239.8, 181, 248.6) !important;
+}
+
+.accent-magenta-200 {
+  accent-color: rgb(239.8, 181, 248.6) !important;
+}
+
+.caret-magenta-200 {
+  caret-color: rgb(239.8, 181, 248.6) !important;
+}
+
+.fill-magenta-200 {
+  fill: rgb(239.8, 181, 248.6) !important;
+}
+
+.stroke-magenta-200 {
+  stroke: rgb(239.8, 181, 248.6) !important;
+}
+
+.bg-magenta-300 {
+  background-color: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.text-magenta-300 {
+  color: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.decoration-magenta-300 {
+  text-decoration-color: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.border-magenta-300 {
+  border-color: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.outline-magenta-300 {
+  outline-color: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.accent-magenta-300 {
+  accent-color: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.caret-magenta-300 {
+  caret-color: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.fill-magenta-300 {
+  fill: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.stroke-magenta-300 {
+  stroke: rgb(234.1, 153.25, 246.2) !important;
+}
+
+.bg-magenta-400 {
+  background-color: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.text-magenta-400 {
+  color: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.decoration-magenta-400 {
+  text-decoration-color: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.border-magenta-400 {
+  border-color: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.outline-magenta-400 {
+  outline-color: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.accent-magenta-400 {
+  accent-color: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.caret-magenta-400 {
+  caret-color: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.fill-magenta-400 {
+  fill: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.stroke-magenta-400 {
+  stroke: rgb(228.4, 125.5, 243.8) !important;
+}
+
+.bg-magenta-500 {
+  background-color: #d946ef !important;
+}
+
+.text-magenta-500 {
+  color: #d946ef !important;
+}
+
+.decoration-magenta-500 {
+  text-decoration-color: #d946ef !important;
+}
+
+.border-magenta-500 {
+  border-color: #d946ef !important;
+}
+
+.outline-magenta-500 {
+  outline-color: #d946ef !important;
+}
+
+.accent-magenta-500 {
+  accent-color: #d946ef !important;
+}
+
+.caret-magenta-500 {
+  caret-color: #d946ef !important;
+}
+
+.fill-magenta-500 {
+  fill: #d946ef !important;
+}
+
+.stroke-magenta-500 {
+  stroke: #d946ef !important;
+}
+
+.bg-magenta-600 {
+  background-color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.text-magenta-600 {
+  color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.decoration-magenta-600 {
+  text-decoration-color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.border-magenta-600 {
+  border-color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.outline-magenta-600 {
+  outline-color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.accent-magenta-600 {
+  accent-color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.caret-magenta-600 {
+  caret-color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.fill-magenta-600 {
+  fill: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.stroke-magenta-600 {
+  stroke: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.bg-magenta-700 {
+  background-color: rgb(151.9, 49, 167.3) !important;
+}
+
+.text-magenta-700 {
+  color: rgb(151.9, 49, 167.3) !important;
+}
+
+.decoration-magenta-700 {
+  text-decoration-color: rgb(151.9, 49, 167.3) !important;
+}
+
+.border-magenta-700 {
+  border-color: rgb(151.9, 49, 167.3) !important;
+}
+
+.outline-magenta-700 {
+  outline-color: rgb(151.9, 49, 167.3) !important;
+}
+
+.accent-magenta-700 {
+  accent-color: rgb(151.9, 49, 167.3) !important;
+}
+
+.caret-magenta-700 {
+  caret-color: rgb(151.9, 49, 167.3) !important;
+}
+
+.fill-magenta-700 {
+  fill: rgb(151.9, 49, 167.3) !important;
+}
+
+.stroke-magenta-700 {
+  stroke: rgb(151.9, 49, 167.3) !important;
+}
+
+.bg-magenta-800 {
+  background-color: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.text-magenta-800 {
+  color: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.decoration-magenta-800 {
+  text-decoration-color: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.border-magenta-800 {
+  border-color: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.outline-magenta-800 {
+  outline-color: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.accent-magenta-800 {
+  accent-color: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.caret-magenta-800 {
+  caret-color: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.fill-magenta-800 {
+  fill: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.stroke-magenta-800 {
+  stroke: rgb(119.35, 38.5, 131.45) !important;
+}
+
+.bg-magenta-900 {
+  background-color: rgb(86.8, 28, 95.6) !important;
+}
+
+.text-magenta-900 {
+  color: rgb(86.8, 28, 95.6) !important;
+}
+
+.decoration-magenta-900 {
+  text-decoration-color: rgb(86.8, 28, 95.6) !important;
+}
+
+.border-magenta-900 {
+  border-color: rgb(86.8, 28, 95.6) !important;
+}
+
+.outline-magenta-900 {
+  outline-color: rgb(86.8, 28, 95.6) !important;
+}
+
+.accent-magenta-900 {
+  accent-color: rgb(86.8, 28, 95.6) !important;
+}
+
+.caret-magenta-900 {
+  caret-color: rgb(86.8, 28, 95.6) !important;
+}
+
+.fill-magenta-900 {
+  fill: rgb(86.8, 28, 95.6) !important;
+}
+
+.stroke-magenta-900 {
+  stroke: rgb(86.8, 28, 95.6) !important;
+}
+
+.bg-magenta-950 {
+  background-color: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.text-magenta-950 {
+  color: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.decoration-magenta-950 {
+  text-decoration-color: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.border-magenta-950 {
+  border-color: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.outline-magenta-950 {
+  outline-color: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.accent-magenta-950 {
+  accent-color: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.caret-magenta-950 {
+  caret-color: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.fill-magenta-950 {
+  fill: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.stroke-magenta-950 {
+  stroke: rgb(54.25, 17.5, 59.75) !important;
+}
+
+.bg-pink-50 {
+  background-color: rgb(255, 240.2, 245.2) !important;
+}
+
+.text-pink-50 {
+  color: rgb(255, 240.2, 245.2) !important;
+}
+
+.decoration-pink-50 {
+  text-decoration-color: rgb(255, 240.2, 245.2) !important;
+}
+
+.border-pink-50 {
+  border-color: rgb(255, 240.2, 245.2) !important;
+}
+
+.outline-pink-50 {
+  outline-color: rgb(255, 240.2, 245.2) !important;
+}
+
+.accent-pink-50 {
+  accent-color: rgb(255, 240.2, 245.2) !important;
+}
+
+.caret-pink-50 {
+  caret-color: rgb(255, 240.2, 245.2) !important;
+}
+
+.fill-pink-50 {
+  fill: rgb(255, 240.2, 245.2) !important;
+}
+
+.stroke-pink-50 {
+  stroke: rgb(255, 240.2, 245.2) !important;
+}
+
+.bg-pink-100 {
+  background-color: rgb(255, 218, 230.5) !important;
+}
+
+.text-pink-100 {
+  color: rgb(255, 218, 230.5) !important;
+}
+
+.decoration-pink-100 {
+  text-decoration-color: rgb(255, 218, 230.5) !important;
+}
+
+.border-pink-100 {
+  border-color: rgb(255, 218, 230.5) !important;
+}
+
+.outline-pink-100 {
+  outline-color: rgb(255, 218, 230.5) !important;
+}
+
+.accent-pink-100 {
+  accent-color: rgb(255, 218, 230.5) !important;
+}
+
+.caret-pink-100 {
+  caret-color: rgb(255, 218, 230.5) !important;
+}
+
+.fill-pink-100 {
+  fill: rgb(255, 218, 230.5) !important;
+}
+
+.stroke-pink-100 {
+  stroke: rgb(255, 218, 230.5) !important;
+}
+
+.bg-pink-200 {
+  background-color: rgb(255, 195.8, 215.8) !important;
+}
+
+.text-pink-200 {
+  color: rgb(255, 195.8, 215.8) !important;
+}
+
+.decoration-pink-200 {
+  text-decoration-color: rgb(255, 195.8, 215.8) !important;
+}
+
+.border-pink-200 {
+  border-color: rgb(255, 195.8, 215.8) !important;
+}
+
+.outline-pink-200 {
+  outline-color: rgb(255, 195.8, 215.8) !important;
+}
+
+.accent-pink-200 {
+  accent-color: rgb(255, 195.8, 215.8) !important;
+}
+
+.caret-pink-200 {
+  caret-color: rgb(255, 195.8, 215.8) !important;
+}
+
+.fill-pink-200 {
+  fill: rgb(255, 195.8, 215.8) !important;
+}
+
+.stroke-pink-200 {
+  stroke: rgb(255, 195.8, 215.8) !important;
+}
+
+.bg-pink-300 {
+  background-color: rgb(255, 173.6, 201.1) !important;
+}
+
+.text-pink-300 {
+  color: rgb(255, 173.6, 201.1) !important;
+}
+
+.decoration-pink-300 {
+  text-decoration-color: rgb(255, 173.6, 201.1) !important;
+}
+
+.border-pink-300 {
+  border-color: rgb(255, 173.6, 201.1) !important;
+}
+
+.outline-pink-300 {
+  outline-color: rgb(255, 173.6, 201.1) !important;
+}
+
+.accent-pink-300 {
+  accent-color: rgb(255, 173.6, 201.1) !important;
+}
+
+.caret-pink-300 {
+  caret-color: rgb(255, 173.6, 201.1) !important;
+}
+
+.fill-pink-300 {
+  fill: rgb(255, 173.6, 201.1) !important;
+}
+
+.stroke-pink-300 {
+  stroke: rgb(255, 173.6, 201.1) !important;
+}
+
+.bg-pink-400 {
+  background-color: rgb(255, 151.4, 186.4) !important;
+}
+
+.text-pink-400 {
+  color: rgb(255, 151.4, 186.4) !important;
+}
+
+.decoration-pink-400 {
+  text-decoration-color: rgb(255, 151.4, 186.4) !important;
+}
+
+.border-pink-400 {
+  border-color: rgb(255, 151.4, 186.4) !important;
+}
+
+.outline-pink-400 {
+  outline-color: rgb(255, 151.4, 186.4) !important;
+}
+
+.accent-pink-400 {
+  accent-color: rgb(255, 151.4, 186.4) !important;
+}
+
+.caret-pink-400 {
+  caret-color: rgb(255, 151.4, 186.4) !important;
+}
+
+.fill-pink-400 {
+  fill: rgb(255, 151.4, 186.4) !important;
+}
+
+.stroke-pink-400 {
+  stroke: rgb(255, 151.4, 186.4) !important;
+}
+
+.bg-pink-500 {
+  background-color: #ff6b9d !important;
+}
+
+.text-pink-500 {
+  color: #ff6b9d !important;
+}
+
+.decoration-pink-500 {
+  text-decoration-color: #ff6b9d !important;
+}
+
+.border-pink-500 {
+  border-color: #ff6b9d !important;
+}
+
+.outline-pink-500 {
+  outline-color: #ff6b9d !important;
+}
+
+.accent-pink-500 {
+  accent-color: #ff6b9d !important;
+}
+
+.caret-pink-500 {
+  caret-color: #ff6b9d !important;
+}
+
+.fill-pink-500 {
+  fill: #ff6b9d !important;
+}
+
+.stroke-pink-500 {
+  stroke: #ff6b9d !important;
+}
+
+.bg-pink-600 {
+  background-color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.text-pink-600 {
+  color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.decoration-pink-600 {
+  text-decoration-color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.border-pink-600 {
+  border-color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.outline-pink-600 {
+  outline-color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.accent-pink-600 {
+  accent-color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.caret-pink-600 {
+  caret-color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.fill-pink-600 {
+  fill: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.stroke-pink-600 {
+  stroke: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.bg-pink-700 {
+  background-color: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.text-pink-700 {
+  color: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.decoration-pink-700 {
+  text-decoration-color: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.border-pink-700 {
+  border-color: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.outline-pink-700 {
+  outline-color: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.accent-pink-700 {
+  accent-color: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.caret-pink-700 {
+  caret-color: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.fill-pink-700 {
+  fill: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.stroke-pink-700 {
+  stroke: rgb(178.5, 74.9, 109.9) !important;
+}
+
+.bg-pink-800 {
+  background-color: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.text-pink-800 {
+  color: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.decoration-pink-800 {
+  text-decoration-color: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.border-pink-800 {
+  border-color: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.outline-pink-800 {
+  outline-color: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.accent-pink-800 {
+  accent-color: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.caret-pink-800 {
+  caret-color: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.fill-pink-800 {
+  fill: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.stroke-pink-800 {
+  stroke: rgb(140.25, 58.85, 86.35) !important;
+}
+
+.bg-pink-900 {
+  background-color: rgb(102, 42.8, 62.8) !important;
+}
+
+.text-pink-900 {
+  color: rgb(102, 42.8, 62.8) !important;
+}
+
+.decoration-pink-900 {
+  text-decoration-color: rgb(102, 42.8, 62.8) !important;
+}
+
+.border-pink-900 {
+  border-color: rgb(102, 42.8, 62.8) !important;
+}
+
+.outline-pink-900 {
+  outline-color: rgb(102, 42.8, 62.8) !important;
+}
+
+.accent-pink-900 {
+  accent-color: rgb(102, 42.8, 62.8) !important;
+}
+
+.caret-pink-900 {
+  caret-color: rgb(102, 42.8, 62.8) !important;
+}
+
+.fill-pink-900 {
+  fill: rgb(102, 42.8, 62.8) !important;
+}
+
+.stroke-pink-900 {
+  stroke: rgb(102, 42.8, 62.8) !important;
+}
+
+.bg-pink-950 {
+  background-color: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.text-pink-950 {
+  color: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.decoration-pink-950 {
+  text-decoration-color: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.border-pink-950 {
+  border-color: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.outline-pink-950 {
+  outline-color: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.accent-pink-950 {
+  accent-color: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.caret-pink-950 {
+  caret-color: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.fill-pink-950 {
+  fill: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.stroke-pink-950 {
+  stroke: rgb(63.75, 26.75, 39.25) !important;
+}
+
+.bg-brown-50 {
+  background-color: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.text-brown-50 {
+  color: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.decoration-brown-50 {
+  text-decoration-color: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.border-brown-50 {
+  border-color: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.outline-brown-50 {
+  outline-color: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.accent-brown-50 {
+  accent-color: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.caret-brown-50 {
+  caret-color: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.fill-brown-50 {
+  fill: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.stroke-brown-50 {
+  stroke: rgb(245.5, 240.9, 237.4) !important;
+}
+
+.bg-brown-100 {
+  background-color: rgb(231.25, 219.75, 211) !important;
+}
+
+.text-brown-100 {
+  color: rgb(231.25, 219.75, 211) !important;
+}
+
+.decoration-brown-100 {
+  text-decoration-color: rgb(231.25, 219.75, 211) !important;
+}
+
+.border-brown-100 {
+  border-color: rgb(231.25, 219.75, 211) !important;
+}
+
+.outline-brown-100 {
+  outline-color: rgb(231.25, 219.75, 211) !important;
+}
+
+.accent-brown-100 {
+  accent-color: rgb(231.25, 219.75, 211) !important;
+}
+
+.caret-brown-100 {
+  caret-color: rgb(231.25, 219.75, 211) !important;
+}
+
+.fill-brown-100 {
+  fill: rgb(231.25, 219.75, 211) !important;
+}
+
+.stroke-brown-100 {
+  stroke: rgb(231.25, 219.75, 211) !important;
+}
+
+.bg-brown-200 {
+  background-color: rgb(217, 198.6, 184.6) !important;
+}
+
+.text-brown-200 {
+  color: rgb(217, 198.6, 184.6) !important;
+}
+
+.decoration-brown-200 {
+  text-decoration-color: rgb(217, 198.6, 184.6) !important;
+}
+
+.border-brown-200 {
+  border-color: rgb(217, 198.6, 184.6) !important;
+}
+
+.outline-brown-200 {
+  outline-color: rgb(217, 198.6, 184.6) !important;
+}
+
+.accent-brown-200 {
+  accent-color: rgb(217, 198.6, 184.6) !important;
+}
+
+.caret-brown-200 {
+  caret-color: rgb(217, 198.6, 184.6) !important;
+}
+
+.fill-brown-200 {
+  fill: rgb(217, 198.6, 184.6) !important;
+}
+
+.stroke-brown-200 {
+  stroke: rgb(217, 198.6, 184.6) !important;
+}
+
+.bg-brown-300 {
+  background-color: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.text-brown-300 {
+  color: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.decoration-brown-300 {
+  text-decoration-color: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.border-brown-300 {
+  border-color: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.outline-brown-300 {
+  outline-color: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.accent-brown-300 {
+  accent-color: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.caret-brown-300 {
+  caret-color: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.fill-brown-300 {
+  fill: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.stroke-brown-300 {
+  stroke: rgb(202.75, 177.45, 158.2) !important;
+}
+
+.bg-brown-400 {
+  background-color: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.text-brown-400 {
+  color: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.decoration-brown-400 {
+  text-decoration-color: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.border-brown-400 {
+  border-color: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.outline-brown-400 {
+  outline-color: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.accent-brown-400 {
+  accent-color: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.caret-brown-400 {
+  caret-color: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.fill-brown-400 {
+  fill: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.stroke-brown-400 {
+  stroke: rgb(188.5, 156.3, 131.8) !important;
+}
+
+.bg-brown-500 {
+  background-color: #a0724f !important;
+}
+
+.text-brown-500 {
+  color: #a0724f !important;
+}
+
+.decoration-brown-500 {
+  text-decoration-color: #a0724f !important;
+}
+
+.border-brown-500 {
+  border-color: #a0724f !important;
+}
+
+.outline-brown-500 {
+  outline-color: #a0724f !important;
+}
+
+.accent-brown-500 {
+  accent-color: #a0724f !important;
+}
+
+.caret-brown-500 {
+  caret-color: #a0724f !important;
+}
+
+.fill-brown-500 {
+  fill: #a0724f !important;
+}
+
+.stroke-brown-500 {
+  stroke: #a0724f !important;
+}
+
+.bg-brown-600 {
+  background-color: rgb(136, 96.9, 67.15) !important;
+}
+
+.text-brown-600 {
+  color: rgb(136, 96.9, 67.15) !important;
+}
+
+.decoration-brown-600 {
+  text-decoration-color: rgb(136, 96.9, 67.15) !important;
+}
+
+.border-brown-600 {
+  border-color: rgb(136, 96.9, 67.15) !important;
+}
+
+.outline-brown-600 {
+  outline-color: rgb(136, 96.9, 67.15) !important;
+}
+
+.accent-brown-600 {
+  accent-color: rgb(136, 96.9, 67.15) !important;
+}
+
+.caret-brown-600 {
+  caret-color: rgb(136, 96.9, 67.15) !important;
+}
+
+.fill-brown-600 {
+  fill: rgb(136, 96.9, 67.15) !important;
+}
+
+.stroke-brown-600 {
+  stroke: rgb(136, 96.9, 67.15) !important;
+}
+
+.bg-brown-700 {
+  background-color: rgb(112, 79.8, 55.3) !important;
+}
+
+.text-brown-700 {
+  color: rgb(112, 79.8, 55.3) !important;
+}
+
+.decoration-brown-700 {
+  text-decoration-color: rgb(112, 79.8, 55.3) !important;
+}
+
+.border-brown-700 {
+  border-color: rgb(112, 79.8, 55.3) !important;
+}
+
+.outline-brown-700 {
+  outline-color: rgb(112, 79.8, 55.3) !important;
+}
+
+.accent-brown-700 {
+  accent-color: rgb(112, 79.8, 55.3) !important;
+}
+
+.caret-brown-700 {
+  caret-color: rgb(112, 79.8, 55.3) !important;
+}
+
+.fill-brown-700 {
+  fill: rgb(112, 79.8, 55.3) !important;
+}
+
+.stroke-brown-700 {
+  stroke: rgb(112, 79.8, 55.3) !important;
+}
+
+.bg-brown-800 {
+  background-color: rgb(88, 62.7, 43.45) !important;
+}
+
+.text-brown-800 {
+  color: rgb(88, 62.7, 43.45) !important;
+}
+
+.decoration-brown-800 {
+  text-decoration-color: rgb(88, 62.7, 43.45) !important;
+}
+
+.border-brown-800 {
+  border-color: rgb(88, 62.7, 43.45) !important;
+}
+
+.outline-brown-800 {
+  outline-color: rgb(88, 62.7, 43.45) !important;
+}
+
+.accent-brown-800 {
+  accent-color: rgb(88, 62.7, 43.45) !important;
+}
+
+.caret-brown-800 {
+  caret-color: rgb(88, 62.7, 43.45) !important;
+}
+
+.fill-brown-800 {
+  fill: rgb(88, 62.7, 43.45) !important;
+}
+
+.stroke-brown-800 {
+  stroke: rgb(88, 62.7, 43.45) !important;
+}
+
+.bg-brown-900 {
+  background-color: rgb(64, 45.6, 31.6) !important;
+}
+
+.text-brown-900 {
+  color: rgb(64, 45.6, 31.6) !important;
+}
+
+.decoration-brown-900 {
+  text-decoration-color: rgb(64, 45.6, 31.6) !important;
+}
+
+.border-brown-900 {
+  border-color: rgb(64, 45.6, 31.6) !important;
+}
+
+.outline-brown-900 {
+  outline-color: rgb(64, 45.6, 31.6) !important;
+}
+
+.accent-brown-900 {
+  accent-color: rgb(64, 45.6, 31.6) !important;
+}
+
+.caret-brown-900 {
+  caret-color: rgb(64, 45.6, 31.6) !important;
+}
+
+.fill-brown-900 {
+  fill: rgb(64, 45.6, 31.6) !important;
+}
+
+.stroke-brown-900 {
+  stroke: rgb(64, 45.6, 31.6) !important;
+}
+
+.bg-brown-950 {
+  background-color: rgb(40, 28.5, 19.75) !important;
+}
+
+.text-brown-950 {
+  color: rgb(40, 28.5, 19.75) !important;
+}
+
+.decoration-brown-950 {
+  text-decoration-color: rgb(40, 28.5, 19.75) !important;
+}
+
+.border-brown-950 {
+  border-color: rgb(40, 28.5, 19.75) !important;
+}
+
+.outline-brown-950 {
+  outline-color: rgb(40, 28.5, 19.75) !important;
+}
+
+.accent-brown-950 {
+  accent-color: rgb(40, 28.5, 19.75) !important;
+}
+
+.caret-brown-950 {
+  caret-color: rgb(40, 28.5, 19.75) !important;
+}
+
+.fill-brown-950 {
+  fill: rgb(40, 28.5, 19.75) !important;
+}
+
+.stroke-brown-950 {
+  stroke: rgb(40, 28.5, 19.75) !important;
+}
+
+.bg-stone-50 {
+  background-color: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.text-stone-50 {
+  color: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.decoration-stone-50 {
+  text-decoration-color: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.border-stone-50 {
+  border-color: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.outline-stone-50 {
+  outline-color: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.accent-stone-50 {
+  accent-color: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.caret-stone-50 {
+  caret-color: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.fill-stone-50 {
+  fill: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.stroke-stone-50 {
+  stroke: rgb(243.4, 242.9, 242.3) !important;
+}
+
+.bg-stone-100 {
+  background-color: rgb(226, 224.75, 223.25) !important;
+}
+
+.text-stone-100 {
+  color: rgb(226, 224.75, 223.25) !important;
+}
+
+.decoration-stone-100 {
+  text-decoration-color: rgb(226, 224.75, 223.25) !important;
+}
+
+.border-stone-100 {
+  border-color: rgb(226, 224.75, 223.25) !important;
+}
+
+.outline-stone-100 {
+  outline-color: rgb(226, 224.75, 223.25) !important;
+}
+
+.accent-stone-100 {
+  accent-color: rgb(226, 224.75, 223.25) !important;
+}
+
+.caret-stone-100 {
+  caret-color: rgb(226, 224.75, 223.25) !important;
+}
+
+.fill-stone-100 {
+  fill: rgb(226, 224.75, 223.25) !important;
+}
+
+.stroke-stone-100 {
+  stroke: rgb(226, 224.75, 223.25) !important;
+}
+
+.bg-stone-200 {
+  background-color: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.text-stone-200 {
+  color: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.decoration-stone-200 {
+  text-decoration-color: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.border-stone-200 {
+  border-color: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.outline-stone-200 {
+  outline-color: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.accent-stone-200 {
+  accent-color: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.caret-stone-200 {
+  caret-color: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.fill-stone-200 {
+  fill: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.stroke-stone-200 {
+  stroke: rgb(208.6, 206.6, 204.2) !important;
+}
+
+.bg-stone-300 {
+  background-color: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.text-stone-300 {
+  color: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.decoration-stone-300 {
+  text-decoration-color: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.border-stone-300 {
+  border-color: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.outline-stone-300 {
+  outline-color: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.accent-stone-300 {
+  accent-color: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.caret-stone-300 {
+  caret-color: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.fill-stone-300 {
+  fill: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.stroke-stone-300 {
+  stroke: rgb(191.2, 188.45, 185.15) !important;
+}
+
+.bg-stone-400 {
+  background-color: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.text-stone-400 {
+  color: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.decoration-stone-400 {
+  text-decoration-color: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.border-stone-400 {
+  border-color: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.outline-stone-400 {
+  outline-color: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.accent-stone-400 {
+  accent-color: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.caret-stone-400 {
+  caret-color: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.fill-stone-400 {
+  fill: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.stroke-stone-400 {
+  stroke: rgb(173.8, 170.3, 166.1) !important;
+}
+
+.bg-stone-500 {
+  background-color: #8b8680 !important;
+}
+
+.text-stone-500 {
+  color: #8b8680 !important;
+}
+
+.decoration-stone-500 {
+  text-decoration-color: #8b8680 !important;
+}
+
+.border-stone-500 {
+  border-color: #8b8680 !important;
+}
+
+.outline-stone-500 {
+  outline-color: #8b8680 !important;
+}
+
+.accent-stone-500 {
+  accent-color: #8b8680 !important;
+}
+
+.caret-stone-500 {
+  caret-color: #8b8680 !important;
+}
+
+.fill-stone-500 {
+  fill: #8b8680 !important;
+}
+
+.stroke-stone-500 {
+  stroke: #8b8680 !important;
+}
+
+.bg-stone-600 {
+  background-color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.text-stone-600 {
+  color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.decoration-stone-600 {
+  text-decoration-color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.border-stone-600 {
+  border-color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.outline-stone-600 {
+  outline-color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.accent-stone-600 {
+  accent-color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.caret-stone-600 {
+  caret-color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.fill-stone-600 {
+  fill: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.stroke-stone-600 {
+  stroke: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.bg-stone-700 {
+  background-color: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.text-stone-700 {
+  color: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.decoration-stone-700 {
+  text-decoration-color: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.border-stone-700 {
+  border-color: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.outline-stone-700 {
+  outline-color: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.accent-stone-700 {
+  accent-color: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.caret-stone-700 {
+  caret-color: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.fill-stone-700 {
+  fill: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.stroke-stone-700 {
+  stroke: rgb(97.3, 93.8, 89.6) !important;
+}
+
+.bg-stone-800 {
+  background-color: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.text-stone-800 {
+  color: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.decoration-stone-800 {
+  text-decoration-color: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.border-stone-800 {
+  border-color: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.outline-stone-800 {
+  outline-color: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.accent-stone-800 {
+  accent-color: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.caret-stone-800 {
+  caret-color: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.fill-stone-800 {
+  fill: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.stroke-stone-800 {
+  stroke: rgb(76.45, 73.7, 70.4) !important;
+}
+
+.bg-stone-900 {
+  background-color: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.text-stone-900 {
+  color: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.decoration-stone-900 {
+  text-decoration-color: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.border-stone-900 {
+  border-color: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.outline-stone-900 {
+  outline-color: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.accent-stone-900 {
+  accent-color: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.caret-stone-900 {
+  caret-color: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.fill-stone-900 {
+  fill: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.stroke-stone-900 {
+  stroke: rgb(55.6, 53.6, 51.2) !important;
+}
+
+.bg-stone-950 {
+  background-color: rgb(34.75, 33.5, 32) !important;
+}
+
+.text-stone-950 {
+  color: rgb(34.75, 33.5, 32) !important;
+}
+
+.decoration-stone-950 {
+  text-decoration-color: rgb(34.75, 33.5, 32) !important;
+}
+
+.border-stone-950 {
+  border-color: rgb(34.75, 33.5, 32) !important;
+}
+
+.outline-stone-950 {
+  outline-color: rgb(34.75, 33.5, 32) !important;
+}
+
+.accent-stone-950 {
+  accent-color: rgb(34.75, 33.5, 32) !important;
+}
+
+.caret-stone-950 {
+  caret-color: rgb(34.75, 33.5, 32) !important;
+}
+
+.fill-stone-950 {
+  fill: rgb(34.75, 33.5, 32) !important;
+}
+
+.stroke-stone-950 {
+  stroke: rgb(34.75, 33.5, 32) !important;
+}
+
+.bg-iron-50 {
+  background-color: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.text-iron-50 {
+  color: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.decoration-iron-50 {
+  text-decoration-color: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.border-iron-50 {
+  border-color: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.outline-iron-50 {
+  outline-color: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.accent-iron-50 {
+  accent-color: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.caret-iron-50 {
+  caret-color: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.fill-iron-50 {
+  fill: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.stroke-iron-50 {
+  stroke: rgb(239.5, 241.1, 243.4) !important;
+}
+
+.bg-iron-100 {
+  background-color: rgb(216.25, 220.25, 226) !important;
+}
+
+.text-iron-100 {
+  color: rgb(216.25, 220.25, 226) !important;
+}
+
+.decoration-iron-100 {
+  text-decoration-color: rgb(216.25, 220.25, 226) !important;
+}
+
+.border-iron-100 {
+  border-color: rgb(216.25, 220.25, 226) !important;
+}
+
+.outline-iron-100 {
+  outline-color: rgb(216.25, 220.25, 226) !important;
+}
+
+.accent-iron-100 {
+  accent-color: rgb(216.25, 220.25, 226) !important;
+}
+
+.caret-iron-100 {
+  caret-color: rgb(216.25, 220.25, 226) !important;
+}
+
+.fill-iron-100 {
+  fill: rgb(216.25, 220.25, 226) !important;
+}
+
+.stroke-iron-100 {
+  stroke: rgb(216.25, 220.25, 226) !important;
+}
+
+.bg-iron-200 {
+  background-color: rgb(193, 199.4, 208.6) !important;
+}
+
+.text-iron-200 {
+  color: rgb(193, 199.4, 208.6) !important;
+}
+
+.decoration-iron-200 {
+  text-decoration-color: rgb(193, 199.4, 208.6) !important;
+}
+
+.border-iron-200 {
+  border-color: rgb(193, 199.4, 208.6) !important;
+}
+
+.outline-iron-200 {
+  outline-color: rgb(193, 199.4, 208.6) !important;
+}
+
+.accent-iron-200 {
+  accent-color: rgb(193, 199.4, 208.6) !important;
+}
+
+.caret-iron-200 {
+  caret-color: rgb(193, 199.4, 208.6) !important;
+}
+
+.fill-iron-200 {
+  fill: rgb(193, 199.4, 208.6) !important;
+}
+
+.stroke-iron-200 {
+  stroke: rgb(193, 199.4, 208.6) !important;
+}
+
+.bg-iron-300 {
+  background-color: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.text-iron-300 {
+  color: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.decoration-iron-300 {
+  text-decoration-color: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.border-iron-300 {
+  border-color: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.outline-iron-300 {
+  outline-color: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.accent-iron-300 {
+  accent-color: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.caret-iron-300 {
+  caret-color: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.fill-iron-300 {
+  fill: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.stroke-iron-300 {
+  stroke: rgb(169.75, 178.55, 191.2) !important;
+}
+
+.bg-iron-400 {
+  background-color: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.text-iron-400 {
+  color: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.decoration-iron-400 {
+  text-decoration-color: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.border-iron-400 {
+  border-color: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.outline-iron-400 {
+  outline-color: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.accent-iron-400 {
+  accent-color: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.caret-iron-400 {
+  caret-color: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.fill-iron-400 {
+  fill: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.stroke-iron-400 {
+  stroke: rgb(146.5, 157.7, 173.8) !important;
+}
+
+.bg-iron-500 {
+  background-color: #64748b !important;
+}
+
+.text-iron-500 {
+  color: #64748b !important;
+}
+
+.decoration-iron-500 {
+  text-decoration-color: #64748b !important;
+}
+
+.border-iron-500 {
+  border-color: #64748b !important;
+}
+
+.outline-iron-500 {
+  outline-color: #64748b !important;
+}
+
+.accent-iron-500 {
+  accent-color: #64748b !important;
+}
+
+.caret-iron-500 {
+  caret-color: #64748b !important;
+}
+
+.fill-iron-500 {
+  fill: #64748b !important;
+}
+
+.stroke-iron-500 {
+  stroke: #64748b !important;
+}
+
+.bg-iron-600 {
+  background-color: rgb(85, 98.6, 118.15) !important;
+}
+
+.text-iron-600 {
+  color: rgb(85, 98.6, 118.15) !important;
+}
+
+.decoration-iron-600 {
+  text-decoration-color: rgb(85, 98.6, 118.15) !important;
+}
+
+.border-iron-600 {
+  border-color: rgb(85, 98.6, 118.15) !important;
+}
+
+.outline-iron-600 {
+  outline-color: rgb(85, 98.6, 118.15) !important;
+}
+
+.accent-iron-600 {
+  accent-color: rgb(85, 98.6, 118.15) !important;
+}
+
+.caret-iron-600 {
+  caret-color: rgb(85, 98.6, 118.15) !important;
+}
+
+.fill-iron-600 {
+  fill: rgb(85, 98.6, 118.15) !important;
+}
+
+.stroke-iron-600 {
+  stroke: rgb(85, 98.6, 118.15) !important;
+}
+
+.bg-iron-700 {
+  background-color: rgb(70, 81.2, 97.3) !important;
+}
+
+.text-iron-700 {
+  color: rgb(70, 81.2, 97.3) !important;
+}
+
+.decoration-iron-700 {
+  text-decoration-color: rgb(70, 81.2, 97.3) !important;
+}
+
+.border-iron-700 {
+  border-color: rgb(70, 81.2, 97.3) !important;
+}
+
+.outline-iron-700 {
+  outline-color: rgb(70, 81.2, 97.3) !important;
+}
+
+.accent-iron-700 {
+  accent-color: rgb(70, 81.2, 97.3) !important;
+}
+
+.caret-iron-700 {
+  caret-color: rgb(70, 81.2, 97.3) !important;
+}
+
+.fill-iron-700 {
+  fill: rgb(70, 81.2, 97.3) !important;
+}
+
+.stroke-iron-700 {
+  stroke: rgb(70, 81.2, 97.3) !important;
+}
+
+.bg-iron-800 {
+  background-color: rgb(55, 63.8, 76.45) !important;
+}
+
+.text-iron-800 {
+  color: rgb(55, 63.8, 76.45) !important;
+}
+
+.decoration-iron-800 {
+  text-decoration-color: rgb(55, 63.8, 76.45) !important;
+}
+
+.border-iron-800 {
+  border-color: rgb(55, 63.8, 76.45) !important;
+}
+
+.outline-iron-800 {
+  outline-color: rgb(55, 63.8, 76.45) !important;
+}
+
+.accent-iron-800 {
+  accent-color: rgb(55, 63.8, 76.45) !important;
+}
+
+.caret-iron-800 {
+  caret-color: rgb(55, 63.8, 76.45) !important;
+}
+
+.fill-iron-800 {
+  fill: rgb(55, 63.8, 76.45) !important;
+}
+
+.stroke-iron-800 {
+  stroke: rgb(55, 63.8, 76.45) !important;
+}
+
+.bg-iron-900 {
+  background-color: rgb(40, 46.4, 55.6) !important;
+}
+
+.text-iron-900 {
+  color: rgb(40, 46.4, 55.6) !important;
+}
+
+.decoration-iron-900 {
+  text-decoration-color: rgb(40, 46.4, 55.6) !important;
+}
+
+.border-iron-900 {
+  border-color: rgb(40, 46.4, 55.6) !important;
+}
+
+.outline-iron-900 {
+  outline-color: rgb(40, 46.4, 55.6) !important;
+}
+
+.accent-iron-900 {
+  accent-color: rgb(40, 46.4, 55.6) !important;
+}
+
+.caret-iron-900 {
+  caret-color: rgb(40, 46.4, 55.6) !important;
+}
+
+.fill-iron-900 {
+  fill: rgb(40, 46.4, 55.6) !important;
+}
+
+.stroke-iron-900 {
+  stroke: rgb(40, 46.4, 55.6) !important;
+}
+
+.bg-iron-950 {
+  background-color: rgb(25, 29, 34.75) !important;
+}
+
+.text-iron-950 {
+  color: rgb(25, 29, 34.75) !important;
+}
+
+.decoration-iron-950 {
+  text-decoration-color: rgb(25, 29, 34.75) !important;
+}
+
+.border-iron-950 {
+  border-color: rgb(25, 29, 34.75) !important;
+}
+
+.outline-iron-950 {
+  outline-color: rgb(25, 29, 34.75) !important;
+}
+
+.accent-iron-950 {
+  accent-color: rgb(25, 29, 34.75) !important;
+}
+
+.caret-iron-950 {
+  caret-color: rgb(25, 29, 34.75) !important;
+}
+
+.fill-iron-950 {
+  fill: rgb(25, 29, 34.75) !important;
+}
+
+.stroke-iron-950 {
+  stroke: rgb(25, 29, 34.75) !important;
+}
+
+.bg-navy-50 {
+  background-color: rgb(234.6, 236, 238) !important;
+}
+
+.text-navy-50 {
+  color: rgb(234.6, 236, 238) !important;
+}
+
+.decoration-navy-50 {
+  text-decoration-color: rgb(234.6, 236, 238) !important;
+}
+
+.border-navy-50 {
+  border-color: rgb(234.6, 236, 238) !important;
+}
+
+.outline-navy-50 {
+  outline-color: rgb(234.6, 236, 238) !important;
+}
+
+.accent-navy-50 {
+  accent-color: rgb(234.6, 236, 238) !important;
+}
+
+.caret-navy-50 {
+  caret-color: rgb(234.6, 236, 238) !important;
+}
+
+.fill-navy-50 {
+  fill: rgb(234.6, 236, 238) !important;
+}
+
+.stroke-navy-50 {
+  stroke: rgb(234.6, 236, 238) !important;
+}
+
+.bg-navy-100 {
+  background-color: rgb(204, 207.5, 212.5) !important;
+}
+
+.text-navy-100 {
+  color: rgb(204, 207.5, 212.5) !important;
+}
+
+.decoration-navy-100 {
+  text-decoration-color: rgb(204, 207.5, 212.5) !important;
+}
+
+.border-navy-100 {
+  border-color: rgb(204, 207.5, 212.5) !important;
+}
+
+.outline-navy-100 {
+  outline-color: rgb(204, 207.5, 212.5) !important;
+}
+
+.accent-navy-100 {
+  accent-color: rgb(204, 207.5, 212.5) !important;
+}
+
+.caret-navy-100 {
+  caret-color: rgb(204, 207.5, 212.5) !important;
+}
+
+.fill-navy-100 {
+  fill: rgb(204, 207.5, 212.5) !important;
+}
+
+.stroke-navy-100 {
+  stroke: rgb(204, 207.5, 212.5) !important;
+}
+
+.bg-navy-200 {
+  background-color: rgb(173.4, 179, 187) !important;
+}
+
+.text-navy-200 {
+  color: rgb(173.4, 179, 187) !important;
+}
+
+.decoration-navy-200 {
+  text-decoration-color: rgb(173.4, 179, 187) !important;
+}
+
+.border-navy-200 {
+  border-color: rgb(173.4, 179, 187) !important;
+}
+
+.outline-navy-200 {
+  outline-color: rgb(173.4, 179, 187) !important;
+}
+
+.accent-navy-200 {
+  accent-color: rgb(173.4, 179, 187) !important;
+}
+
+.caret-navy-200 {
+  caret-color: rgb(173.4, 179, 187) !important;
+}
+
+.fill-navy-200 {
+  fill: rgb(173.4, 179, 187) !important;
+}
+
+.stroke-navy-200 {
+  stroke: rgb(173.4, 179, 187) !important;
+}
+
+.bg-navy-300 {
+  background-color: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.text-navy-300 {
+  color: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.decoration-navy-300 {
+  text-decoration-color: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.border-navy-300 {
+  border-color: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.outline-navy-300 {
+  outline-color: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.accent-navy-300 {
+  accent-color: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.caret-navy-300 {
+  caret-color: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.fill-navy-300 {
+  fill: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.stroke-navy-300 {
+  stroke: rgb(142.8, 150.5, 161.5) !important;
+}
+
+.bg-navy-400 {
+  background-color: rgb(112.2, 122, 136) !important;
+}
+
+.text-navy-400 {
+  color: rgb(112.2, 122, 136) !important;
+}
+
+.decoration-navy-400 {
+  text-decoration-color: rgb(112.2, 122, 136) !important;
+}
+
+.border-navy-400 {
+  border-color: rgb(112.2, 122, 136) !important;
+}
+
+.outline-navy-400 {
+  outline-color: rgb(112.2, 122, 136) !important;
+}
+
+.accent-navy-400 {
+  accent-color: rgb(112.2, 122, 136) !important;
+}
+
+.caret-navy-400 {
+  caret-color: rgb(112.2, 122, 136) !important;
+}
+
+.fill-navy-400 {
+  fill: rgb(112.2, 122, 136) !important;
+}
+
+.stroke-navy-400 {
+  stroke: rgb(112.2, 122, 136) !important;
+}
+
+.bg-navy-500 {
+  background-color: #334155 !important;
+}
+
+.text-navy-500 {
+  color: #334155 !important;
+}
+
+.decoration-navy-500 {
+  text-decoration-color: #334155 !important;
+}
+
+.border-navy-500 {
+  border-color: #334155 !important;
+}
+
+.outline-navy-500 {
+  outline-color: #334155 !important;
+}
+
+.accent-navy-500 {
+  accent-color: #334155 !important;
+}
+
+.caret-navy-500 {
+  caret-color: #334155 !important;
+}
+
+.fill-navy-500 {
+  fill: #334155 !important;
+}
+
+.stroke-navy-500 {
+  stroke: #334155 !important;
+}
+
+.bg-navy-600 {
+  background-color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.text-navy-600 {
+  color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.decoration-navy-600 {
+  text-decoration-color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.border-navy-600 {
+  border-color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.outline-navy-600 {
+  outline-color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.accent-navy-600 {
+  accent-color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.caret-navy-600 {
+  caret-color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.fill-navy-600 {
+  fill: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.stroke-navy-600 {
+  stroke: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.bg-navy-700 {
+  background-color: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.text-navy-700 {
+  color: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.decoration-navy-700 {
+  text-decoration-color: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.border-navy-700 {
+  border-color: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.outline-navy-700 {
+  outline-color: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.accent-navy-700 {
+  accent-color: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.caret-navy-700 {
+  caret-color: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.fill-navy-700 {
+  fill: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.stroke-navy-700 {
+  stroke: rgb(35.7, 45.5, 59.5) !important;
+}
+
+.bg-navy-800 {
+  background-color: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.text-navy-800 {
+  color: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.decoration-navy-800 {
+  text-decoration-color: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.border-navy-800 {
+  border-color: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.outline-navy-800 {
+  outline-color: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.accent-navy-800 {
+  accent-color: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.caret-navy-800 {
+  caret-color: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.fill-navy-800 {
+  fill: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.stroke-navy-800 {
+  stroke: rgb(28.05, 35.75, 46.75) !important;
+}
+
+.bg-navy-900 {
+  background-color: rgb(20.4, 26, 34) !important;
+}
+
+.text-navy-900 {
+  color: rgb(20.4, 26, 34) !important;
+}
+
+.decoration-navy-900 {
+  text-decoration-color: rgb(20.4, 26, 34) !important;
+}
+
+.border-navy-900 {
+  border-color: rgb(20.4, 26, 34) !important;
+}
+
+.outline-navy-900 {
+  outline-color: rgb(20.4, 26, 34) !important;
+}
+
+.accent-navy-900 {
+  accent-color: rgb(20.4, 26, 34) !important;
+}
+
+.caret-navy-900 {
+  caret-color: rgb(20.4, 26, 34) !important;
+}
+
+.fill-navy-900 {
+  fill: rgb(20.4, 26, 34) !important;
+}
+
+.stroke-navy-900 {
+  stroke: rgb(20.4, 26, 34) !important;
+}
+
+.bg-navy-950 {
+  background-color: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.text-navy-950 {
+  color: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.decoration-navy-950 {
+  text-decoration-color: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.border-navy-950 {
+  border-color: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.outline-navy-950 {
+  outline-color: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.accent-navy-950 {
+  accent-color: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.caret-navy-950 {
+  caret-color: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.fill-navy-950 {
+  fill: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.stroke-navy-950 {
+  stroke: rgb(12.75, 16.25, 21.25) !important;
+}
+
+.bg-gray-50 {
+  background-color: #fcfcfc !important;
+}
+
+.text-gray-50 {
+  color: #fcfcfc !important;
+}
+
+.decoration-gray-50 {
+  text-decoration-color: #fcfcfc !important;
+}
+
+.border-gray-50 {
+  border-color: #fcfcfc !important;
+}
+
+.outline-gray-50 {
+  outline-color: #fcfcfc !important;
+}
+
+.accent-gray-50 {
+  accent-color: #fcfcfc !important;
+}
+
+.caret-gray-50 {
+  caret-color: #fcfcfc !important;
+}
+
+.fill-gray-50 {
+  fill: #fcfcfc !important;
+}
+
+.stroke-gray-50 {
+  stroke: #fcfcfc !important;
+}
+
+.bg-gray-100 {
+  background-color: #f7f7f7 !important;
+}
+
+.text-gray-100 {
+  color: #f7f7f7 !important;
+}
+
+.decoration-gray-100 {
+  text-decoration-color: #f7f7f7 !important;
+}
+
+.border-gray-100 {
+  border-color: #f7f7f7 !important;
+}
+
+.outline-gray-100 {
+  outline-color: #f7f7f7 !important;
+}
+
+.accent-gray-100 {
+  accent-color: #f7f7f7 !important;
+}
+
+.caret-gray-100 {
+  caret-color: #f7f7f7 !important;
+}
+
+.fill-gray-100 {
+  fill: #f7f7f7 !important;
+}
+
+.stroke-gray-100 {
+  stroke: #f7f7f7 !important;
+}
+
+.bg-gray-200 {
+  background-color: #eeeeee !important;
+}
+
+.text-gray-200 {
+  color: #eeeeee !important;
+}
+
+.decoration-gray-200 {
+  text-decoration-color: #eeeeee !important;
+}
+
+.border-gray-200 {
+  border-color: #eeeeee !important;
+}
+
+.outline-gray-200 {
+  outline-color: #eeeeee !important;
+}
+
+.accent-gray-200 {
+  accent-color: #eeeeee !important;
+}
+
+.caret-gray-200 {
+  caret-color: #eeeeee !important;
+}
+
+.fill-gray-200 {
+  fill: #eeeeee !important;
+}
+
+.stroke-gray-200 {
+  stroke: #eeeeee !important;
+}
+
+.bg-gray-300 {
+  background-color: #e0e0e0 !important;
+}
+
+.text-gray-300 {
+  color: #e0e0e0 !important;
+}
+
+.decoration-gray-300 {
+  text-decoration-color: #e0e0e0 !important;
+}
+
+.border-gray-300 {
+  border-color: #e0e0e0 !important;
+}
+
+.outline-gray-300 {
+  outline-color: #e0e0e0 !important;
+}
+
+.accent-gray-300 {
+  accent-color: #e0e0e0 !important;
+}
+
+.caret-gray-300 {
+  caret-color: #e0e0e0 !important;
+}
+
+.fill-gray-300 {
+  fill: #e0e0e0 !important;
+}
+
+.stroke-gray-300 {
+  stroke: #e0e0e0 !important;
+}
+
+.bg-gray-400 {
+  background-color: #bdbdbd !important;
+}
+
+.text-gray-400 {
+  color: #bdbdbd !important;
+}
+
+.decoration-gray-400 {
+  text-decoration-color: #bdbdbd !important;
+}
+
+.border-gray-400 {
+  border-color: #bdbdbd !important;
+}
+
+.outline-gray-400 {
+  outline-color: #bdbdbd !important;
+}
+
+.accent-gray-400 {
+  accent-color: #bdbdbd !important;
+}
+
+.caret-gray-400 {
+  caret-color: #bdbdbd !important;
+}
+
+.fill-gray-400 {
+  fill: #bdbdbd !important;
+}
+
+.stroke-gray-400 {
+  stroke: #bdbdbd !important;
+}
+
+.bg-gray-500 {
+  background-color: #9e9e9e !important;
+}
+
+.text-gray-500 {
+  color: #9e9e9e !important;
+}
+
+.decoration-gray-500 {
+  text-decoration-color: #9e9e9e !important;
+}
+
+.border-gray-500 {
+  border-color: #9e9e9e !important;
+}
+
+.outline-gray-500 {
+  outline-color: #9e9e9e !important;
+}
+
+.accent-gray-500 {
+  accent-color: #9e9e9e !important;
+}
+
+.caret-gray-500 {
+  caret-color: #9e9e9e !important;
+}
+
+.fill-gray-500 {
+  fill: #9e9e9e !important;
+}
+
+.stroke-gray-500 {
+  stroke: #9e9e9e !important;
+}
+
+.bg-gray-600 {
+  background-color: #757575 !important;
+}
+
+.text-gray-600 {
+  color: #757575 !important;
+}
+
+.decoration-gray-600 {
+  text-decoration-color: #757575 !important;
+}
+
+.border-gray-600 {
+  border-color: #757575 !important;
+}
+
+.outline-gray-600 {
+  outline-color: #757575 !important;
+}
+
+.accent-gray-600 {
+  accent-color: #757575 !important;
+}
+
+.caret-gray-600 {
+  caret-color: #757575 !important;
+}
+
+.fill-gray-600 {
+  fill: #757575 !important;
+}
+
+.stroke-gray-600 {
+  stroke: #757575 !important;
+}
+
+.bg-gray-700 {
+  background-color: #616161 !important;
+}
+
+.text-gray-700 {
+  color: #616161 !important;
+}
+
+.decoration-gray-700 {
+  text-decoration-color: #616161 !important;
+}
+
+.border-gray-700 {
+  border-color: #616161 !important;
+}
+
+.outline-gray-700 {
+  outline-color: #616161 !important;
+}
+
+.accent-gray-700 {
+  accent-color: #616161 !important;
+}
+
+.caret-gray-700 {
+  caret-color: #616161 !important;
+}
+
+.fill-gray-700 {
+  fill: #616161 !important;
+}
+
+.stroke-gray-700 {
+  stroke: #616161 !important;
+}
+
+.bg-gray-800 {
+  background-color: #424242 !important;
+}
+
+.text-gray-800 {
+  color: #424242 !important;
+}
+
+.decoration-gray-800 {
+  text-decoration-color: #424242 !important;
+}
+
+.border-gray-800 {
+  border-color: #424242 !important;
+}
+
+.outline-gray-800 {
+  outline-color: #424242 !important;
+}
+
+.accent-gray-800 {
+  accent-color: #424242 !important;
+}
+
+.caret-gray-800 {
+  caret-color: #424242 !important;
+}
+
+.fill-gray-800 {
+  fill: #424242 !important;
+}
+
+.stroke-gray-800 {
+  stroke: #424242 !important;
+}
+
+.bg-gray-900 {
+  background-color: #212121 !important;
+}
+
+.text-gray-900 {
+  color: #212121 !important;
+}
+
+.decoration-gray-900 {
+  text-decoration-color: #212121 !important;
+}
+
+.border-gray-900 {
+  border-color: #212121 !important;
+}
+
+.outline-gray-900 {
+  outline-color: #212121 !important;
+}
+
+.accent-gray-900 {
+  accent-color: #212121 !important;
+}
+
+.caret-gray-900 {
+  caret-color: #212121 !important;
+}
+
+.fill-gray-900 {
+  fill: #212121 !important;
+}
+
+.stroke-gray-900 {
+  stroke: #212121 !important;
+}
+
+.bg-gray-950 {
+  background-color: #121212 !important;
+}
+
+.text-gray-950 {
+  color: #121212 !important;
+}
+
+.decoration-gray-950 {
+  text-decoration-color: #121212 !important;
+}
+
+.border-gray-950 {
+  border-color: #121212 !important;
+}
+
+.outline-gray-950 {
+  outline-color: #121212 !important;
+}
+
+.accent-gray-950 {
+  accent-color: #121212 !important;
+}
+
+.caret-gray-950 {
+  caret-color: #121212 !important;
+}
+
+.fill-gray-950 {
+  fill: #121212 !important;
+}
+
+.stroke-gray-950 {
+  stroke: #121212 !important;
+}
+
+.bg-white {
+  background-color: #ffffff !important;
+}
+
+.text-white {
+  color: #ffffff !important;
+}
+
+.decoration-white {
+  text-decoration-color: #ffffff !important;
+}
+
+.border-white {
+  border-color: #ffffff !important;
+}
+
+.outline-white {
+  outline-color: #ffffff !important;
+}
+
+.accent-white {
+  accent-color: #ffffff !important;
+}
+
+.caret-white {
+  caret-color: #ffffff !important;
+}
+
+.fill-white {
+  fill: #ffffff !important;
+}
+
+.stroke-white {
+  stroke: #ffffff !important;
+}
+
+.bg-black {
+  background-color: #000000 !important;
+}
+
+.text-black {
+  color: #000000 !important;
+}
+
+.decoration-black {
+  text-decoration-color: #000000 !important;
+}
+
+.border-black {
+  border-color: #000000 !important;
+}
+
+.outline-black {
+  outline-color: #000000 !important;
+}
+
+.accent-black {
+  accent-color: #000000 !important;
+}
+
+.caret-black {
+  caret-color: #000000 !important;
+}
+
+.fill-black {
+  fill: #000000 !important;
+}
+
+.stroke-black {
+  stroke: #000000 !important;
+}
+
 html {
   box-sizing: border-box;
   font-size: 16px;
@@ -323,7 +7919,7 @@ details {
   width: fit-content;
   font-size: 16px;
   color: #fd7e14;
-  transition: inherit;
+  transition: color ease-in-out 200ms;
 }
 .card-link:hover {
   color: rgb(253.6, 164.7, 90.5);

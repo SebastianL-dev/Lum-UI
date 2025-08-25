@@ -1,0 +1,6 @@
+@use "../abstracts/variables/colors" as *;
+@use "../abstracts/mixins" as *;
+
+// Use generator mixin to render all utility classes
+@include generateMainColorClasses($colors);
+@include generateBasicColorClasses($basicColors);
