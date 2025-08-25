@@ -1,9 +1,11 @@
+@use "sass:color";
+
 // Get lighter colors
 @function lighter($color, $percentage) {
-  @return mix(white, $color, $percentage);
+  @return color.mix(white, $color, $percentage);
 }
 
 // Get darker colors
 @function darker($color, $percentage) {
-  @return mix(black, $color, $percentage);
+  @return color.mix(black, $color, $percentage);
 }
