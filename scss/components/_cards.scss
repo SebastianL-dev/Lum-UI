@@ -2,8 +2,6 @@
 @use "../abstracts/variables/typography" as *;
 @use "../abstracts/variables/colors" as *;
 
-// TODO: Make the card customizable. Allow users to edit link, background, and text colors, borders and scale transitions etc.
-
 .card {
   background-color: $gray-100;
   border-radius: $small-size-base;
@@ -27,7 +25,7 @@
     flex-grow: 1;
   }
 
-  &-links {
+  &-footer {
     display: flex;
     column-gap: $small-size-base;
     row-gap: $small-size-4xs;
@@ -58,19 +56,5 @@
     height: fit-content;
     padding: $small-size-3xs;
     font-size: $small-size-2xl;
-  }
-
-  &-link {
-    display: flex;
-    align-items: center;
-    font-weight: 500;
-    width: fit-content;
-    font-size: $small-size-base;
-    color: $orange-500;
-    transition: color ease-in-out 200ms;
-
-    &:hover {
-      color: $orange-400;
-    }
   }
 }
