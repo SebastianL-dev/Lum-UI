@@ -81,3 +81,15 @@
     }
   }
 }
+
+@mixin generateLinkColors($colors) {
+  @each $colorName, $values in $colors {
+    .link-#{$colorName} {
+      color: map-get($values, base) !important;
+
+      &:hover {
+        color: map-get($values, hover) !important;
+      }
+    }
+  }
+}
