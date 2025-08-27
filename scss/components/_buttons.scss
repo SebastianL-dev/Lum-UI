@@ -1,0 +1,19 @@
+@use "../abstracts/variables/sizes" as *;
+@use "../abstracts/variables/typography" as *;
+@use "../abstracts/variables/colors" as *;
+
+.button {
+  background-color: $orange-400;
+  padding-right: $small-size-xl;
+  padding-left: $small-size-xl;
+  padding-top: $small-size-3xs;
+  padding-bottom: $small-size-3xs;
+  font-weight: $font-weight-bold;
+  color: $white;
+  border-radius: 9999px;
+  transition: background 200ms ease-in-out;
+
+  &:hover {
+    background-color: $orange-500;
+  }
+}
