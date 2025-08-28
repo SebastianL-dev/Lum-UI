@@ -3,17 +3,18 @@
 @use "../abstracts/variables/colors" as *;
 
 .button {
-  background-color: $orange-400;
+  background-color: $gray-200;
   padding-right: $small-size-xl;
   padding-left: $small-size-xl;
   padding-top: $small-size-3xs;
   padding-bottom: $small-size-3xs;
-  font-weight: $font-weight-bold;
-  color: $white;
+  font-weight: $font-weight-semibold;
+  color: $gray-950;
+  width: fit-content;
   border-radius: 9999px;
   transition: background 200ms ease-in-out;
 
   &:hover {
-    background-color: $orange-500;
+    background-color: $gray-300;
   }
 }
