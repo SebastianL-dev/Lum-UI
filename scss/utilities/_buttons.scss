@@ -1,0 +1,5 @@
+@use "../abstracts/variables/colors" as *;
+@use "../abstracts/mixins" as *;
+
+// Create all link color classes
+@include generateButtonColors($buttonColors);

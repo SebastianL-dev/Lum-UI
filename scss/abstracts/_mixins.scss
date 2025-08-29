@@ -96,3 +96,17 @@
     }
   }
 }
+
+// Generate utility classes for button
+@mixin generateButtonColors($colors) {
+  @each $colorName, $values in $colors {
+    .button-#{$colorName} {
+      background-color: map.get($values, base) !important;
+      color: map.get($values, text) !important;
+
+      &:hover {
+        background-color: map.get($values, hover) !important;
+      }
+    }
+  }
+}
