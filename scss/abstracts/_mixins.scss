@@ -121,6 +121,16 @@
         color: map.get($values, 500) !important;
       }
     }
+
+    .button-#{$colorName}.colored {
+      background-color: rgba(map.get($values, 500), 0.2) !important;
+      color: map.get($values, 500) !important;
+      transition: color ease-in-out 200ms, background ease-in 200ms !important;
+
+      &:hover {
+        background-color: rgba(map.get($values, 500), 0.3) !important;
+      }
+    }
   }
 
   @if $grayWhiteColors != null {
