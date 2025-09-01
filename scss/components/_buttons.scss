@@ -9,12 +9,29 @@
   padding-top: $small-size-3xs;
   padding-bottom: $small-size-3xs;
   font-weight: $font-weight-semibold;
-  color: $gray-950;
   width: fit-content;
   border-radius: 9999px;
   transition: background 200ms ease-in-out;
+  border: solid transparent 0px;
 
   &:hover {
     background-color: $gray-300;
   }
+}
+
+.button.outlined {
+  background-color: transparent;
+  color: $gray-200;
+  border: solid $gray-200 2px;
+  font-weight: bold;
+  transition: color ease-in-out 200ms, border ease-in 200ms;
+
+  &:hover {
+    border-color: $gray-300;
+    color: $gray-300;
+  }
+}
+
+.button.squared {
+  border-radius: 0.75rem;
 }
