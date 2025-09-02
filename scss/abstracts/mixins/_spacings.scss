@@ -1,0 +1,67 @@
+@mixin generateSpacing($map) {
+  @each $name, $size in $map {
+    .m-#{$name} {
+      margin: $size !important;
+    }
+
+    .mt-#{$name} {
+      margin-top: $size !important;
+    }
+
+    .mr-#{$name} {
+      margin-right: $size !important;
+    }
+
+    .mb-#{$name} {
+      margin-bottom: $size !important;
+    }
+
+    .ml-#{$name} {
+      margin-left: $size !important;
+    }
+
+    .mx-#{$name} {
+      margin-left: $size !important;
+      margin-right: $size !important;
+    }
+
+    .my-#{$name} {
+      margin-top: $size !important;
+      margin-bottom: $size !important;
+    }
+
+    .p-#{$name} {
+      padding: $size !important;
+    }
+
+    .pt-#{$name} {
+      padding-top: $size !important;
+    }
+
+    .pr-#{$name} {
+      padding-right: $size !important;
+    }
+
+    .pb-#{$name} {
+      padding-bottom: $size !important;
+    }
+
+    .pl-#{$name} {
+      padding-left: $size !important;
+    }
+
+    .px-#{$name} {
+      padding-left: $size !important;
+      padding-right: $size !important;
+    }
+
+    .py-#{$name} {
+      padding-top: $size !important;
+      padding-bottom: $size !important;
+    }
+
+    .gap-#{$name} {
+      gap: $size !important;
+    }
+  }
+}

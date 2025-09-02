@@ -1,0 +1,7 @@
+@mixin generateTextSizes($map) {
+  @each $name, $size in $map {
+    .text-#{$name} {
+      font-size: $size !important;
+    }
+  }
+}
