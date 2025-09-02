@@ -1,6 +1,6 @@
-@use "../abstracts/variables/colors" as *;
-@use "../abstracts/mixins" as *;
+@use "../abstracts/variables/colors" as vars;
+@use "../abstracts/mixins" as m;
 
 // Create all color basic classes
-@include generateMainColorClasses($colors);
-@include generateBasicColorClasses($basicColors);
+@include m.generateMainColorClasses(vars.$colors);
+@include m.generateBasicColorClasses(vars.$basicColors);
