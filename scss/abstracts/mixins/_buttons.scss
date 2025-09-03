@@ -1,11 +1,16 @@
 @use "sass:map";
+@use "sass:color";
 
 // Generate utility classes for button
 @mixin generateButtonColors($colors, $grayWhiteColors: null) {
   @each $colorName, $values in $colors {
     .button-#{$colorName} {
       background-color: map.get($values, 400) !important;
-      color: if(lightness(map.get($values, 400)) > 50%, #121212, #fcfcfc);
+      color: if(
+        color.channel(map.get($values, 400), "lightness", $space: hsl) > 50%,
+        #121212,
+        #fcfcfc
+      );
 
       &:hover {
         background-color: map.get($values, 500) !important;
@@ -40,7 +45,11 @@
     @each $colorName, $values in $grayWhiteColors {
       .button-#{$colorName} {
         background-color: map.get($values, base) !important;
-        color: if(lightness(map.get($values, base)) > 50%, #121212, #fcfcfc);
+        color: if(
+          color.channel(map.get($values, base), "lightness", $space: hsl) > 50%,
+          #121212,
+          #fcfcfc
+        );
 
         &:hover {
           background-color: map.get($values, hover) !important;
