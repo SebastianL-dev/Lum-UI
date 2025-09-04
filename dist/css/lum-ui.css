@@ -7598,133 +7598,147 @@
   color: rgb(236.52, 80.98, 96.38) !important;
 }
 .link-red:hover {
-  color: #e71d31 !important;
+  color: rgb(196.35, 24.65, 41.65) !important;
 }
 
 .link-cherry {
   color: rgb(246.53, 107.16, 131.03) !important;
 }
 .link-cherry:hover {
-  color: #f43f5e !important;
+  color: rgb(207.4, 53.55, 79.9) !important;
 }
 
 .link-orange {
   color: rgb(253.46, 155.67, 74.05) !important;
 }
 .link-orange:hover {
-  color: #fd7e14 !important;
+  color: rgb(215.05, 107.1, 17) !important;
 }
 
 .link-gold {
   color: rgb(247.3, 190.32, 67.12) !important;
 }
 .link-gold:hover {
-  color: #f5ab0b !important;
+  color: rgb(208.25, 145.35, 9.35) !important;
 }
 
 .link-yellow {
   color: rgb(248.84, 221.89, 71.74) !important;
 }
 .link-yellow:hover {
-  color: #f7d411 !important;
+  color: rgb(209.95, 180.2, 14.45) !important;
 }
 
 .link-green {
   color: rgb(89.45, 187.24, 111.78) !important;
 }
 .link-green:hover {
-  color: #28a745 !important;
+  color: rgb(34, 141.95, 58.65) !important;
 }
 
 .link-teal {
   color: rgb(83.29, 213.42, 174.92) !important;
 }
 .link-teal:hover {
-  color: #20c997 !important;
+  color: rgb(27.2, 170.85, 128.35) !important;
 }
 
 .link-cyan {
   color: rgb(91.76, 192.63, 208.03) !important;
 }
 .link-cyan:hover {
-  color: #2baec2 !important;
+  color: rgb(36.55, 147.9, 164.9) !important;
 }
 
 .link-sky {
   color: rgb(101.77, 185.7, 255) !important;
 }
 .link-sky:hover {
-  color: #38a5ff !important;
+  color: rgb(47.6, 140.25, 216.75) !important;
 }
 
 .link-blue {
   color: rgb(58.65, 153.36, 255) !important;
 }
 .link-blue:hover {
-  color: #007bff !important;
+  color: rgb(0, 104.55, 216.75) !important;
 }
 
 .link-royal {
   color: rgb(134.88, 137.19, 244.22) !important;
 }
 .link-royal:hover {
-  color: #6366f1 !important;
+  color: rgb(84.15, 86.7, 204.85) !important;
 }
 
 .link-purple {
   color: rgb(188.01, 124.1, 248.84) !important;
 }
 .link-purple:hover {
-  color: #a855f7 !important;
+  color: rgb(142.8, 72.25, 209.95) !important;
 }
 
 .link-magenta {
   color: rgb(225.74, 112.55, 242.68) !important;
 }
 .link-magenta:hover {
-  color: #d946ef !important;
+  color: rgb(184.45, 59.5, 203.15) !important;
 }
 
 .link-pink {
   color: rgb(255, 141.04, 179.54) !important;
 }
 .link-pink:hover {
-  color: #ff6b9d !important;
+  color: rgb(216.75, 90.95, 133.45) !important;
 }
 
 .link-brown {
   color: rgb(181.85, 146.43, 119.48) !important;
 }
 .link-brown:hover {
-  color: #a0724f !important;
+  color: rgb(136, 96.9, 67.15) !important;
 }
 
 .link-stone {
   color: rgb(165.68, 161.83, 157.21) !important;
 }
 .link-stone:hover {
-  color: #8b8680 !important;
+  color: rgb(118.15, 113.9, 108.8) !important;
 }
 
 .link-iron {
   color: rgb(135.65, 147.97, 165.68) !important;
 }
 .link-iron:hover {
-  color: #64748b !important;
+  color: rgb(85, 98.6, 118.15) !important;
 }
 
 .link-navy {
   color: rgb(97.92, 108.7, 124.1) !important;
 }
 .link-navy:hover {
-  color: #334155 !important;
+  color: rgb(43.35, 55.25, 72.25) !important;
 }
 
 .link-gray {
   color: #bdbdbd !important;
 }
 .link-gray:hover {
-  color: #9e9e9e !important;
+  color: #757575 !important;
+}
+
+.link-white {
+  color: #eeeeee !important;
+}
+.link-white:hover {
+  color: #e0e0e0 !important;
+}
+
+.link-black {
+  color: #424242 !important;
+}
+.link-black:hover {
+  color: #212121 !important;
 }
 
 .button-red {

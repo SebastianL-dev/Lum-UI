@@ -1,13 +1,25 @@
 @use "sass:map";
 
 // Generate utility classes for link colors
-@mixin generateLinkColors($colors) {
+@mixin generateLinkColors($colors, $grayWhiteColors) {
   @each $colorName, $values in $colors {
     .link-#{$colorName} {
       color: map.get($values, 400) !important;
 
       &:hover {
-        color: map.get($values, 500) !important;
+        color: map.get($values, 600) !important;
+      }
+    }
+  }
+
+  @if $grayWhiteColors != null {
+    @each $colorName, $values in $grayWhiteColors {
+      .link-#{$colorName} {
+        color: map.get($values, base) !important;
+
+        &:hover {
+          color: map.get($values, hover) !important;
+        }
       }
     }
   }
