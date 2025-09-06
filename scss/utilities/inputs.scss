@@ -1,0 +1,4 @@
+@use "../abstracts/mixins/inputs" as m;
+@use "../abstracts/variables/colors" as vars;
+
+@include m.generateInputs(vars.$colors, vars.$blackWhiteColors);

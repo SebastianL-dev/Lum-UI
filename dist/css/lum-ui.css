@@ -12635,6 +12635,278 @@
   font-size: 128px !important;
 }
 
+.input-red {
+  border: solid rgb(239.4, 108.1, 121.1) 2px !important;
+  color: rgb(127.05, 15.95, 26.95);
+}
+.input-red::placeholder {
+  color: rgb(246.6, 175.9, 182.9) !important;
+}
+.input-red:hover {
+  border: solid #e71d31 2px !important;
+}
+.input-red:focus {
+  border: solid #e71d31 2px !important;
+}
+
+.input-cherry {
+  border: solid rgb(247.85, 130.2, 150.35) 2px !important;
+  color: rgb(134.2, 34.65, 51.7);
+}
+.input-cherry::placeholder {
+  color: rgb(251.15, 187.8, 198.65) !important;
+}
+.input-cherry:hover {
+  border: solid #f43f5e 2px !important;
+}
+.input-cherry:focus {
+  border: solid #f43f5e 2px !important;
+}
+
+.input-orange {
+  border: solid rgb(253.7, 171.15, 102.25) 2px !important;
+  color: rgb(139.15, 69.3, 11);
+}
+.input-orange::placeholder {
+  color: rgb(254.3, 209.85, 172.75) !important;
+}
+.input-orange:hover {
+  border: solid #fd7e14 2px !important;
+}
+.input-orange:focus {
+  border: solid #fd7e14 2px !important;
+}
+
+.input-gold {
+  border: solid rgb(248.5, 200.4, 96.4) 2px !important;
+  color: rgb(134.75, 94.05, 6.05);
+}
+.input-gold::placeholder {
+  color: rgb(251.5, 225.6, 169.6) !important;
+}
+.input-gold:hover {
+  border: solid #f5ab0b 2px !important;
+}
+.input-gold:focus {
+  border: solid #f5ab0b 2px !important;
+}
+
+.input-yellow {
+  border: solid rgb(249.8, 227.05, 100.3) 2px !important;
+  color: rgb(135.85, 116.6, 9.35);
+}
+.input-yellow::placeholder {
+  color: rgb(252.2, 239.95, 171.7) !important;
+}
+.input-yellow:hover {
+  border: solid #f7d411 2px !important;
+}
+.input-yellow:focus {
+  border: solid #f7d411 2px !important;
+}
+
+.input-green {
+  border: solid rgb(115.25, 197.8, 134.1) 2px !important;
+  color: rgb(22, 91.85, 37.95);
+}
+.input-green::placeholder {
+  color: rgb(179.75, 224.2, 189.9) !important;
+}
+.input-green:hover {
+  border: solid #28a745 2px !important;
+}
+.input-green:focus {
+  border: solid #28a745 2px !important;
+}
+
+.input-teal {
+  border: solid rgb(110.05, 219.9, 187.4) 2px !important;
+  color: rgb(17.6, 110.55, 83.05);
+}
+.input-teal::placeholder {
+  color: rgb(176.95, 236.1, 218.6) !important;
+}
+.input-teal:hover {
+  border: solid #20c997 2px !important;
+}
+.input-teal:focus {
+  border: solid #20c997 2px !important;
+}
+
+.input-cyan {
+  border: solid rgb(117.2, 202.35, 215.35) 2px !important;
+  color: rgb(23.65, 95.7, 106.7);
+}
+.input-cyan::placeholder {
+  color: rgb(180.8, 226.65, 233.65) !important;
+}
+.input-cyan:hover {
+  border: solid #2baec2 2px !important;
+}
+.input-cyan:focus {
+  border: solid #2baec2 2px !important;
+}
+
+.input-sky {
+  border: solid rgb(125.65, 196.5, 255) 2px !important;
+  color: rgb(30.8, 90.75, 140.25);
+}
+.input-sky::placeholder {
+  color: rgb(185.35, 223.5, 255) !important;
+}
+.input-sky:hover {
+  border: solid #38a5ff 2px !important;
+}
+.input-sky:focus {
+  border: solid #38a5ff 2px !important;
+}
+
+.input-blue {
+  border: solid rgb(89.25, 169.2, 255) 2px !important;
+  color: rgb(0, 67.65, 140.25);
+}
+.input-blue::placeholder {
+  color: rgb(165.75, 208.8, 255) !important;
+}
+.input-blue:hover {
+  border: solid #007bff 2px !important;
+}
+.input-blue:focus {
+  border: solid #007bff 2px !important;
+}
+
+.input-royal {
+  border: solid rgb(153.6, 155.55, 245.9) 2px !important;
+  color: rgb(54.45, 56.1, 132.55);
+}
+.input-royal::placeholder {
+  color: rgb(200.4, 201.45, 250.1) !important;
+}
+.input-royal:hover {
+  border: solid #6366f1 2px !important;
+}
+.input-royal:focus {
+  border: solid #6366f1 2px !important;
+}
+
+.input-purple {
+  border: solid rgb(198.45, 144.5, 249.8) 2px !important;
+  color: rgb(92.4, 46.75, 135.85);
+}
+.input-purple::placeholder {
+  color: rgb(224.55, 195.5, 252.2) !important;
+}
+.input-purple:hover {
+  border: solid #a855f7 2px !important;
+}
+.input-purple:focus {
+  border: solid #a855f7 2px !important;
+}
+
+.input-magenta {
+  border: solid rgb(230.3, 134.75, 244.6) 2px !important;
+  color: rgb(119.35, 38.5, 131.45);
+}
+.input-magenta::placeholder {
+  color: rgb(241.7, 190.25, 249.4) !important;
+}
+.input-magenta:hover {
+  border: solid #d946ef 2px !important;
+}
+.input-magenta:focus {
+  border: solid #d946ef 2px !important;
+}
+
+.input-pink {
+  border: solid rgb(255, 158.8, 191.3) 2px !important;
+  color: rgb(140.25, 58.85, 86.35);
+}
+.input-pink::placeholder {
+  color: rgb(255, 203.2, 220.7) !important;
+}
+.input-pink:hover {
+  border: solid #ff6b9d 2px !important;
+}
+.input-pink:focus {
+  border: solid #ff6b9d 2px !important;
+}
+
+.input-brown {
+  border: solid rgb(193.25, 163.35, 140.6) 2px !important;
+  color: rgb(88, 62.7, 43.45);
+}
+.input-brown::placeholder {
+  color: rgb(221.75, 205.65, 193.4) !important;
+}
+.input-brown:hover {
+  border: solid #a0724f 2px !important;
+}
+.input-brown:focus {
+  border: solid #a0724f 2px !important;
+}
+
+.input-stone {
+  border: solid rgb(179.6, 176.35, 172.45) 2px !important;
+  color: rgb(76.45, 73.7, 70.4);
+}
+.input-stone::placeholder {
+  color: rgb(214.4, 212.65, 210.55) !important;
+}
+.input-stone:hover {
+  border: solid #8b8680 2px !important;
+}
+.input-stone:focus {
+  border: solid #8b8680 2px !important;
+}
+
+.input-iron {
+  border: solid rgb(154.25, 164.65, 179.6) 2px !important;
+  color: rgb(55, 63.8, 76.45);
+}
+.input-iron::placeholder {
+  color: rgb(200.75, 206.35, 214.4) !important;
+}
+.input-iron:hover {
+  border: solid #64748b 2px !important;
+}
+.input-iron:focus {
+  border: solid #64748b 2px !important;
+}
+
+.input-navy {
+  border: solid rgb(122.4, 131.5, 144.5) 2px !important;
+  color: rgb(28.05, 35.75, 46.75);
+}
+.input-navy::placeholder {
+  color: rgb(183.6, 188.5, 195.5) !important;
+}
+.input-navy:hover {
+  border: solid #334155 2px !important;
+}
+.input-navy:focus {
+  border: solid #334155 2px !important;
+}
+
+.input-white {
+  border: solid #eeeeee 2px !important;
+}
+.input-white::placeholder {
+  color: #e0e0e0 !important;
+}
+.input-white:hover {
+  border: solid #e0e0e0 2px !important;
+}
+
+.input-black {
+  border: solid #424242 2px !important;
+}
+.input-black::placeholder {
+  color: #212121 !important;
+}
+.input-black:hover {
+  border: solid #212121 2px !important;
+}
+
 html {
   box-sizing: border-box;
   font-size: 16px;
@@ -13017,6 +13289,25 @@ details {
 
 .button.squared {
   border-radius: 0.75rem;
+}
+
+.input {
+  border: solid #e0e0e0 2px;
+  height: fit-content;
+  padding: 10px 8px;
+  border-radius: 10px;
+  transition: border ease-in-out 200ms;
+  outline: none;
+  background-color: transparent;
+}
+.input::placeholder {
+  color: #bdbdbd;
+}
+.input:hover {
+  border: solid #bdbdbd 2px;
+}
+.input:focus {
+  border: solid #bdbdbd 2px;
 }
 
 /*# sourceMappingURL=lum-ui.css.map */
