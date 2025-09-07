@@ -1,5 +1,4 @@
 @use "sass:map";
-@use "../functions" as func;
 
 @mixin generateInputs($colors, $whiteBlackColors) {
   @each $name, $values in $colors {
@@ -8,7 +7,7 @@
       color: map.get($values, 700);
 
       &::placeholder {
-        color: func.lighter(map.get($values, 500), 60%) !important;
+        color: map.get($values, 200) !important;
       }
 
       &:hover,
@@ -17,7 +16,7 @@
       }
     }
     .input-#{$name}.colored {
-      background-color: func.lighter(map.get($values, 50), 65%) !important;
+      background-color: map.get($values, 50) !important;
     }
   }
 

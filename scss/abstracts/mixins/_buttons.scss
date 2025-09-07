@@ -31,7 +31,7 @@
     }
 
     .button-#{$colorName}.colored {
-      background-color: rgba(map.get($values, 500), 0.2) !important;
+      background-color: map.get($values, 50) !important;
       color: map.get($values, 500) !important;
       transition: color ease-in-out 200ms, background ease-in 200ms !important;
 
