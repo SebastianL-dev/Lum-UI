@@ -1,3 +1,4 @@
+// Mxin to generate spacing sizes
 @mixin generateSpacing($map) {
   @each $name, $size in $map {
     .m-#{$name} {
@@ -62,6 +63,53 @@
 
     .gap-#{$name} {
       gap: $size !important;
+    }
+  }
+}
+
+// Mixin to generate dimensions sizes
+@mixin generateDimensions($map) {
+  @each $name, $size in $map {
+    .w-#{$name} {
+      width: $size !important;
+    }
+
+    .h-#{$name} {
+      height: $size !important;
+    }
+
+    .min-w-#{$name} {
+      min-width: $size !important;
+    }
+
+    .min-h-#{$name} {
+      min-height: $size !important;
+    }
+
+    .max-w-#{$name} {
+      max-width: $size !important;
+    }
+
+    .max-h-#{$name} {
+      max-height: $size !important;
+    }
+  }
+}
+
+// Mixin to generate text sizes
+@mixin generateTextSizes($map) {
+  @each $name, $size in $map {
+    .text-#{$name} {
+      font-size: $size !important;
+    }
+  }
+}
+
+// Mixin to generate border radius sizes
+@mixin generateRadius($map) {
+  @each $name, $size in $map {
+    .rounded-#{$name} {
+      border-radius: $size !important;
     }
   }
 }

@@ -1,7 +1,0 @@
-@mixin generateRadius($map) {
-  @each $name, $size in $map {
-    .rounded-#{$name} {
-      border-radius: $size !important;
-    }
-  }
-}
