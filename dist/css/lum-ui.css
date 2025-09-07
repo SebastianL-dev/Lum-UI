@@ -12636,255 +12636,288 @@
 }
 
 .input-red {
-  border: solid rgb(239.4, 108.1, 121.1) 2px !important;
-  color: rgb(127.05, 15.95, 26.95);
+  border: solid rgb(236.52, 80.98, 96.38) 2px !important;
+  color: rgb(161.7, 20.3, 34.3);
 }
 .input-red::placeholder {
-  color: rgb(246.6, 175.9, 182.9) !important;
+  color: rgb(245.4, 164.6, 172.6) !important;
 }
-.input-red:hover {
-  border: solid #e71d31 2px !important;
+.input-red:hover, .input-red:focus {
+  border: solid rgb(196.35, 24.65, 41.65) 2px !important;
 }
-.input-red:focus {
-  border: solid #e71d31 2px !important;
+
+.input-red.colored {
+  background-color: rgb(253.32, 239.18, 240.58) !important;
 }
 
 .input-cherry {
-  border: solid rgb(247.85, 130.2, 150.35) 2px !important;
-  color: rgb(134.2, 34.65, 51.7);
+  border: solid rgb(246.53, 107.16, 131.03) 2px !important;
+  color: rgb(170.8, 44.1, 65.8);
 }
 .input-cherry::placeholder {
-  color: rgb(251.15, 187.8, 198.65) !important;
+  color: rgb(250.6, 178.2, 190.6) !important;
 }
-.input-cherry:hover {
-  border: solid #f43f5e 2px !important;
+.input-cherry:hover, .input-cherry:focus {
+  border: solid rgb(207.4, 53.55, 79.9) 2px !important;
 }
-.input-cherry:focus {
-  border: solid #f43f5e 2px !important;
+
+.input-cherry.colored {
+  background-color: rgb(254.23, 241.56, 243.73) !important;
 }
 
 .input-orange {
-  border: solid rgb(253.7, 171.15, 102.25) 2px !important;
-  color: rgb(139.15, 69.3, 11);
+  border: solid rgb(253.46, 155.67, 74.05) 2px !important;
+  color: rgb(177.1, 88.2, 14);
 }
 .input-orange::placeholder {
-  color: rgb(254.3, 209.85, 172.75) !important;
+  color: rgb(254.2, 203.4, 161) !important;
 }
-.input-orange:hover {
-  border: solid #fd7e14 2px !important;
+.input-orange:hover, .input-orange:focus {
+  border: solid rgb(215.05, 107.1, 17) 2px !important;
 }
-.input-orange:focus {
-  border: solid #fd7e14 2px !important;
+
+.input-orange.colored {
+  background-color: rgb(254.86, 245.97, 238.55) !important;
 }
 
 .input-gold {
-  border: solid rgb(248.5, 200.4, 96.4) 2px !important;
-  color: rgb(134.75, 94.05, 6.05);
+  border: solid rgb(247.3, 190.32, 67.12) 2px !important;
+  color: rgb(171.5, 119.7, 7.7);
 }
 .input-gold::placeholder {
-  color: rgb(251.5, 225.6, 169.6) !important;
+  color: rgb(251, 221.4, 157.4) !important;
 }
-.input-gold:hover {
-  border: solid #f5ab0b 2px !important;
+.input-gold:hover, .input-gold:focus {
+  border: solid rgb(208.25, 145.35, 9.35) 2px !important;
 }
-.input-gold:focus {
-  border: solid #f5ab0b 2px !important;
+
+.input-gold.colored {
+  background-color: rgb(254.3, 249.12, 237.92) !important;
 }
 
 .input-yellow {
-  border: solid rgb(249.8, 227.05, 100.3) 2px !important;
-  color: rgb(135.85, 116.6, 9.35);
+  border: solid rgb(248.84, 221.89, 71.74) 2px !important;
+  color: rgb(172.9, 148.4, 11.9);
 }
 .input-yellow::placeholder {
-  color: rgb(252.2, 239.95, 171.7) !important;
+  color: rgb(251.8, 237.8, 159.8) !important;
 }
-.input-yellow:hover {
-  border: solid #f7d411 2px !important;
+.input-yellow:hover, .input-yellow:focus {
+  border: solid rgb(209.95, 180.2, 14.45) 2px !important;
 }
-.input-yellow:focus {
-  border: solid #f7d411 2px !important;
+
+.input-yellow.colored {
+  background-color: rgb(254.44, 251.99, 238.34) !important;
 }
 
 .input-green {
-  border: solid rgb(115.25, 197.8, 134.1) 2px !important;
-  color: rgb(22, 91.85, 37.95);
+  border: solid rgb(89.45, 187.24, 111.78) 2px !important;
+  color: rgb(28, 116.9, 48.3);
 }
 .input-green::placeholder {
-  color: rgb(179.75, 224.2, 189.9) !important;
+  color: rgb(169, 219.8, 180.6) !important;
 }
-.input-green:hover {
-  border: solid #28a745 2px !important;
+.input-green:hover, .input-green:focus {
+  border: solid rgb(34, 141.95, 58.65) 2px !important;
 }
-.input-green:focus {
-  border: solid #28a745 2px !important;
+
+.input-green.colored {
+  background-color: rgb(239.95, 248.84, 241.98) !important;
 }
 
 .input-teal {
-  border: solid rgb(110.05, 219.9, 187.4) 2px !important;
-  color: rgb(17.6, 110.55, 83.05);
+  border: solid rgb(83.29, 213.42, 174.92) 2px !important;
+  color: rgb(22.4, 140.7, 105.7);
 }
 .input-teal::placeholder {
-  color: rgb(176.95, 236.1, 218.6) !important;
+  color: rgb(165.8, 233.4, 213.4) !important;
 }
-.input-teal:hover {
-  border: solid #20c997 2px !important;
+.input-teal:hover, .input-teal:focus {
+  border: solid rgb(27.2, 170.85, 128.35) 2px !important;
 }
-.input-teal:focus {
-  border: solid #20c997 2px !important;
+
+.input-teal.colored {
+  background-color: rgb(239.39, 251.22, 247.72) !important;
 }
 
 .input-cyan {
-  border: solid rgb(117.2, 202.35, 215.35) 2px !important;
-  color: rgb(23.65, 95.7, 106.7);
+  border: solid rgb(91.76, 192.63, 208.03) 2px !important;
+  color: rgb(30.1, 121.8, 135.8);
 }
 .input-cyan::placeholder {
-  color: rgb(180.8, 226.65, 233.65) !important;
+  color: rgb(170.2, 222.6, 230.6) !important;
 }
-.input-cyan:hover {
-  border: solid #2baec2 2px !important;
+.input-cyan:hover, .input-cyan:focus {
+  border: solid rgb(36.55, 147.9, 164.9) 2px !important;
 }
-.input-cyan:focus {
-  border: solid #2baec2 2px !important;
+
+.input-cyan.colored {
+  background-color: rgb(240.16, 249.33, 250.73) !important;
 }
 
 .input-sky {
-  border: solid rgb(125.65, 196.5, 255) 2px !important;
-  color: rgb(30.8, 90.75, 140.25);
+  border: solid rgb(101.77, 185.7, 255) 2px !important;
+  color: rgb(39.2, 115.5, 178.5);
 }
 .input-sky::placeholder {
-  color: rgb(185.35, 223.5, 255) !important;
+  color: rgb(175.4, 219, 255) !important;
 }
-.input-sky:hover {
-  border: solid #38a5ff 2px !important;
+.input-sky:hover, .input-sky:focus {
+  border: solid rgb(47.6, 140.25, 216.75) 2px !important;
 }
-.input-sky:focus {
-  border: solid #38a5ff 2px !important;
+
+.input-sky.colored {
+  background-color: rgb(241.07, 248.7, 255) !important;
 }
 
 .input-blue {
-  border: solid rgb(89.25, 169.2, 255) 2px !important;
-  color: rgb(0, 67.65, 140.25);
+  border: solid rgb(58.65, 153.36, 255) 2px !important;
+  color: rgb(0, 86.1, 178.5);
 }
 .input-blue::placeholder {
-  color: rgb(165.75, 208.8, 255) !important;
+  color: rgb(153, 202.2, 255) !important;
 }
-.input-blue:hover {
-  border: solid #007bff 2px !important;
+.input-blue:hover, .input-blue:focus {
+  border: solid rgb(0, 104.55, 216.75) 2px !important;
 }
-.input-blue:focus {
-  border: solid #007bff 2px !important;
+
+.input-blue.colored {
+  background-color: rgb(237.15, 245.76, 255) !important;
 }
 
 .input-royal {
-  border: solid rgb(153.6, 155.55, 245.9) 2px !important;
-  color: rgb(54.45, 56.1, 132.55);
+  border: solid rgb(134.88, 137.19, 244.22) 2px !important;
+  color: rgb(69.3, 71.4, 168.7);
 }
 .input-royal::placeholder {
-  color: rgb(200.4, 201.45, 250.1) !important;
+  color: rgb(192.6, 193.8, 249.4) !important;
 }
-.input-royal:hover {
-  border: solid #6366f1 2px !important;
+.input-royal:hover, .input-royal:focus {
+  border: solid rgb(84.15, 86.7, 204.85) 2px !important;
 }
-.input-royal:focus {
-  border: solid #6366f1 2px !important;
+
+.input-royal.colored {
+  background-color: rgb(244.08, 244.29, 254.02) !important;
 }
 
 .input-purple {
-  border: solid rgb(198.45, 144.5, 249.8) 2px !important;
-  color: rgb(92.4, 46.75, 135.85);
+  border: solid rgb(188.01, 124.1, 248.84) 2px !important;
+  color: rgb(117.6, 59.5, 172.9);
 }
 .input-purple::placeholder {
-  color: rgb(224.55, 195.5, 252.2) !important;
+  color: rgb(220.2, 187, 251.8) !important;
 }
-.input-purple:hover {
-  border: solid #a855f7 2px !important;
+.input-purple:hover, .input-purple:focus {
+  border: solid rgb(142.8, 72.25, 209.95) 2px !important;
 }
-.input-purple:focus {
-  border: solid #a855f7 2px !important;
+
+.input-purple.colored {
+  background-color: rgb(248.91, 243.1, 254.44) !important;
 }
 
 .input-magenta {
-  border: solid rgb(230.3, 134.75, 244.6) 2px !important;
-  color: rgb(119.35, 38.5, 131.45);
+  border: solid rgb(225.74, 112.55, 242.68) 2px !important;
+  color: rgb(151.9, 49, 167.3);
 }
 .input-magenta::placeholder {
-  color: rgb(241.7, 190.25, 249.4) !important;
+  color: rgb(239.8, 181, 248.6) !important;
 }
-.input-magenta:hover {
-  border: solid #d946ef 2px !important;
+.input-magenta:hover, .input-magenta:focus {
+  border: solid rgb(184.45, 59.5, 203.15) 2px !important;
 }
-.input-magenta:focus {
-  border: solid #d946ef 2px !important;
+
+.input-magenta.colored {
+  background-color: rgb(252.34, 242.05, 253.88) !important;
 }
 
 .input-pink {
-  border: solid rgb(255, 158.8, 191.3) 2px !important;
-  color: rgb(140.25, 58.85, 86.35);
+  border: solid rgb(255, 141.04, 179.54) 2px !important;
+  color: rgb(178.5, 74.9, 109.9);
 }
 .input-pink::placeholder {
-  color: rgb(255, 203.2, 220.7) !important;
+  color: rgb(255, 195.8, 215.8) !important;
 }
-.input-pink:hover {
-  border: solid #ff6b9d 2px !important;
+.input-pink:hover, .input-pink:focus {
+  border: solid rgb(216.75, 90.95, 133.45) 2px !important;
 }
-.input-pink:focus {
-  border: solid #ff6b9d 2px !important;
+
+.input-pink.colored {
+  background-color: rgb(255, 244.64, 248.14) !important;
 }
 
 .input-brown {
-  border: solid rgb(193.25, 163.35, 140.6) 2px !important;
-  color: rgb(88, 62.7, 43.45);
+  border: solid rgb(181.85, 146.43, 119.48) 2px !important;
+  color: rgb(112, 79.8, 55.3);
 }
 .input-brown::placeholder {
-  color: rgb(221.75, 205.65, 193.4) !important;
+  color: rgb(217, 198.6, 184.6) !important;
 }
-.input-brown:hover {
-  border: solid #a0724f 2px !important;
+.input-brown:hover, .input-brown:focus {
+  border: solid rgb(136, 96.9, 67.15) 2px !important;
 }
-.input-brown:focus {
-  border: solid #a0724f 2px !important;
+
+.input-brown.colored {
+  background-color: rgb(248.35, 245.13, 242.68) !important;
 }
 
 .input-stone {
-  border: solid rgb(179.6, 176.35, 172.45) 2px !important;
-  color: rgb(76.45, 73.7, 70.4);
+  border: solid rgb(165.68, 161.83, 157.21) 2px !important;
+  color: rgb(97.3, 93.8, 89.6);
 }
 .input-stone::placeholder {
-  color: rgb(214.4, 212.65, 210.55) !important;
+  color: rgb(208.6, 206.6, 204.2) !important;
 }
-.input-stone:hover {
-  border: solid #8b8680 2px !important;
+.input-stone:hover, .input-stone:focus {
+  border: solid rgb(118.15, 113.9, 108.8) 2px !important;
 }
-.input-stone:focus {
-  border: solid #8b8680 2px !important;
+
+.input-stone.colored {
+  background-color: rgb(246.88, 246.53, 246.11) !important;
 }
 
 .input-iron {
-  border: solid rgb(154.25, 164.65, 179.6) 2px !important;
-  color: rgb(55, 63.8, 76.45);
+  border: solid rgb(135.65, 147.97, 165.68) 2px !important;
+  color: rgb(70, 81.2, 97.3);
 }
 .input-iron::placeholder {
-  color: rgb(200.75, 206.35, 214.4) !important;
+  color: rgb(193, 199.4, 208.6) !important;
 }
-.input-iron:hover {
-  border: solid #64748b 2px !important;
+.input-iron:hover, .input-iron:focus {
+  border: solid rgb(85, 98.6, 118.15) 2px !important;
 }
-.input-iron:focus {
-  border: solid #64748b 2px !important;
+
+.input-iron.colored {
+  background-color: rgb(244.15, 245.27, 246.88) !important;
 }
 
 .input-navy {
-  border: solid rgb(122.4, 131.5, 144.5) 2px !important;
-  color: rgb(28.05, 35.75, 46.75);
+  border: solid rgb(97.92, 108.7, 124.1) 2px !important;
+  color: rgb(35.7, 45.5, 59.5);
 }
 .input-navy::placeholder {
-  color: rgb(183.6, 188.5, 195.5) !important;
+  color: rgb(173.4, 179, 187) !important;
 }
-.input-navy:hover {
-  border: solid #334155 2px !important;
+.input-navy:hover, .input-navy:focus {
+  border: solid rgb(43.35, 55.25, 72.25) 2px !important;
 }
-.input-navy:focus {
-  border: solid #334155 2px !important;
+
+.input-navy.colored {
+  background-color: rgb(240.72, 241.7, 243.1) !important;
+}
+
+.input-gray {
+  border: solid #bdbdbd 2px !important;
+  color: #616161;
+}
+.input-gray::placeholder {
+  color: rgb(216.2, 216.2, 216.2) !important;
+}
+.input-gray:hover, .input-gray:focus {
+  border: solid #757575 2px !important;
+}
+
+.input-gray.colored {
+  background-color: rgb(253.95, 253.95, 253.95) !important;
 }
 
 .input-white {
