@@ -7594,704 +7594,6 @@
   stroke: #000000 !important;
 }
 
-.link-red {
-  color: rgb(236.52, 80.98, 96.38) !important;
-}
-.link-red:hover {
-  color: rgb(196.35, 24.65, 41.65) !important;
-}
-
-.link-cherry {
-  color: rgb(246.53, 107.16, 131.03) !important;
-}
-.link-cherry:hover {
-  color: rgb(207.4, 53.55, 79.9) !important;
-}
-
-.link-orange {
-  color: rgb(253.46, 155.67, 74.05) !important;
-}
-.link-orange:hover {
-  color: rgb(215.05, 107.1, 17) !important;
-}
-
-.link-gold {
-  color: rgb(247.3, 190.32, 67.12) !important;
-}
-.link-gold:hover {
-  color: rgb(208.25, 145.35, 9.35) !important;
-}
-
-.link-yellow {
-  color: rgb(248.84, 221.89, 71.74) !important;
-}
-.link-yellow:hover {
-  color: rgb(209.95, 180.2, 14.45) !important;
-}
-
-.link-green {
-  color: rgb(89.45, 187.24, 111.78) !important;
-}
-.link-green:hover {
-  color: rgb(34, 141.95, 58.65) !important;
-}
-
-.link-teal {
-  color: rgb(83.29, 213.42, 174.92) !important;
-}
-.link-teal:hover {
-  color: rgb(27.2, 170.85, 128.35) !important;
-}
-
-.link-cyan {
-  color: rgb(91.76, 192.63, 208.03) !important;
-}
-.link-cyan:hover {
-  color: rgb(36.55, 147.9, 164.9) !important;
-}
-
-.link-sky {
-  color: rgb(101.77, 185.7, 255) !important;
-}
-.link-sky:hover {
-  color: rgb(47.6, 140.25, 216.75) !important;
-}
-
-.link-blue {
-  color: rgb(58.65, 153.36, 255) !important;
-}
-.link-blue:hover {
-  color: rgb(0, 104.55, 216.75) !important;
-}
-
-.link-royal {
-  color: rgb(134.88, 137.19, 244.22) !important;
-}
-.link-royal:hover {
-  color: rgb(84.15, 86.7, 204.85) !important;
-}
-
-.link-purple {
-  color: rgb(188.01, 124.1, 248.84) !important;
-}
-.link-purple:hover {
-  color: rgb(142.8, 72.25, 209.95) !important;
-}
-
-.link-magenta {
-  color: rgb(225.74, 112.55, 242.68) !important;
-}
-.link-magenta:hover {
-  color: rgb(184.45, 59.5, 203.15) !important;
-}
-
-.link-pink {
-  color: rgb(255, 141.04, 179.54) !important;
-}
-.link-pink:hover {
-  color: rgb(216.75, 90.95, 133.45) !important;
-}
-
-.link-brown {
-  color: rgb(181.85, 146.43, 119.48) !important;
-}
-.link-brown:hover {
-  color: rgb(136, 96.9, 67.15) !important;
-}
-
-.link-stone {
-  color: rgb(165.68, 161.83, 157.21) !important;
-}
-.link-stone:hover {
-  color: rgb(118.15, 113.9, 108.8) !important;
-}
-
-.link-iron {
-  color: rgb(135.65, 147.97, 165.68) !important;
-}
-.link-iron:hover {
-  color: rgb(85, 98.6, 118.15) !important;
-}
-
-.link-navy {
-  color: rgb(97.92, 108.7, 124.1) !important;
-}
-.link-navy:hover {
-  color: rgb(43.35, 55.25, 72.25) !important;
-}
-
-.link-gray {
-  color: #bdbdbd !important;
-}
-.link-gray:hover {
-  color: #757575 !important;
-}
-
-.link-white {
-  color: #eeeeee !important;
-}
-.link-white:hover {
-  color: #e0e0e0 !important;
-}
-
-.link-black {
-  color: #424242 !important;
-}
-.link-black:hover {
-  color: #212121 !important;
-}
-
-.button-red {
-  background-color: rgb(236.52, 80.98, 96.38) !important;
-  color: #121212;
-}
-.button-red:hover {
-  background-color: #e71d31 !important;
-}
-
-.button-red.outlined {
-  background-color: transparent !important;
-  color: rgb(236.52, 80.98, 96.38) !important;
-  border: solid rgb(236.52, 80.98, 96.38) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-red.outlined:hover {
-  border-color: #e71d31 !important;
-  color: #e71d31 !important;
-}
-
-.button-red.colored {
-  background-color: rgba(231, 29, 49, 0.2) !important;
-  color: #e71d31 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-red.colored:hover {
-  background-color: rgba(231, 29, 49, 0.3) !important;
-}
-
-.button-cherry {
-  background-color: rgb(246.53, 107.16, 131.03) !important;
-  color: #121212;
-}
-.button-cherry:hover {
-  background-color: #f43f5e !important;
-}
-
-.button-cherry.outlined {
-  background-color: transparent !important;
-  color: rgb(246.53, 107.16, 131.03) !important;
-  border: solid rgb(246.53, 107.16, 131.03) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-cherry.outlined:hover {
-  border-color: #f43f5e !important;
-  color: #f43f5e !important;
-}
-
-.button-cherry.colored {
-  background-color: rgba(244, 63, 94, 0.2) !important;
-  color: #f43f5e !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-cherry.colored:hover {
-  background-color: rgba(244, 63, 94, 0.3) !important;
-}
-
-.button-orange {
-  background-color: rgb(253.46, 155.67, 74.05) !important;
-  color: #121212;
-}
-.button-orange:hover {
-  background-color: #fd7e14 !important;
-}
-
-.button-orange.outlined {
-  background-color: transparent !important;
-  color: rgb(253.46, 155.67, 74.05) !important;
-  border: solid rgb(253.46, 155.67, 74.05) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-orange.outlined:hover {
-  border-color: #fd7e14 !important;
-  color: #fd7e14 !important;
-}
-
-.button-orange.colored {
-  background-color: rgba(253, 126, 20, 0.2) !important;
-  color: #fd7e14 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-orange.colored:hover {
-  background-color: rgba(253, 126, 20, 0.3) !important;
-}
-
-.button-gold {
-  background-color: rgb(247.3, 190.32, 67.12) !important;
-  color: #121212;
-}
-.button-gold:hover {
-  background-color: #f5ab0b !important;
-}
-
-.button-gold.outlined {
-  background-color: transparent !important;
-  color: rgb(247.3, 190.32, 67.12) !important;
-  border: solid rgb(247.3, 190.32, 67.12) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-gold.outlined:hover {
-  border-color: #f5ab0b !important;
-  color: #f5ab0b !important;
-}
-
-.button-gold.colored {
-  background-color: rgba(245, 171, 11, 0.2) !important;
-  color: #f5ab0b !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-gold.colored:hover {
-  background-color: rgba(245, 171, 11, 0.3) !important;
-}
-
-.button-yellow {
-  background-color: rgb(248.84, 221.89, 71.74) !important;
-  color: #121212;
-}
-.button-yellow:hover {
-  background-color: #f7d411 !important;
-}
-
-.button-yellow.outlined {
-  background-color: transparent !important;
-  color: rgb(248.84, 221.89, 71.74) !important;
-  border: solid rgb(248.84, 221.89, 71.74) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-yellow.outlined:hover {
-  border-color: #f7d411 !important;
-  color: #f7d411 !important;
-}
-
-.button-yellow.colored {
-  background-color: rgba(247, 212, 17, 0.2) !important;
-  color: #f7d411 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-yellow.colored:hover {
-  background-color: rgba(247, 212, 17, 0.3) !important;
-}
-
-.button-green {
-  background-color: rgb(89.45, 187.24, 111.78) !important;
-  color: #121212;
-}
-.button-green:hover {
-  background-color: #28a745 !important;
-}
-
-.button-green.outlined {
-  background-color: transparent !important;
-  color: rgb(89.45, 187.24, 111.78) !important;
-  border: solid rgb(89.45, 187.24, 111.78) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-green.outlined:hover {
-  border-color: #28a745 !important;
-  color: #28a745 !important;
-}
-
-.button-green.colored {
-  background-color: rgba(40, 167, 69, 0.2) !important;
-  color: #28a745 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-green.colored:hover {
-  background-color: rgba(40, 167, 69, 0.3) !important;
-}
-
-.button-teal {
-  background-color: rgb(83.29, 213.42, 174.92) !important;
-  color: #121212;
-}
-.button-teal:hover {
-  background-color: #20c997 !important;
-}
-
-.button-teal.outlined {
-  background-color: transparent !important;
-  color: rgb(83.29, 213.42, 174.92) !important;
-  border: solid rgb(83.29, 213.42, 174.92) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-teal.outlined:hover {
-  border-color: #20c997 !important;
-  color: #20c997 !important;
-}
-
-.button-teal.colored {
-  background-color: rgba(32, 201, 151, 0.2) !important;
-  color: #20c997 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-teal.colored:hover {
-  background-color: rgba(32, 201, 151, 0.3) !important;
-}
-
-.button-cyan {
-  background-color: rgb(91.76, 192.63, 208.03) !important;
-  color: #121212;
-}
-.button-cyan:hover {
-  background-color: #2baec2 !important;
-}
-
-.button-cyan.outlined {
-  background-color: transparent !important;
-  color: rgb(91.76, 192.63, 208.03) !important;
-  border: solid rgb(91.76, 192.63, 208.03) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-cyan.outlined:hover {
-  border-color: #2baec2 !important;
-  color: #2baec2 !important;
-}
-
-.button-cyan.colored {
-  background-color: rgba(43, 174, 194, 0.2) !important;
-  color: #2baec2 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-cyan.colored:hover {
-  background-color: rgba(43, 174, 194, 0.3) !important;
-}
-
-.button-sky {
-  background-color: rgb(101.77, 185.7, 255) !important;
-  color: #121212;
-}
-.button-sky:hover {
-  background-color: #38a5ff !important;
-}
-
-.button-sky.outlined {
-  background-color: transparent !important;
-  color: rgb(101.77, 185.7, 255) !important;
-  border: solid rgb(101.77, 185.7, 255) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-sky.outlined:hover {
-  border-color: #38a5ff !important;
-  color: #38a5ff !important;
-}
-
-.button-sky.colored {
-  background-color: rgba(56, 165, 255, 0.2) !important;
-  color: #38a5ff !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-sky.colored:hover {
-  background-color: rgba(56, 165, 255, 0.3) !important;
-}
-
-.button-blue {
-  background-color: rgb(58.65, 153.36, 255) !important;
-  color: #121212;
-}
-.button-blue:hover {
-  background-color: #007bff !important;
-}
-
-.button-blue.outlined {
-  background-color: transparent !important;
-  color: rgb(58.65, 153.36, 255) !important;
-  border: solid rgb(58.65, 153.36, 255) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-blue.outlined:hover {
-  border-color: #007bff !important;
-  color: #007bff !important;
-}
-
-.button-blue.colored {
-  background-color: rgba(0, 123, 255, 0.2) !important;
-  color: #007bff !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-blue.colored:hover {
-  background-color: rgba(0, 123, 255, 0.3) !important;
-}
-
-.button-royal {
-  background-color: rgb(134.88, 137.19, 244.22) !important;
-  color: #121212;
-}
-.button-royal:hover {
-  background-color: #6366f1 !important;
-}
-
-.button-royal.outlined {
-  background-color: transparent !important;
-  color: rgb(134.88, 137.19, 244.22) !important;
-  border: solid rgb(134.88, 137.19, 244.22) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-royal.outlined:hover {
-  border-color: #6366f1 !important;
-  color: #6366f1 !important;
-}
-
-.button-royal.colored {
-  background-color: rgba(99, 102, 241, 0.2) !important;
-  color: #6366f1 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-royal.colored:hover {
-  background-color: rgba(99, 102, 241, 0.3) !important;
-}
-
-.button-purple {
-  background-color: rgb(188.01, 124.1, 248.84) !important;
-  color: #121212;
-}
-.button-purple:hover {
-  background-color: #a855f7 !important;
-}
-
-.button-purple.outlined {
-  background-color: transparent !important;
-  color: rgb(188.01, 124.1, 248.84) !important;
-  border: solid rgb(188.01, 124.1, 248.84) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-purple.outlined:hover {
-  border-color: #a855f7 !important;
-  color: #a855f7 !important;
-}
-
-.button-purple.colored {
-  background-color: rgba(168, 85, 247, 0.2) !important;
-  color: #a855f7 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-purple.colored:hover {
-  background-color: rgba(168, 85, 247, 0.3) !important;
-}
-
-.button-magenta {
-  background-color: rgb(225.74, 112.55, 242.68) !important;
-  color: #121212;
-}
-.button-magenta:hover {
-  background-color: #d946ef !important;
-}
-
-.button-magenta.outlined {
-  background-color: transparent !important;
-  color: rgb(225.74, 112.55, 242.68) !important;
-  border: solid rgb(225.74, 112.55, 242.68) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-magenta.outlined:hover {
-  border-color: #d946ef !important;
-  color: #d946ef !important;
-}
-
-.button-magenta.colored {
-  background-color: rgba(217, 70, 239, 0.2) !important;
-  color: #d946ef !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-magenta.colored:hover {
-  background-color: rgba(217, 70, 239, 0.3) !important;
-}
-
-.button-pink {
-  background-color: rgb(255, 141.04, 179.54) !important;
-  color: #121212;
-}
-.button-pink:hover {
-  background-color: #ff6b9d !important;
-}
-
-.button-pink.outlined {
-  background-color: transparent !important;
-  color: rgb(255, 141.04, 179.54) !important;
-  border: solid rgb(255, 141.04, 179.54) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-pink.outlined:hover {
-  border-color: #ff6b9d !important;
-  color: #ff6b9d !important;
-}
-
-.button-pink.colored {
-  background-color: rgba(255, 107, 157, 0.2) !important;
-  color: #ff6b9d !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-pink.colored:hover {
-  background-color: rgba(255, 107, 157, 0.3) !important;
-}
-
-.button-brown {
-  background-color: rgb(181.85, 146.43, 119.48) !important;
-  color: #121212;
-}
-.button-brown:hover {
-  background-color: #a0724f !important;
-}
-
-.button-brown.outlined {
-  background-color: transparent !important;
-  color: rgb(181.85, 146.43, 119.48) !important;
-  border: solid rgb(181.85, 146.43, 119.48) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-brown.outlined:hover {
-  border-color: #a0724f !important;
-  color: #a0724f !important;
-}
-
-.button-brown.colored {
-  background-color: rgba(160, 114, 79, 0.2) !important;
-  color: #a0724f !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-brown.colored:hover {
-  background-color: rgba(160, 114, 79, 0.3) !important;
-}
-
-.button-stone {
-  background-color: rgb(165.68, 161.83, 157.21) !important;
-  color: #121212;
-}
-.button-stone:hover {
-  background-color: #8b8680 !important;
-}
-
-.button-stone.outlined {
-  background-color: transparent !important;
-  color: rgb(165.68, 161.83, 157.21) !important;
-  border: solid rgb(165.68, 161.83, 157.21) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-stone.outlined:hover {
-  border-color: #8b8680 !important;
-  color: #8b8680 !important;
-}
-
-.button-stone.colored {
-  background-color: rgba(139, 134, 128, 0.2) !important;
-  color: #8b8680 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-stone.colored:hover {
-  background-color: rgba(139, 134, 128, 0.3) !important;
-}
-
-.button-iron {
-  background-color: rgb(135.65, 147.97, 165.68) !important;
-  color: #121212;
-}
-.button-iron:hover {
-  background-color: #64748b !important;
-}
-
-.button-iron.outlined {
-  background-color: transparent !important;
-  color: rgb(135.65, 147.97, 165.68) !important;
-  border: solid rgb(135.65, 147.97, 165.68) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-iron.outlined:hover {
-  border-color: #64748b !important;
-  color: #64748b !important;
-}
-
-.button-iron.colored {
-  background-color: rgba(100, 116, 139, 0.2) !important;
-  color: #64748b !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-iron.colored:hover {
-  background-color: rgba(100, 116, 139, 0.3) !important;
-}
-
-.button-navy {
-  background-color: rgb(97.92, 108.7, 124.1) !important;
-  color: #fcfcfc;
-}
-.button-navy:hover {
-  background-color: #334155 !important;
-}
-
-.button-navy.outlined {
-  background-color: transparent !important;
-  color: rgb(97.92, 108.7, 124.1) !important;
-  border: solid rgb(97.92, 108.7, 124.1) 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-navy.outlined:hover {
-  border-color: #334155 !important;
-  color: #334155 !important;
-}
-
-.button-navy.colored {
-  background-color: rgba(51, 65, 85, 0.2) !important;
-  color: #334155 !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-navy.colored:hover {
-  background-color: rgba(51, 65, 85, 0.3) !important;
-}
-
-.button-gray {
-  background-color: #bdbdbd !important;
-  color: #121212;
-}
-.button-gray:hover {
-  background-color: #9e9e9e !important;
-}
-
-.button-gray.outlined {
-  background-color: transparent !important;
-  color: #bdbdbd !important;
-  border: solid #bdbdbd 2px !important;
-  font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms !important;
-}
-.button-gray.outlined:hover {
-  border-color: #9e9e9e !important;
-  color: #9e9e9e !important;
-}
-
-.button-gray.colored {
-  background-color: rgba(158, 158, 158, 0.2) !important;
-  color: #9e9e9e !important;
-  transition: color ease-in-out 200ms, background ease-in 200ms !important;
-}
-.button-gray.colored:hover {
-  background-color: rgba(158, 158, 158, 0.3) !important;
-}
-
 .button-red {
   background-color: rgb(236.52, 80.98, 96.38) !important;
   color: #121212;
@@ -8881,6 +8183,522 @@
 .button-black.outlined:hover {
   border-color: #212121 !important;
   color: #212121 !important;
+}
+
+.link-red {
+  color: rgb(236.52, 80.98, 96.38) !important;
+}
+.link-red:hover {
+  color: rgb(196.35, 24.65, 41.65) !important;
+}
+
+.link-cherry {
+  color: rgb(246.53, 107.16, 131.03) !important;
+}
+.link-cherry:hover {
+  color: rgb(207.4, 53.55, 79.9) !important;
+}
+
+.link-orange {
+  color: rgb(253.46, 155.67, 74.05) !important;
+}
+.link-orange:hover {
+  color: rgb(215.05, 107.1, 17) !important;
+}
+
+.link-gold {
+  color: rgb(247.3, 190.32, 67.12) !important;
+}
+.link-gold:hover {
+  color: rgb(208.25, 145.35, 9.35) !important;
+}
+
+.link-yellow {
+  color: rgb(248.84, 221.89, 71.74) !important;
+}
+.link-yellow:hover {
+  color: rgb(209.95, 180.2, 14.45) !important;
+}
+
+.link-green {
+  color: rgb(89.45, 187.24, 111.78) !important;
+}
+.link-green:hover {
+  color: rgb(34, 141.95, 58.65) !important;
+}
+
+.link-teal {
+  color: rgb(83.29, 213.42, 174.92) !important;
+}
+.link-teal:hover {
+  color: rgb(27.2, 170.85, 128.35) !important;
+}
+
+.link-cyan {
+  color: rgb(91.76, 192.63, 208.03) !important;
+}
+.link-cyan:hover {
+  color: rgb(36.55, 147.9, 164.9) !important;
+}
+
+.link-sky {
+  color: rgb(101.77, 185.7, 255) !important;
+}
+.link-sky:hover {
+  color: rgb(47.6, 140.25, 216.75) !important;
+}
+
+.link-blue {
+  color: rgb(58.65, 153.36, 255) !important;
+}
+.link-blue:hover {
+  color: rgb(0, 104.55, 216.75) !important;
+}
+
+.link-royal {
+  color: rgb(134.88, 137.19, 244.22) !important;
+}
+.link-royal:hover {
+  color: rgb(84.15, 86.7, 204.85) !important;
+}
+
+.link-purple {
+  color: rgb(188.01, 124.1, 248.84) !important;
+}
+.link-purple:hover {
+  color: rgb(142.8, 72.25, 209.95) !important;
+}
+
+.link-magenta {
+  color: rgb(225.74, 112.55, 242.68) !important;
+}
+.link-magenta:hover {
+  color: rgb(184.45, 59.5, 203.15) !important;
+}
+
+.link-pink {
+  color: rgb(255, 141.04, 179.54) !important;
+}
+.link-pink:hover {
+  color: rgb(216.75, 90.95, 133.45) !important;
+}
+
+.link-brown {
+  color: rgb(181.85, 146.43, 119.48) !important;
+}
+.link-brown:hover {
+  color: rgb(136, 96.9, 67.15) !important;
+}
+
+.link-stone {
+  color: rgb(165.68, 161.83, 157.21) !important;
+}
+.link-stone:hover {
+  color: rgb(118.15, 113.9, 108.8) !important;
+}
+
+.link-iron {
+  color: rgb(135.65, 147.97, 165.68) !important;
+}
+.link-iron:hover {
+  color: rgb(85, 98.6, 118.15) !important;
+}
+
+.link-navy {
+  color: rgb(97.92, 108.7, 124.1) !important;
+}
+.link-navy:hover {
+  color: rgb(43.35, 55.25, 72.25) !important;
+}
+
+.link-gray {
+  color: #bdbdbd !important;
+}
+.link-gray:hover {
+  color: #757575 !important;
+}
+
+.link-white {
+  color: #eeeeee !important;
+}
+.link-white:hover {
+  color: #e0e0e0 !important;
+}
+
+.link-black {
+  color: #424242 !important;
+}
+.link-black:hover {
+  color: #212121 !important;
+}
+
+.input-red {
+  border: solid rgb(236.52, 80.98, 96.38) 2px !important;
+  color: rgb(161.7, 20.3, 34.3);
+}
+.input-red::placeholder {
+  color: rgb(245.4, 164.6, 172.6) !important;
+}
+.input-red:hover, .input-red:focus {
+  border: solid rgb(196.35, 24.65, 41.65) 2px !important;
+}
+
+.input-red.colored {
+  background-color: rgb(253.32, 239.18, 240.58) !important;
+}
+
+.input-cherry {
+  border: solid rgb(246.53, 107.16, 131.03) 2px !important;
+  color: rgb(170.8, 44.1, 65.8);
+}
+.input-cherry::placeholder {
+  color: rgb(250.6, 178.2, 190.6) !important;
+}
+.input-cherry:hover, .input-cherry:focus {
+  border: solid rgb(207.4, 53.55, 79.9) 2px !important;
+}
+
+.input-cherry.colored {
+  background-color: rgb(254.23, 241.56, 243.73) !important;
+}
+
+.input-orange {
+  border: solid rgb(253.46, 155.67, 74.05) 2px !important;
+  color: rgb(177.1, 88.2, 14);
+}
+.input-orange::placeholder {
+  color: rgb(254.2, 203.4, 161) !important;
+}
+.input-orange:hover, .input-orange:focus {
+  border: solid rgb(215.05, 107.1, 17) 2px !important;
+}
+
+.input-orange.colored {
+  background-color: rgb(254.86, 245.97, 238.55) !important;
+}
+
+.input-gold {
+  border: solid rgb(247.3, 190.32, 67.12) 2px !important;
+  color: rgb(171.5, 119.7, 7.7);
+}
+.input-gold::placeholder {
+  color: rgb(251, 221.4, 157.4) !important;
+}
+.input-gold:hover, .input-gold:focus {
+  border: solid rgb(208.25, 145.35, 9.35) 2px !important;
+}
+
+.input-gold.colored {
+  background-color: rgb(254.3, 249.12, 237.92) !important;
+}
+
+.input-yellow {
+  border: solid rgb(248.84, 221.89, 71.74) 2px !important;
+  color: rgb(172.9, 148.4, 11.9);
+}
+.input-yellow::placeholder {
+  color: rgb(251.8, 237.8, 159.8) !important;
+}
+.input-yellow:hover, .input-yellow:focus {
+  border: solid rgb(209.95, 180.2, 14.45) 2px !important;
+}
+
+.input-yellow.colored {
+  background-color: rgb(254.44, 251.99, 238.34) !important;
+}
+
+.input-green {
+  border: solid rgb(89.45, 187.24, 111.78) 2px !important;
+  color: rgb(28, 116.9, 48.3);
+}
+.input-green::placeholder {
+  color: rgb(169, 219.8, 180.6) !important;
+}
+.input-green:hover, .input-green:focus {
+  border: solid rgb(34, 141.95, 58.65) 2px !important;
+}
+
+.input-green.colored {
+  background-color: rgb(239.95, 248.84, 241.98) !important;
+}
+
+.input-teal {
+  border: solid rgb(83.29, 213.42, 174.92) 2px !important;
+  color: rgb(22.4, 140.7, 105.7);
+}
+.input-teal::placeholder {
+  color: rgb(165.8, 233.4, 213.4) !important;
+}
+.input-teal:hover, .input-teal:focus {
+  border: solid rgb(27.2, 170.85, 128.35) 2px !important;
+}
+
+.input-teal.colored {
+  background-color: rgb(239.39, 251.22, 247.72) !important;
+}
+
+.input-cyan {
+  border: solid rgb(91.76, 192.63, 208.03) 2px !important;
+  color: rgb(30.1, 121.8, 135.8);
+}
+.input-cyan::placeholder {
+  color: rgb(170.2, 222.6, 230.6) !important;
+}
+.input-cyan:hover, .input-cyan:focus {
+  border: solid rgb(36.55, 147.9, 164.9) 2px !important;
+}
+
+.input-cyan.colored {
+  background-color: rgb(240.16, 249.33, 250.73) !important;
+}
+
+.input-sky {
+  border: solid rgb(101.77, 185.7, 255) 2px !important;
+  color: rgb(39.2, 115.5, 178.5);
+}
+.input-sky::placeholder {
+  color: rgb(175.4, 219, 255) !important;
+}
+.input-sky:hover, .input-sky:focus {
+  border: solid rgb(47.6, 140.25, 216.75) 2px !important;
+}
+
+.input-sky.colored {
+  background-color: rgb(241.07, 248.7, 255) !important;
+}
+
+.input-blue {
+  border: solid rgb(58.65, 153.36, 255) 2px !important;
+  color: rgb(0, 86.1, 178.5);
+}
+.input-blue::placeholder {
+  color: rgb(153, 202.2, 255) !important;
+}
+.input-blue:hover, .input-blue:focus {
+  border: solid rgb(0, 104.55, 216.75) 2px !important;
+}
+
+.input-blue.colored {
+  background-color: rgb(237.15, 245.76, 255) !important;
+}
+
+.input-royal {
+  border: solid rgb(134.88, 137.19, 244.22) 2px !important;
+  color: rgb(69.3, 71.4, 168.7);
+}
+.input-royal::placeholder {
+  color: rgb(192.6, 193.8, 249.4) !important;
+}
+.input-royal:hover, .input-royal:focus {
+  border: solid rgb(84.15, 86.7, 204.85) 2px !important;
+}
+
+.input-royal.colored {
+  background-color: rgb(244.08, 244.29, 254.02) !important;
+}
+
+.input-purple {
+  border: solid rgb(188.01, 124.1, 248.84) 2px !important;
+  color: rgb(117.6, 59.5, 172.9);
+}
+.input-purple::placeholder {
+  color: rgb(220.2, 187, 251.8) !important;
+}
+.input-purple:hover, .input-purple:focus {
+  border: solid rgb(142.8, 72.25, 209.95) 2px !important;
+}
+
+.input-purple.colored {
+  background-color: rgb(248.91, 243.1, 254.44) !important;
+}
+
+.input-magenta {
+  border: solid rgb(225.74, 112.55, 242.68) 2px !important;
+  color: rgb(151.9, 49, 167.3);
+}
+.input-magenta::placeholder {
+  color: rgb(239.8, 181, 248.6) !important;
+}
+.input-magenta:hover, .input-magenta:focus {
+  border: solid rgb(184.45, 59.5, 203.15) 2px !important;
+}
+
+.input-magenta.colored {
+  background-color: rgb(252.34, 242.05, 253.88) !important;
+}
+
+.input-pink {
+  border: solid rgb(255, 141.04, 179.54) 2px !important;
+  color: rgb(178.5, 74.9, 109.9);
+}
+.input-pink::placeholder {
+  color: rgb(255, 195.8, 215.8) !important;
+}
+.input-pink:hover, .input-pink:focus {
+  border: solid rgb(216.75, 90.95, 133.45) 2px !important;
+}
+
+.input-pink.colored {
+  background-color: rgb(255, 244.64, 248.14) !important;
+}
+
+.input-brown {
+  border: solid rgb(181.85, 146.43, 119.48) 2px !important;
+  color: rgb(112, 79.8, 55.3);
+}
+.input-brown::placeholder {
+  color: rgb(217, 198.6, 184.6) !important;
+}
+.input-brown:hover, .input-brown:focus {
+  border: solid rgb(136, 96.9, 67.15) 2px !important;
+}
+
+.input-brown.colored {
+  background-color: rgb(248.35, 245.13, 242.68) !important;
+}
+
+.input-stone {
+  border: solid rgb(165.68, 161.83, 157.21) 2px !important;
+  color: rgb(97.3, 93.8, 89.6);
+}
+.input-stone::placeholder {
+  color: rgb(208.6, 206.6, 204.2) !important;
+}
+.input-stone:hover, .input-stone:focus {
+  border: solid rgb(118.15, 113.9, 108.8) 2px !important;
+}
+
+.input-stone.colored {
+  background-color: rgb(246.88, 246.53, 246.11) !important;
+}
+
+.input-iron {
+  border: solid rgb(135.65, 147.97, 165.68) 2px !important;
+  color: rgb(70, 81.2, 97.3);
+}
+.input-iron::placeholder {
+  color: rgb(193, 199.4, 208.6) !important;
+}
+.input-iron:hover, .input-iron:focus {
+  border: solid rgb(85, 98.6, 118.15) 2px !important;
+}
+
+.input-iron.colored {
+  background-color: rgb(244.15, 245.27, 246.88) !important;
+}
+
+.input-navy {
+  border: solid rgb(97.92, 108.7, 124.1) 2px !important;
+  color: rgb(35.7, 45.5, 59.5);
+}
+.input-navy::placeholder {
+  color: rgb(173.4, 179, 187) !important;
+}
+.input-navy:hover, .input-navy:focus {
+  border: solid rgb(43.35, 55.25, 72.25) 2px !important;
+}
+
+.input-navy.colored {
+  background-color: rgb(240.72, 241.7, 243.1) !important;
+}
+
+.input-gray {
+  border: solid #bdbdbd 2px !important;
+  color: #616161;
+}
+.input-gray::placeholder {
+  color: rgb(216.2, 216.2, 216.2) !important;
+}
+.input-gray:hover, .input-gray:focus {
+  border: solid #757575 2px !important;
+}
+
+.input-gray.colored {
+  background-color: rgb(253.95, 253.95, 253.95) !important;
+}
+
+.input-white {
+  border: solid #eeeeee 2px !important;
+}
+.input-white::placeholder {
+  color: #e0e0e0 !important;
+}
+.input-white:hover {
+  border: solid #e0e0e0 2px !important;
+}
+
+.input-black {
+  border: solid #424242 2px !important;
+}
+.input-black::placeholder {
+  color: #212121 !important;
+}
+.input-black:hover {
+  border: solid #212121 2px !important;
+}
+
+.text-3xs {
+  font-size: 8px !important;
+}
+
+.text-2xs {
+  font-size: 10px !important;
+}
+
+.text-xs {
+  font-size: 12px !important;
+}
+
+.text-sm {
+  font-size: 14px !important;
+}
+
+.text-base {
+  font-size: 16px !important;
+}
+
+.text-lg {
+  font-size: 18px !important;
+}
+
+.text-xl {
+  font-size: 20px !important;
+}
+
+.text-2xl {
+  font-size: 24px !important;
+}
+
+.text-3xl {
+  font-size: 28px !important;
+}
+
+.text-4xl {
+  font-size: 36px !important;
+}
+
+.text-5xl {
+  font-size: 40px !important;
+}
+
+.text-6xl {
+  font-size: 48px !important;
+}
+
+.text-7xl {
+  font-size: 60px !important;
+}
+
+.text-8xl {
+  font-size: 72px !important;
+}
+
+.text-9xl {
+  font-size: 96px !important;
+}
+
+.text-xxl {
+  font-size: 128px !important;
 }
 
 .w-auto {
@@ -9841,46 +9659,6 @@
 
 .max-h-dvh {
   max-height: 100dvh !important;
-}
-
-.rounded-none {
-  border-radius: 0px !important;
-}
-
-.rounded-sm {
-  border-radius: 1px !important;
-}
-
-.rounded-base {
-  border-radius: 2px !important;
-}
-
-.rounded-md {
-  border-radius: 4px !important;
-}
-
-.rounded-lg {
-  border-radius: 6px !important;
-}
-
-.rounded-xl {
-  border-radius: 8px !important;
-}
-
-.rounded-2xl {
-  border-radius: 12px !important;
-}
-
-.rounded-3xl {
-  border-radius: 16px !important;
-}
-
-.rounded-4xl {
-  border-radius: 24px !important;
-}
-
-.rounded-full {
-  border-radius: 9999px !important;
 }
 
 .m-0 {
@@ -12571,373 +12349,44 @@
   gap: 960px !important;
 }
 
-.text-3xs {
-  font-size: 8px !important;
+.rounded-none {
+  border-radius: 0px !important;
 }
 
-.text-2xs {
-  font-size: 10px !important;
+.rounded-sm {
+  border-radius: 1px !important;
 }
 
-.text-xs {
-  font-size: 12px !important;
+.rounded-base {
+  border-radius: 2px !important;
 }
 
-.text-sm {
-  font-size: 14px !important;
+.rounded-md {
+  border-radius: 4px !important;
 }
 
-.text-base {
-  font-size: 16px !important;
+.rounded-lg {
+  border-radius: 6px !important;
 }
 
-.text-lg {
-  font-size: 18px !important;
+.rounded-xl {
+  border-radius: 8px !important;
 }
 
-.text-xl {
-  font-size: 20px !important;
+.rounded-2xl {
+  border-radius: 12px !important;
 }
 
-.text-2xl {
-  font-size: 24px !important;
+.rounded-3xl {
+  border-radius: 16px !important;
 }
 
-.text-3xl {
-  font-size: 28px !important;
+.rounded-4xl {
+  border-radius: 24px !important;
 }
 
-.text-4xl {
-  font-size: 36px !important;
-}
-
-.text-5xl {
-  font-size: 40px !important;
-}
-
-.text-6xl {
-  font-size: 48px !important;
-}
-
-.text-7xl {
-  font-size: 60px !important;
-}
-
-.text-8xl {
-  font-size: 72px !important;
-}
-
-.text-9xl {
-  font-size: 96px !important;
-}
-
-.text-xxl {
-  font-size: 128px !important;
-}
-
-.input-red {
-  border: solid rgb(236.52, 80.98, 96.38) 2px !important;
-  color: rgb(161.7, 20.3, 34.3);
-}
-.input-red::placeholder {
-  color: rgb(245.4, 164.6, 172.6) !important;
-}
-.input-red:hover, .input-red:focus {
-  border: solid rgb(196.35, 24.65, 41.65) 2px !important;
-}
-
-.input-red.colored {
-  background-color: rgb(253.32, 239.18, 240.58) !important;
-}
-
-.input-cherry {
-  border: solid rgb(246.53, 107.16, 131.03) 2px !important;
-  color: rgb(170.8, 44.1, 65.8);
-}
-.input-cherry::placeholder {
-  color: rgb(250.6, 178.2, 190.6) !important;
-}
-.input-cherry:hover, .input-cherry:focus {
-  border: solid rgb(207.4, 53.55, 79.9) 2px !important;
-}
-
-.input-cherry.colored {
-  background-color: rgb(254.23, 241.56, 243.73) !important;
-}
-
-.input-orange {
-  border: solid rgb(253.46, 155.67, 74.05) 2px !important;
-  color: rgb(177.1, 88.2, 14);
-}
-.input-orange::placeholder {
-  color: rgb(254.2, 203.4, 161) !important;
-}
-.input-orange:hover, .input-orange:focus {
-  border: solid rgb(215.05, 107.1, 17) 2px !important;
-}
-
-.input-orange.colored {
-  background-color: rgb(254.86, 245.97, 238.55) !important;
-}
-
-.input-gold {
-  border: solid rgb(247.3, 190.32, 67.12) 2px !important;
-  color: rgb(171.5, 119.7, 7.7);
-}
-.input-gold::placeholder {
-  color: rgb(251, 221.4, 157.4) !important;
-}
-.input-gold:hover, .input-gold:focus {
-  border: solid rgb(208.25, 145.35, 9.35) 2px !important;
-}
-
-.input-gold.colored {
-  background-color: rgb(254.3, 249.12, 237.92) !important;
-}
-
-.input-yellow {
-  border: solid rgb(248.84, 221.89, 71.74) 2px !important;
-  color: rgb(172.9, 148.4, 11.9);
-}
-.input-yellow::placeholder {
-  color: rgb(251.8, 237.8, 159.8) !important;
-}
-.input-yellow:hover, .input-yellow:focus {
-  border: solid rgb(209.95, 180.2, 14.45) 2px !important;
-}
-
-.input-yellow.colored {
-  background-color: rgb(254.44, 251.99, 238.34) !important;
-}
-
-.input-green {
-  border: solid rgb(89.45, 187.24, 111.78) 2px !important;
-  color: rgb(28, 116.9, 48.3);
-}
-.input-green::placeholder {
-  color: rgb(169, 219.8, 180.6) !important;
-}
-.input-green:hover, .input-green:focus {
-  border: solid rgb(34, 141.95, 58.65) 2px !important;
-}
-
-.input-green.colored {
-  background-color: rgb(239.95, 248.84, 241.98) !important;
-}
-
-.input-teal {
-  border: solid rgb(83.29, 213.42, 174.92) 2px !important;
-  color: rgb(22.4, 140.7, 105.7);
-}
-.input-teal::placeholder {
-  color: rgb(165.8, 233.4, 213.4) !important;
-}
-.input-teal:hover, .input-teal:focus {
-  border: solid rgb(27.2, 170.85, 128.35) 2px !important;
-}
-
-.input-teal.colored {
-  background-color: rgb(239.39, 251.22, 247.72) !important;
-}
-
-.input-cyan {
-  border: solid rgb(91.76, 192.63, 208.03) 2px !important;
-  color: rgb(30.1, 121.8, 135.8);
-}
-.input-cyan::placeholder {
-  color: rgb(170.2, 222.6, 230.6) !important;
-}
-.input-cyan:hover, .input-cyan:focus {
-  border: solid rgb(36.55, 147.9, 164.9) 2px !important;
-}
-
-.input-cyan.colored {
-  background-color: rgb(240.16, 249.33, 250.73) !important;
-}
-
-.input-sky {
-  border: solid rgb(101.77, 185.7, 255) 2px !important;
-  color: rgb(39.2, 115.5, 178.5);
-}
-.input-sky::placeholder {
-  color: rgb(175.4, 219, 255) !important;
-}
-.input-sky:hover, .input-sky:focus {
-  border: solid rgb(47.6, 140.25, 216.75) 2px !important;
-}
-
-.input-sky.colored {
-  background-color: rgb(241.07, 248.7, 255) !important;
-}
-
-.input-blue {
-  border: solid rgb(58.65, 153.36, 255) 2px !important;
-  color: rgb(0, 86.1, 178.5);
-}
-.input-blue::placeholder {
-  color: rgb(153, 202.2, 255) !important;
-}
-.input-blue:hover, .input-blue:focus {
-  border: solid rgb(0, 104.55, 216.75) 2px !important;
-}
-
-.input-blue.colored {
-  background-color: rgb(237.15, 245.76, 255) !important;
-}
-
-.input-royal {
-  border: solid rgb(134.88, 137.19, 244.22) 2px !important;
-  color: rgb(69.3, 71.4, 168.7);
-}
-.input-royal::placeholder {
-  color: rgb(192.6, 193.8, 249.4) !important;
-}
-.input-royal:hover, .input-royal:focus {
-  border: solid rgb(84.15, 86.7, 204.85) 2px !important;
-}
-
-.input-royal.colored {
-  background-color: rgb(244.08, 244.29, 254.02) !important;
-}
-
-.input-purple {
-  border: solid rgb(188.01, 124.1, 248.84) 2px !important;
-  color: rgb(117.6, 59.5, 172.9);
-}
-.input-purple::placeholder {
-  color: rgb(220.2, 187, 251.8) !important;
-}
-.input-purple:hover, .input-purple:focus {
-  border: solid rgb(142.8, 72.25, 209.95) 2px !important;
-}
-
-.input-purple.colored {
-  background-color: rgb(248.91, 243.1, 254.44) !important;
-}
-
-.input-magenta {
-  border: solid rgb(225.74, 112.55, 242.68) 2px !important;
-  color: rgb(151.9, 49, 167.3);
-}
-.input-magenta::placeholder {
-  color: rgb(239.8, 181, 248.6) !important;
-}
-.input-magenta:hover, .input-magenta:focus {
-  border: solid rgb(184.45, 59.5, 203.15) 2px !important;
-}
-
-.input-magenta.colored {
-  background-color: rgb(252.34, 242.05, 253.88) !important;
-}
-
-.input-pink {
-  border: solid rgb(255, 141.04, 179.54) 2px !important;
-  color: rgb(178.5, 74.9, 109.9);
-}
-.input-pink::placeholder {
-  color: rgb(255, 195.8, 215.8) !important;
-}
-.input-pink:hover, .input-pink:focus {
-  border: solid rgb(216.75, 90.95, 133.45) 2px !important;
-}
-
-.input-pink.colored {
-  background-color: rgb(255, 244.64, 248.14) !important;
-}
-
-.input-brown {
-  border: solid rgb(181.85, 146.43, 119.48) 2px !important;
-  color: rgb(112, 79.8, 55.3);
-}
-.input-brown::placeholder {
-  color: rgb(217, 198.6, 184.6) !important;
-}
-.input-brown:hover, .input-brown:focus {
-  border: solid rgb(136, 96.9, 67.15) 2px !important;
-}
-
-.input-brown.colored {
-  background-color: rgb(248.35, 245.13, 242.68) !important;
-}
-
-.input-stone {
-  border: solid rgb(165.68, 161.83, 157.21) 2px !important;
-  color: rgb(97.3, 93.8, 89.6);
-}
-.input-stone::placeholder {
-  color: rgb(208.6, 206.6, 204.2) !important;
-}
-.input-stone:hover, .input-stone:focus {
-  border: solid rgb(118.15, 113.9, 108.8) 2px !important;
-}
-
-.input-stone.colored {
-  background-color: rgb(246.88, 246.53, 246.11) !important;
-}
-
-.input-iron {
-  border: solid rgb(135.65, 147.97, 165.68) 2px !important;
-  color: rgb(70, 81.2, 97.3);
-}
-.input-iron::placeholder {
-  color: rgb(193, 199.4, 208.6) !important;
-}
-.input-iron:hover, .input-iron:focus {
-  border: solid rgb(85, 98.6, 118.15) 2px !important;
-}
-
-.input-iron.colored {
-  background-color: rgb(244.15, 245.27, 246.88) !important;
-}
-
-.input-navy {
-  border: solid rgb(97.92, 108.7, 124.1) 2px !important;
-  color: rgb(35.7, 45.5, 59.5);
-}
-.input-navy::placeholder {
-  color: rgb(173.4, 179, 187) !important;
-}
-.input-navy:hover, .input-navy:focus {
-  border: solid rgb(43.35, 55.25, 72.25) 2px !important;
-}
-
-.input-navy.colored {
-  background-color: rgb(240.72, 241.7, 243.1) !important;
-}
-
-.input-gray {
-  border: solid #bdbdbd 2px !important;
-  color: #616161;
-}
-.input-gray::placeholder {
-  color: rgb(216.2, 216.2, 216.2) !important;
-}
-.input-gray:hover, .input-gray:focus {
-  border: solid #757575 2px !important;
-}
-
-.input-gray.colored {
-  background-color: rgb(253.95, 253.95, 253.95) !important;
-}
-
-.input-white {
-  border: solid #eeeeee 2px !important;
-}
-.input-white::placeholder {
-  color: #e0e0e0 !important;
-}
-.input-white:hover {
-  border: solid #e0e0e0 2px !important;
-}
-
-.input-black {
-  border: solid #424242 2px !important;
-}
-.input-black::placeholder {
-  color: #212121 !important;
-}
-.input-black:hover {
-  border: solid #212121 2px !important;
+.rounded-full {
+  border-radius: 9999px !important;
 }
 
 html {

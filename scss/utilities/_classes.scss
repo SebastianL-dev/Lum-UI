@@ -1,0 +1,27 @@
+@use "../abstracts/variables/index" as vars;
+@use "../abstracts/mixins" as m;
+
+// Generate all color classes
+@include m.generateMainColorClasses(vars.$colors);
+@include m.generateBasicColorClasses(vars.$basicColors);
+
+// Generate all colors for button class
+@include m.generateButtonColors(vars.$colors, vars.$blackWhiteColors);
+
+// Generate all colors for link class
+@include m.generateLinkColors(vars.$colors, vars.$blackWhiteColors);
+
+// Generate all colors for input class
+@include m.generateInputs(vars.$colors, vars.$blackWhiteColors);
+
+// Generate all text sizes classes
+@include m.generateTextSizes(vars.$text-sizes);
+
+// Generate all classes for dimentions
+@include m.generateDimensions(vars.$dimension-sizes);
+
+// Generate all classes for spacings
+@include m.generateSpacing(vars.$spacing-sizes);
+
+// Generate all clases for border radius
+@include m.generateRadius(vars.$radius-sizes);
