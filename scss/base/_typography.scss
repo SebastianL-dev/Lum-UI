@@ -1,21 +1,20 @@
 @use "../abstracts/variables/typography" as *;
 @use "../abstracts/variables/sizes" as *;
-@use "../abstracts/variables/colors" as *;
 
 .title {
-  color: $gray-900;
+  color: var(--color-gray-900);
   font-weight: $font-weight-bold;
   font-size: $small-size-3xl;
 }
 
 .subtitle {
-  color: $gray-600;
+  color: var(--color-gray-600);
   font-weight: $font-weight-semibold;
   font-size: $small-size-xl;
 }
 
 .text {
-  color: $gray-700;
+  color: var(--color-gray-700);
   font-weight: $font-weight-semibold;
   font-size: $small-size-base;
   height: fit-content;

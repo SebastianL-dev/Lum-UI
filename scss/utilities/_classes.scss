@@ -1,4 +1,4 @@
-@use "../abstracts/variables/index" as vars;
+@use "../abstracts/variables" as vars;
 @use "../abstracts/mixins" as m;
 
 // Generate all color classes
@@ -25,3 +25,6 @@
 
 // Generate all clases for border radius
 @include m.generateRadius(vars.$radius-sizes);
+
+// Generate css variables
+@include m.buildVariables();

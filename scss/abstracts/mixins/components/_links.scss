@@ -1,24 +1,29 @@
 @use "sass:map";
+@use "../../functions" as func;
 
 // Generate utility classes for link colors
 @mixin generateLinkColors($colors, $grayWhiteColors) {
-  @each $colorName, $values in $colors {
-    .link-#{$colorName} {
-      color: map.get($values, 400) !important;
+  @each $name, $values in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
+    .link-#{$name} {
+      color: var(#{$varName}-400) !important;
 
       &:hover {
-        color: map.get($values, 600) !important;
+        color: var(#{$varName}-600) !important;
       }
     }
   }
 
   @if $grayWhiteColors != null {
-    @each $colorName, $values in $grayWhiteColors {
-      .link-#{$colorName} {
-        color: map.get($values, base) !important;
+    @each $name, $values in $grayWhiteColors {
+      $varName: func.buildVariableName("color", "gray", "");
+
+      .link-#{$name} {
+        color: var(#{$varName}-#{map.get($values, base)}) !important;
 
         &:hover {
-          color: map.get($values, hover) !important;
+          color: var(#{$varName}-#{map.get($values, hover)}) !important;
         }
       }
     }

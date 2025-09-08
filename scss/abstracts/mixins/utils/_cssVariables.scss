@@ -1,0 +1,27 @@
+@use "../../variables" as vars;
+@use "../../functions" as func;
+
+@mixin buildColorVariables() {
+  @each $name, $shades in vars.$colors {
+    @each $shade, $value in $shades {
+      $varName: func.buildVariableName("color", $name, $shade);
+
+      #{$varName}: #{$value};
+    }
+  }
+}
+
+@mixin buildBasicColorVariables() {
+  @each $name, $value in vars.$basicColors {
+    $varName: func.buildVariableName("color", $name, "");
+
+    #{$varName}: #{$value};
+  }
+}
+
+@mixin buildVariables() {
+  :root {
+    @include buildColorVariables();
+    @include buildBasicColorVariables();
+  }
+}

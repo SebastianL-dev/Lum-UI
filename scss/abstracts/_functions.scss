@@ -9,3 +9,12 @@
 @function darker($color, $percentage) {
   @return color.mix(black, $color, $percentage);
 }
+
+// Generate the css variable names
+@function buildVariableName($scope, $name, $level) {
+  @if $level != "" {
+    @return "--#{$scope}-#{$name}-#{$level}";
+  }
+
+  @return "--#{$scope}-#{$name}";
+}

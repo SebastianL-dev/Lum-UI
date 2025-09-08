@@ -1,36 +1,43 @@
 @use "sass:map";
+@use "../../functions" as func;
 
 @mixin generateInputs($colors, $whiteBlackColors) {
   @each $name, $values in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
     .input-#{$name} {
-      border: solid map.get($values, 400) 2px !important;
-      color: map.get($values, 700);
+      border: solid var(#{$varName}-400) 2px !important;
+      color: var(#{$varName}-700);
 
       &::placeholder {
-        color: map.get($values, 200) !important;
+        color: var(#{$varName}-200) !important;
       }
 
       &:hover,
       &:focus {
-        border: solid map.get($values, 600) 2px !important;
+        border: solid var(#{$varName}-500) 2px !important;
       }
     }
     .input-#{$name}.colored {
-      background-color: map.get($values, 50) !important;
+      background-color: var(#{$varName}-50) !important;
     }
   }
 
   @if $whiteBlackColors != null {
     @each $name, $values in $whiteBlackColors {
+      $varName: func.buildVariableName("color", "gray", "");
+
       .input-#{$name} {
-        border: solid map.get($values, base) 2px !important;
+        border: solid var(#{$varName}-#{map.get($values, base)}) 2px !important;
 
         &::placeholder {
-          color: map.get($values, hover) !important;
+          color: var(#{$varName}-#{map.get($values, hover)}) !important;
         }
 
         &:hover {
-          border: solid map.get($values, hover) 2px !important;
+          border: solid
+            var(#{$varName}-#{map.get($values, hover)})
+            2px !important;
         }
       }
     }

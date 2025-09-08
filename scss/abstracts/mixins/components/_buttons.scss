@@ -1,71 +1,84 @@
 @use "sass:map";
 @use "sass:color";
+@use "../../functions" as func;
 
 // Generate utility classes for button
 @mixin generateButtonColors($colors, $grayWhiteColors: null) {
-  @each $colorName, $values in $colors {
-    .button-#{$colorName} {
-      background-color: map.get($values, 400) !important;
+  @each $name, $values in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
+    .button-#{$name} {
+      background-color: var(#{$varName}-400) !important;
       color: if(
         color.channel(map.get($values, 400), "lightness", $space: hsl) > 50%,
-        #121212,
-        #fcfcfc
+        var(--color-gray-950),
+        var(--color-gray-50)
       );
 
       &:hover {
-        background-color: map.get($values, 500) !important;
+        background-color: var(#{$varName}-500) !important;
       }
     }
 
-    .button-#{$colorName}.outlined {
+    .button-#{$name}.outlined {
       background-color: transparent !important;
-      color: map.get($values, 400) !important;
-      border: solid map.get($values, 400) 2px !important;
+      color: var(#{$varName}-400) !important;
+      border: solid var(#{$varName}-400) 2px !important;
       font-weight: bold;
       transition: color ease-in-out 200ms, border ease-in 200ms !important;
 
       &:hover {
-        border-color: map.get($values, 500) !important;
-        color: map.get($values, 500) !important;
+        border-color: var(#{$varName}-500) !important;
+        color: var(#{$varName}-500) !important;
       }
     }
 
-    .button-#{$colorName}.colored {
-      background-color: map.get($values, 50) !important;
-      color: map.get($values, 500) !important;
+    .button-#{$name}.colored {
+      background-color: var(#{$varName}-50) !important;
+      color: var(#{$varName}-500) !important;
       transition: color ease-in-out 200ms, background ease-in 200ms !important;
 
       &:hover {
-        background-color: rgba(map.get($values, 500), 0.3) !important;
+        background-color: rgba(var(#{$varName}-500), 0.3) !important;
       }
     }
   }
 
   @if $grayWhiteColors != null {
-    @each $colorName, $values in $grayWhiteColors {
-      .button-#{$colorName} {
-        background-color: map.get($values, base) !important;
+    @each $name, $values in $grayWhiteColors {
+      $varName: func.buildVariableName("color", "gray", "");
+      $varBase: map.get($values, base);
+
+      .button-#{$name} {
+        background-color: var(#{$varName}-#{map.get($values, base)}) !important;
         color: if(
-          color.channel(map.get($values, base), "lightness", $space: hsl) > 50%,
-          #121212,
-          #fcfcfc
+          color.channel(
+              map.get($colors, "gray", $varBase),
+              "lightness",
+              $space: hsl
+            ) >
+            50%,
+          var(--color-gray-950),
+          var(--color-gray-50)
         );
 
         &:hover {
-          background-color: map.get($values, hover) !important;
+          background-color: var(
+            #{$varName}-#{map.get($values, hover)}
+          ) !important;
         }
       }
 
-      .button-#{$colorName}.outlined {
+      .button-#{$name}.outlined {
         background-color: transparent !important;
-        color: map.get($values, base) !important;
-        border: solid map.get($values, base) 2px !important;
+        color: var(#{$varName}-#{map.get($values, base)}) !important;
+        border: solid var(#{$varName}-#{map.get($values, base)}) 2px !important;
         font-weight: bold;
         transition: color ease-in-out 200ms, border ease-in 200ms !important;
 
         &:hover {
-          border-color: map.get($values, hover) !important;
-          color: map.get($values, hover) !important;
+          border-color: var(#{$varName}-#{map.get($values, hover)}) !important;
+          color: var(#{$varName}-#{map.get($values, hover)}) !important;
         }
       }
     }

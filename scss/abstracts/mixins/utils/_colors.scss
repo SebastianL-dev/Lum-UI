@@ -1,41 +1,45 @@
+@use "../../functions" as func;
+
 // Generate utility classes for main colors
 @mixin generateMainColorClasses($colors) {
-  @each $colorName, $shades in $colors {
+  @each $name, $shades in $colors {
     @each $shade, $value in $shades {
-      .bg-#{$colorName}-#{$shade} {
-        background-color: #{$value} !important;
+      $varName: func.buildVariableName("color", $name, $shade);
+
+      .bg-#{$name}-#{$shade} {
+        background-color: var(#{$varName}) !important;
       }
 
-      .text-#{$colorName}-#{$shade} {
-        color: #{$value} !important;
+      .text-#{$name}-#{$shade} {
+        color: var(#{$varName}) !important;
       }
 
-      .decoration-#{$colorName}-#{$shade} {
-        text-decoration-color: #{$value} !important;
+      .decoration-#{$name}-#{$shade} {
+        text-decoration-color: var(#{$varName}) !important;
       }
 
-      .border-#{$colorName}-#{$shade} {
-        border-color: #{$value} !important;
+      .border-#{$name}-#{$shade} {
+        border-color: var(#{$varName}) !important;
       }
 
-      .outline-#{$colorName}-#{$shade} {
-        outline-color: #{$value} !important;
+      .outline-#{$name}-#{$shade} {
+        outline-color: var(#{$varName}) !important;
       }
 
-      .accent-#{$colorName}-#{$shade} {
-        accent-color: #{$value} !important;
+      .accent-#{$name}-#{$shade} {
+        accent-color: var(#{$varName}) !important;
       }
 
-      .caret-#{$colorName}-#{$shade} {
-        caret-color: #{$value} !important;
+      .caret-#{$name}-#{$shade} {
+        caret-color: var(#{$varName}) !important;
       }
 
-      .fill-#{$colorName}-#{$shade} {
-        fill: #{$value} !important;
+      .fill-#{$name}-#{$shade} {
+        fill: var(#{$varName}) !important;
       }
 
-      .stroke-#{$colorName}-#{$shade} {
-        stroke: #{$value} !important;
+      .stroke-#{$name}-#{$shade} {
+        stroke: var(#{$varName}) !important;
       }
     }
   }
@@ -44,40 +48,42 @@
 // Generate utility classes for basic colors
 @mixin generateBasicColorClasses($colors) {
   @each $name, $value in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
     .bg-#{$name} {
-      background-color: #{$value} !important;
+      background-color: var(#{$varName}) !important;
     }
 
     .text-#{$name} {
-      color: #{$value} !important;
+      color: var(#{$varName}) !important;
     }
 
     .decoration-#{$name} {
-      text-decoration-color: #{$value} !important;
+      text-decoration-color: var(#{$varName}) !important;
     }
 
     .border-#{$name} {
-      border-color: #{$value} !important;
+      border-color: var(#{$varName}) !important;
     }
 
     .outline-#{$name} {
-      outline-color: #{$value} !important;
+      outline-color: var(#{$varName}) !important;
     }
 
     .accent-#{$name} {
-      accent-color: #{$value} !important;
+      accent-color: var(#{$varName}) !important;
     }
 
     .caret-#{$name} {
-      caret-color: #{$value} !important;
+      caret-color: var(#{$varName}) !important;
     }
 
     .fill-#{$name} {
-      fill: #{$value} !important;
+      fill: var(#{$varName}) !important;
     }
 
     .stroke-#{$name} {
-      stroke: #{$value} !important;
+      stroke: var(#{$varName}) !important;
     }
   }
 }

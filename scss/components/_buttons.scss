@@ -1,9 +1,8 @@
 @use "../abstracts/variables/sizes" as *;
 @use "../abstracts/variables/typography" as *;
-@use "../abstracts/variables/colors" as *;
 
 .button {
-  background-color: $gray-200;
+  background-color: var(--color-gray-200);
   padding-right: $small-size-xl;
   padding-left: $small-size-xl;
   padding-top: $small-size-3xs;
@@ -15,20 +14,20 @@
   border: solid transparent 0px;
 
   &:hover {
-    background-color: $gray-300;
+    background-color: var(--color-gray-300);
   }
 }
 
 .button.outlined {
   background-color: transparent;
-  color: $gray-200;
-  border: solid $gray-200 2px;
+  color: var(--color-gray-200);
+  border: solid var(--color-gray-200) 2px;
   font-weight: bold;
   transition: color ease-in-out 200ms, border ease-in 200ms;
 
   &:hover {
-    border-color: $gray-300;
-    color: $gray-300;
+    border-color: var(--color-gray-300);
+    color: var(--color-gray-300);
   }
 }
 

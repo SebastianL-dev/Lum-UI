@@ -1,7 +1,5 @@
-@use "../abstracts/variables/colors" as vars;
-
 .input {
-  border: solid vars.$gray-300 2px;
+  border: solid var(--color-gray-300) 2px;
   height: fit-content;
   padding: 10px 8px;
   border-radius: 10px;
@@ -10,14 +8,14 @@
   background-color: transparent;
 
   &::placeholder {
-    color: vars.$gray-400;
+    color: var(--color-gray-400);
   }
 
   &:hover {
-    border: solid vars.$gray-400 2px;
+    border: solid var(--color-gray-400) 2px;
   }
 
   &:focus {
-    border: solid vars.$gray-400 2px;
+    border: solid var(--color-gray-400) 2px;
   }
 }
