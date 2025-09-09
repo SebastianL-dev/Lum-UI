@@ -39,7 +39,7 @@
       transition: color ease-in-out 200ms, background ease-in 200ms !important;
 
       &:hover {
-        background-color: rgba(var(#{$varName}-500), 0.3) !important;
+        background-color: var(#{$varName}-100) !important;
       }
     }
   }

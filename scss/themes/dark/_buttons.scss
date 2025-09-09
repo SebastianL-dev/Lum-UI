@@ -1,0 +1,21 @@
+@use "../../abstracts/functions" as func;
+@use "../../abstracts/variables/colors" as var;
+
+@mixin generateDarkModeButtons($colors) {
+  @each $name, $shades in $colors {
+    @media (prefers-color-scheme: dark) {
+      $varName: func.buildVariableName("color", $name, "");
+
+      .button-#{$name}.colored {
+        background-color: var(#{$varName}-950) !important;
+        color: var(#{$varName}-500) !important;
+
+        &:hover {
+          background-color: var(#{$varName}-900) !important;
+        }
+      }
+    }
+  }
+}
+
+@include generateDarkModeButtons(var.$colors);

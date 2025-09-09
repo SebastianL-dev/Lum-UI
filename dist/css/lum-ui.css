@@ -7620,7 +7620,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-red.colored:hover {
-  background-color: rgba(var(--color-red-500), 0.3) !important;
+  background-color: var(--color-red-100) !important;
 }
 
 .button-cherry {
@@ -7649,7 +7649,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-cherry.colored:hover {
-  background-color: rgba(var(--color-cherry-500), 0.3) !important;
+  background-color: var(--color-cherry-100) !important;
 }
 
 .button-orange {
@@ -7678,7 +7678,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-orange.colored:hover {
-  background-color: rgba(var(--color-orange-500), 0.3) !important;
+  background-color: var(--color-orange-100) !important;
 }
 
 .button-gold {
@@ -7707,7 +7707,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-gold.colored:hover {
-  background-color: rgba(var(--color-gold-500), 0.3) !important;
+  background-color: var(--color-gold-100) !important;
 }
 
 .button-yellow {
@@ -7736,7 +7736,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-yellow.colored:hover {
-  background-color: rgba(var(--color-yellow-500), 0.3) !important;
+  background-color: var(--color-yellow-100) !important;
 }
 
 .button-green {
@@ -7765,7 +7765,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-green.colored:hover {
-  background-color: rgba(var(--color-green-500), 0.3) !important;
+  background-color: var(--color-green-100) !important;
 }
 
 .button-teal {
@@ -7794,7 +7794,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-teal.colored:hover {
-  background-color: rgba(var(--color-teal-500), 0.3) !important;
+  background-color: var(--color-teal-100) !important;
 }
 
 .button-cyan {
@@ -7823,7 +7823,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-cyan.colored:hover {
-  background-color: rgba(var(--color-cyan-500), 0.3) !important;
+  background-color: var(--color-cyan-100) !important;
 }
 
 .button-sky {
@@ -7852,7 +7852,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-sky.colored:hover {
-  background-color: rgba(var(--color-sky-500), 0.3) !important;
+  background-color: var(--color-sky-100) !important;
 }
 
 .button-blue {
@@ -7881,7 +7881,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-blue.colored:hover {
-  background-color: rgba(var(--color-blue-500), 0.3) !important;
+  background-color: var(--color-blue-100) !important;
 }
 
 .button-royal {
@@ -7910,7 +7910,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-royal.colored:hover {
-  background-color: rgba(var(--color-royal-500), 0.3) !important;
+  background-color: var(--color-royal-100) !important;
 }
 
 .button-purple {
@@ -7939,7 +7939,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-purple.colored:hover {
-  background-color: rgba(var(--color-purple-500), 0.3) !important;
+  background-color: var(--color-purple-100) !important;
 }
 
 .button-magenta {
@@ -7968,7 +7968,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-magenta.colored:hover {
-  background-color: rgba(var(--color-magenta-500), 0.3) !important;
+  background-color: var(--color-magenta-100) !important;
 }
 
 .button-pink {
@@ -7997,7 +7997,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-pink.colored:hover {
-  background-color: rgba(var(--color-pink-500), 0.3) !important;
+  background-color: var(--color-pink-100) !important;
 }
 
 .button-brown {
@@ -8026,7 +8026,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-brown.colored:hover {
-  background-color: rgba(var(--color-brown-500), 0.3) !important;
+  background-color: var(--color-brown-100) !important;
 }
 
 .button-stone {
@@ -8055,7 +8055,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-stone.colored:hover {
-  background-color: rgba(var(--color-stone-500), 0.3) !important;
+  background-color: var(--color-stone-100) !important;
 }
 
 .button-iron {
@@ -8084,7 +8084,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-iron.colored:hover {
-  background-color: rgba(var(--color-iron-500), 0.3) !important;
+  background-color: var(--color-iron-100) !important;
 }
 
 .button-navy {
@@ -8113,7 +8113,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-navy.colored:hover {
-  background-color: rgba(var(--color-navy-500), 0.3) !important;
+  background-color: var(--color-navy-100) !important;
 }
 
 .button-gray {
@@ -8142,7 +8142,7 @@
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-gray.colored:hover {
-  background-color: rgba(var(--color-gray-500), 0.3) !important;
+  background-color: var(--color-gray-100) !important;
 }
 
 .button-white {
@@ -13004,6 +13004,189 @@ details {
 }
 .input:focus {
   border: solid var(--color-gray-400) 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .title {
+    color: var(--color-gray-100);
+  }
+  .subtitle {
+    color: var(--color-gray-400);
+  }
+  .text {
+    color: var(--color-gray-300);
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-red.colored {
+    background-color: var(--color-red-950) !important;
+    color: var(--color-red-500) !important;
+  }
+  .button-red.colored:hover {
+    background-color: var(--color-red-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-cherry.colored {
+    background-color: var(--color-cherry-950) !important;
+    color: var(--color-cherry-500) !important;
+  }
+  .button-cherry.colored:hover {
+    background-color: var(--color-cherry-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-orange.colored {
+    background-color: var(--color-orange-950) !important;
+    color: var(--color-orange-500) !important;
+  }
+  .button-orange.colored:hover {
+    background-color: var(--color-orange-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-gold.colored {
+    background-color: var(--color-gold-950) !important;
+    color: var(--color-gold-500) !important;
+  }
+  .button-gold.colored:hover {
+    background-color: var(--color-gold-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-yellow.colored {
+    background-color: var(--color-yellow-950) !important;
+    color: var(--color-yellow-500) !important;
+  }
+  .button-yellow.colored:hover {
+    background-color: var(--color-yellow-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-green.colored {
+    background-color: var(--color-green-950) !important;
+    color: var(--color-green-500) !important;
+  }
+  .button-green.colored:hover {
+    background-color: var(--color-green-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-teal.colored {
+    background-color: var(--color-teal-950) !important;
+    color: var(--color-teal-500) !important;
+  }
+  .button-teal.colored:hover {
+    background-color: var(--color-teal-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-cyan.colored {
+    background-color: var(--color-cyan-950) !important;
+    color: var(--color-cyan-500) !important;
+  }
+  .button-cyan.colored:hover {
+    background-color: var(--color-cyan-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-sky.colored {
+    background-color: var(--color-sky-950) !important;
+    color: var(--color-sky-500) !important;
+  }
+  .button-sky.colored:hover {
+    background-color: var(--color-sky-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-blue.colored {
+    background-color: var(--color-blue-950) !important;
+    color: var(--color-blue-500) !important;
+  }
+  .button-blue.colored:hover {
+    background-color: var(--color-blue-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-royal.colored {
+    background-color: var(--color-royal-950) !important;
+    color: var(--color-royal-500) !important;
+  }
+  .button-royal.colored:hover {
+    background-color: var(--color-royal-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-purple.colored {
+    background-color: var(--color-purple-950) !important;
+    color: var(--color-purple-500) !important;
+  }
+  .button-purple.colored:hover {
+    background-color: var(--color-purple-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-magenta.colored {
+    background-color: var(--color-magenta-950) !important;
+    color: var(--color-magenta-500) !important;
+  }
+  .button-magenta.colored:hover {
+    background-color: var(--color-magenta-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-pink.colored {
+    background-color: var(--color-pink-950) !important;
+    color: var(--color-pink-500) !important;
+  }
+  .button-pink.colored:hover {
+    background-color: var(--color-pink-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-brown.colored {
+    background-color: var(--color-brown-950) !important;
+    color: var(--color-brown-500) !important;
+  }
+  .button-brown.colored:hover {
+    background-color: var(--color-brown-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-stone.colored {
+    background-color: var(--color-stone-950) !important;
+    color: var(--color-stone-500) !important;
+  }
+  .button-stone.colored:hover {
+    background-color: var(--color-stone-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-iron.colored {
+    background-color: var(--color-iron-950) !important;
+    color: var(--color-iron-500) !important;
+  }
+  .button-iron.colored:hover {
+    background-color: var(--color-iron-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-navy.colored {
+    background-color: var(--color-navy-950) !important;
+    color: var(--color-navy-500) !important;
+  }
+  .button-navy.colored:hover {
+    background-color: var(--color-navy-900) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .button-gray.colored {
+    background-color: var(--color-gray-950) !important;
+    color: var(--color-gray-500) !important;
+  }
+  .button-gray.colored:hover {
+    background-color: var(--color-gray-900) !important;
+  }
 }
 
 /*# sourceMappingURL=lum-ui.css.map */
