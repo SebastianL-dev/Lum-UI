@@ -13188,5 +13188,214 @@ details {
     background-color: var(--color-gray-900) !important;
   }
 }
+@media (prefers-color-scheme: dark) {
+  .input-red {
+    color: var(--color-red-100) !important;
+  }
+  .input-red::placeholder {
+    color: var(--color-red-700) !important;
+  }
+  .input-red.colored {
+    background-color: var(--color-red-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-cherry {
+    color: var(--color-cherry-100) !important;
+  }
+  .input-cherry::placeholder {
+    color: var(--color-cherry-700) !important;
+  }
+  .input-cherry.colored {
+    background-color: var(--color-cherry-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-orange {
+    color: var(--color-orange-100) !important;
+  }
+  .input-orange::placeholder {
+    color: var(--color-orange-700) !important;
+  }
+  .input-orange.colored {
+    background-color: var(--color-orange-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-gold {
+    color: var(--color-gold-100) !important;
+  }
+  .input-gold::placeholder {
+    color: var(--color-gold-700) !important;
+  }
+  .input-gold.colored {
+    background-color: var(--color-gold-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-yellow {
+    color: var(--color-yellow-100) !important;
+  }
+  .input-yellow::placeholder {
+    color: var(--color-yellow-700) !important;
+  }
+  .input-yellow.colored {
+    background-color: var(--color-yellow-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-green {
+    color: var(--color-green-100) !important;
+  }
+  .input-green::placeholder {
+    color: var(--color-green-700) !important;
+  }
+  .input-green.colored {
+    background-color: var(--color-green-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-teal {
+    color: var(--color-teal-100) !important;
+  }
+  .input-teal::placeholder {
+    color: var(--color-teal-700) !important;
+  }
+  .input-teal.colored {
+    background-color: var(--color-teal-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-cyan {
+    color: var(--color-cyan-100) !important;
+  }
+  .input-cyan::placeholder {
+    color: var(--color-cyan-700) !important;
+  }
+  .input-cyan.colored {
+    background-color: var(--color-cyan-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-sky {
+    color: var(--color-sky-100) !important;
+  }
+  .input-sky::placeholder {
+    color: var(--color-sky-700) !important;
+  }
+  .input-sky.colored {
+    background-color: var(--color-sky-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-blue {
+    color: var(--color-blue-100) !important;
+  }
+  .input-blue::placeholder {
+    color: var(--color-blue-700) !important;
+  }
+  .input-blue.colored {
+    background-color: var(--color-blue-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-royal {
+    color: var(--color-royal-100) !important;
+  }
+  .input-royal::placeholder {
+    color: var(--color-royal-700) !important;
+  }
+  .input-royal.colored {
+    background-color: var(--color-royal-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-purple {
+    color: var(--color-purple-100) !important;
+  }
+  .input-purple::placeholder {
+    color: var(--color-purple-700) !important;
+  }
+  .input-purple.colored {
+    background-color: var(--color-purple-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-magenta {
+    color: var(--color-magenta-100) !important;
+  }
+  .input-magenta::placeholder {
+    color: var(--color-magenta-700) !important;
+  }
+  .input-magenta.colored {
+    background-color: var(--color-magenta-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-pink {
+    color: var(--color-pink-100) !important;
+  }
+  .input-pink::placeholder {
+    color: var(--color-pink-700) !important;
+  }
+  .input-pink.colored {
+    background-color: var(--color-pink-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-brown {
+    color: var(--color-brown-100) !important;
+  }
+  .input-brown::placeholder {
+    color: var(--color-brown-700) !important;
+  }
+  .input-brown.colored {
+    background-color: var(--color-brown-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-stone {
+    color: var(--color-stone-100) !important;
+  }
+  .input-stone::placeholder {
+    color: var(--color-stone-700) !important;
+  }
+  .input-stone.colored {
+    background-color: var(--color-stone-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-iron {
+    color: var(--color-iron-100) !important;
+  }
+  .input-iron::placeholder {
+    color: var(--color-iron-700) !important;
+  }
+  .input-iron.colored {
+    background-color: var(--color-iron-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-navy {
+    color: var(--color-navy-100) !important;
+  }
+  .input-navy::placeholder {
+    color: var(--color-navy-700) !important;
+  }
+  .input-navy.colored {
+    background-color: var(--color-navy-950) !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .input-gray {
+    color: var(--color-gray-100) !important;
+  }
+  .input-gray::placeholder {
+    color: var(--color-gray-700) !important;
+  }
+  .input-gray.colored {
+    background-color: var(--color-gray-950) !important;
+  }
+}
 
 /*# sourceMappingURL=lum-ui.css.map */
