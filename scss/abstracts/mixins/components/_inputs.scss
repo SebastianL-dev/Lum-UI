@@ -6,11 +6,11 @@
     $varName: func.buildVariableName("color", $name, "");
 
     .input-#{$name} {
-      border: solid var(#{$varName}-400) 2px !important;
-      color: var(#{$varName}-700);
+      border: solid var(#{$varName}-300) 2px !important;
+      color: var(#{$varName}-600) !important;
 
       &::placeholder {
-        color: var(#{$varName}-200) !important;
+        color: var(#{$varName}-100) !important;
       }
 
       &:hover,
@@ -18,8 +18,32 @@
         border: solid var(#{$varName}-500) 2px !important;
       }
     }
+
     .input-#{$name}.colored {
-      background-color: var(#{$varName}-50) !important;
+      background-color: var(#{$varName}-25) !important;
+
+      &::placeholder {
+        color: var(#{$varName}-200) !important;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .input-#{$name} {
+        border: solid var(#{$varName}-300) 2px !important;
+        color: var(#{$varName}-100) !important;
+
+        &::placeholder {
+          color: var(#{$varName}-700) !important;
+        }
+      }
+
+      .input-#{$name}.colored {
+        background-color: var(#{$varName}-975) !important;
+
+        &::placeholder {
+          color: var(#{$varName}-700) !important;
+        }
+      }
     }
   }
 

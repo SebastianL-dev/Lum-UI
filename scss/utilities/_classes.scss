@@ -33,3 +33,7 @@
 // Generate buttons themes classes
 @include t.generateLightButtons(vars.$colors);
 @include t.generateDarkButtons(vars.$colors);
+
+// Generate inputs themes classes
+@include t.generateLightInputs(vars.$colors);
+@include t.generateDarkInputs(vars.$colors);

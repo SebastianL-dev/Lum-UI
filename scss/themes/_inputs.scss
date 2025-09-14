@@ -1,0 +1,30 @@
+@use "../abstracts/functions" as func;
+@use "../abstracts/variables/colors" as var;
+
+@mixin generateDarkInputs($colors) {
+  @each $name, $shades in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
+    .input-#{$name}.colored.dark {
+      background-color: var(#{$varName}-975) !important;
+
+      &::placeholder {
+        color: var(#{$varName}-700) !important;
+      }
+    }
+  }
+}
+
+@mixin generateLightInputs($colors) {
+  @each $name, $shades in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
+    .input-#{$name}.colored.light {
+      background-color: var(#{$varName}-25) !important;
+
+      &::placeholder {
+        color: var(#{$varName}-200) !important;
+      }
+    }
+  }
+}
