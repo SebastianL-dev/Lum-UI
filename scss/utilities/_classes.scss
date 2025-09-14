@@ -1,5 +1,6 @@
 @use "../abstracts/variables" as vars;
 @use "../abstracts/mixins" as m;
+@use "../themes" as t;
 
 // Generate all color classes
 @include m.generateMainColorClasses(vars.$colors);
@@ -28,3 +29,7 @@
 
 // Generate css variables
 @include m.buildVariables();
+
+// Generate buttons themes classes
+@include t.generateLightButtons(vars.$colors);
+@include t.generateDarkButtons(vars.$colors);

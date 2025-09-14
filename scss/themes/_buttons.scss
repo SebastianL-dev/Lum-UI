@@ -1,0 +1,32 @@
+@use "../abstracts/functions" as func;
+@use "../abstracts/variables/colors" as var;
+
+@mixin generateDarkButtons($colors) {
+  @each $name, $shades in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
+    .button-#{$name}.colored.dark {
+      background-color: var(#{$varName}-950) !important;
+      color: var(#{$varName}-500) !important;
+
+      &:hover {
+        background-color: var(#{$varName}-900) !important;
+      }
+    }
+  }
+}
+
+@mixin generateLightButtons($colors) {
+  @each $name, $shades in $colors {
+    $varName: func.buildVariableName("color", $name, "");
+
+    .button-#{$name}.colored.light {
+      background-color: var(#{$varName}-50) !important;
+      color: var(#{$varName}-500) !important;
+
+      &:hover {
+        background-color: var(#{$varName}-100) !important;
+      }
+    }
+  }
+}

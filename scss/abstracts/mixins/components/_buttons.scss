@@ -42,43 +42,60 @@
         background-color: var(#{$varName}-100) !important;
       }
     }
-  }
 
-  @if $grayWhiteColors != null {
-    @each $name, $values in $grayWhiteColors {
-      $varName: func.buildVariableName("color", "gray", "");
-      $varBase: map.get($values, base);
-
-      .button-#{$name} {
-        background-color: var(#{$varName}-#{map.get($values, base)}) !important;
-        color: if(
-          color.channel(
-              map.get($colors, "gray", $varBase),
-              "lightness",
-              $space: hsl
-            ) >
-            50%,
-          var(--color-gray-950),
-          var(--color-gray-50)
-        );
+    @media (prefers-color-scheme: dark) {
+      .button-#{$name}.colored {
+        background-color: var(#{$varName}-950) !important;
+        color: var(#{$varName}-500) !important;
 
         &:hover {
-          background-color: var(
-            #{$varName}-#{map.get($values, hover)}
-          ) !important;
+          background-color: var(#{$varName}-900) !important;
         }
       }
+    }
 
-      .button-#{$name}.outlined {
-        background-color: transparent !important;
-        color: var(#{$varName}-#{map.get($values, base)}) !important;
-        border: solid var(#{$varName}-#{map.get($values, base)}) 2px !important;
-        font-weight: bold;
-        transition: color ease-in-out 200ms, border ease-in 200ms !important;
+    @if $grayWhiteColors != null {
+      @each $name, $values in $grayWhiteColors {
+        $varName: func.buildVariableName("color", "gray", "");
+        $varBase: map.get($values, base);
 
-        &:hover {
-          border-color: var(#{$varName}-#{map.get($values, hover)}) !important;
-          color: var(#{$varName}-#{map.get($values, hover)}) !important;
+        .button-#{$name} {
+          background-color: var(
+            #{$varName}-#{map.get($values, base)}
+          ) !important;
+          color: if(
+            color.channel(
+                map.get($colors, "gray", $varBase),
+                "lightness",
+                $space: hsl
+              ) >
+              50%,
+            var(--color-gray-950),
+            var(--color-gray-50)
+          );
+
+          &:hover {
+            background-color: var(
+              #{$varName}-#{map.get($values, hover)}
+            ) !important;
+          }
+        }
+
+        .button-#{$name}.outlined {
+          background-color: transparent !important;
+          color: var(#{$varName}-#{map.get($values, base)}) !important;
+          border: solid
+            var(#{$varName}-#{map.get($values, base)})
+            2px !important;
+          font-weight: bold;
+          transition: color ease-in-out 200ms, border ease-in 200ms !important;
+
+          &:hover {
+            border-color: var(
+              #{$varName}-#{map.get($values, hover)}
+            ) !important;
+            color: var(#{$varName}-#{map.get($values, hover)}) !important;
+          }
         }
       }
     }
