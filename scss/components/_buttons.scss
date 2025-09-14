@@ -23,7 +23,7 @@
   color: var(--color-gray-200);
   border: solid var(--color-gray-200) 2px;
   font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms;
+  transition: color ease-in-out 200ms, border ease-in-out 200ms;
 
   &:hover {
     border-color: var(--color-gray-300);

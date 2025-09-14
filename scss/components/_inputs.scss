@@ -6,6 +6,8 @@
   transition: border ease-in-out 200ms;
   outline: none;
   background-color: transparent;
+  transition: background 200ms ease-in-out, color ease-in-out 200ms,
+    border ease-in-out 200ms;
 
   &::placeholder {
     color: var(--color-gray-400);

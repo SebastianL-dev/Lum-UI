@@ -16196,7 +16196,7 @@ details {
   color: var(--color-gray-200);
   border: solid var(--color-gray-200) 2px;
   font-weight: bold;
-  transition: color ease-in-out 200ms, border ease-in 200ms;
+  transition: color ease-in-out 200ms, border ease-in-out 200ms;
 }
 .button.outlined:hover {
   border-color: var(--color-gray-300);
@@ -16215,6 +16215,7 @@ details {
   transition: border ease-in-out 200ms;
   outline: none;
   background-color: transparent;
+  transition: background 200ms ease-in-out, color ease-in-out 200ms, border ease-in-out 200ms;
 }
 .input::placeholder {
   color: var(--color-gray-400);
