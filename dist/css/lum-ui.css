@@ -1,3 +1,39 @@
+.bg-red-25 {
+  background-color: var(--color-red-25) !important;
+}
+
+.text-red-25 {
+  color: var(--color-red-25) !important;
+}
+
+.decoration-red-25 {
+  text-decoration-color: var(--color-red-25) !important;
+}
+
+.border-red-25 {
+  border-color: var(--color-red-25) !important;
+}
+
+.outline-red-25 {
+  outline-color: var(--color-red-25) !important;
+}
+
+.accent-red-25 {
+  accent-color: var(--color-red-25) !important;
+}
+
+.caret-red-25 {
+  caret-color: var(--color-red-25) !important;
+}
+
+.fill-red-25 {
+  fill: var(--color-red-25) !important;
+}
+
+.stroke-red-25 {
+  stroke: var(--color-red-25) !important;
+}
+
 .bg-red-50 {
   background-color: var(--color-red-50) !important;
 }
@@ -392,6 +428,78 @@
 
 .stroke-red-950 {
   stroke: var(--color-red-950) !important;
+}
+
+.bg-red-975 {
+  background-color: var(--color-red-975) !important;
+}
+
+.text-red-975 {
+  color: var(--color-red-975) !important;
+}
+
+.decoration-red-975 {
+  text-decoration-color: var(--color-red-975) !important;
+}
+
+.border-red-975 {
+  border-color: var(--color-red-975) !important;
+}
+
+.outline-red-975 {
+  outline-color: var(--color-red-975) !important;
+}
+
+.accent-red-975 {
+  accent-color: var(--color-red-975) !important;
+}
+
+.caret-red-975 {
+  caret-color: var(--color-red-975) !important;
+}
+
+.fill-red-975 {
+  fill: var(--color-red-975) !important;
+}
+
+.stroke-red-975 {
+  stroke: var(--color-red-975) !important;
+}
+
+.bg-cherry-25 {
+  background-color: var(--color-cherry-25) !important;
+}
+
+.text-cherry-25 {
+  color: var(--color-cherry-25) !important;
+}
+
+.decoration-cherry-25 {
+  text-decoration-color: var(--color-cherry-25) !important;
+}
+
+.border-cherry-25 {
+  border-color: var(--color-cherry-25) !important;
+}
+
+.outline-cherry-25 {
+  outline-color: var(--color-cherry-25) !important;
+}
+
+.accent-cherry-25 {
+  accent-color: var(--color-cherry-25) !important;
+}
+
+.caret-cherry-25 {
+  caret-color: var(--color-cherry-25) !important;
+}
+
+.fill-cherry-25 {
+  fill: var(--color-cherry-25) !important;
+}
+
+.stroke-cherry-25 {
+  stroke: var(--color-cherry-25) !important;
 }
 
 .bg-cherry-50 {
@@ -790,6 +898,78 @@
   stroke: var(--color-cherry-950) !important;
 }
 
+.bg-cherry-975 {
+  background-color: var(--color-cherry-975) !important;
+}
+
+.text-cherry-975 {
+  color: var(--color-cherry-975) !important;
+}
+
+.decoration-cherry-975 {
+  text-decoration-color: var(--color-cherry-975) !important;
+}
+
+.border-cherry-975 {
+  border-color: var(--color-cherry-975) !important;
+}
+
+.outline-cherry-975 {
+  outline-color: var(--color-cherry-975) !important;
+}
+
+.accent-cherry-975 {
+  accent-color: var(--color-cherry-975) !important;
+}
+
+.caret-cherry-975 {
+  caret-color: var(--color-cherry-975) !important;
+}
+
+.fill-cherry-975 {
+  fill: var(--color-cherry-975) !important;
+}
+
+.stroke-cherry-975 {
+  stroke: var(--color-cherry-975) !important;
+}
+
+.bg-orange-25 {
+  background-color: var(--color-orange-25) !important;
+}
+
+.text-orange-25 {
+  color: var(--color-orange-25) !important;
+}
+
+.decoration-orange-25 {
+  text-decoration-color: var(--color-orange-25) !important;
+}
+
+.border-orange-25 {
+  border-color: var(--color-orange-25) !important;
+}
+
+.outline-orange-25 {
+  outline-color: var(--color-orange-25) !important;
+}
+
+.accent-orange-25 {
+  accent-color: var(--color-orange-25) !important;
+}
+
+.caret-orange-25 {
+  caret-color: var(--color-orange-25) !important;
+}
+
+.fill-orange-25 {
+  fill: var(--color-orange-25) !important;
+}
+
+.stroke-orange-25 {
+  stroke: var(--color-orange-25) !important;
+}
+
 .bg-orange-50 {
   background-color: var(--color-orange-50) !important;
 }
@@ -1184,6 +1364,78 @@
 
 .stroke-orange-950 {
   stroke: var(--color-orange-950) !important;
+}
+
+.bg-orange-975 {
+  background-color: var(--color-orange-975) !important;
+}
+
+.text-orange-975 {
+  color: var(--color-orange-975) !important;
+}
+
+.decoration-orange-975 {
+  text-decoration-color: var(--color-orange-975) !important;
+}
+
+.border-orange-975 {
+  border-color: var(--color-orange-975) !important;
+}
+
+.outline-orange-975 {
+  outline-color: var(--color-orange-975) !important;
+}
+
+.accent-orange-975 {
+  accent-color: var(--color-orange-975) !important;
+}
+
+.caret-orange-975 {
+  caret-color: var(--color-orange-975) !important;
+}
+
+.fill-orange-975 {
+  fill: var(--color-orange-975) !important;
+}
+
+.stroke-orange-975 {
+  stroke: var(--color-orange-975) !important;
+}
+
+.bg-gold-25 {
+  background-color: var(--color-gold-25) !important;
+}
+
+.text-gold-25 {
+  color: var(--color-gold-25) !important;
+}
+
+.decoration-gold-25 {
+  text-decoration-color: var(--color-gold-25) !important;
+}
+
+.border-gold-25 {
+  border-color: var(--color-gold-25) !important;
+}
+
+.outline-gold-25 {
+  outline-color: var(--color-gold-25) !important;
+}
+
+.accent-gold-25 {
+  accent-color: var(--color-gold-25) !important;
+}
+
+.caret-gold-25 {
+  caret-color: var(--color-gold-25) !important;
+}
+
+.fill-gold-25 {
+  fill: var(--color-gold-25) !important;
+}
+
+.stroke-gold-25 {
+  stroke: var(--color-gold-25) !important;
 }
 
 .bg-gold-50 {
@@ -1582,6 +1834,78 @@
   stroke: var(--color-gold-950) !important;
 }
 
+.bg-gold-975 {
+  background-color: var(--color-gold-975) !important;
+}
+
+.text-gold-975 {
+  color: var(--color-gold-975) !important;
+}
+
+.decoration-gold-975 {
+  text-decoration-color: var(--color-gold-975) !important;
+}
+
+.border-gold-975 {
+  border-color: var(--color-gold-975) !important;
+}
+
+.outline-gold-975 {
+  outline-color: var(--color-gold-975) !important;
+}
+
+.accent-gold-975 {
+  accent-color: var(--color-gold-975) !important;
+}
+
+.caret-gold-975 {
+  caret-color: var(--color-gold-975) !important;
+}
+
+.fill-gold-975 {
+  fill: var(--color-gold-975) !important;
+}
+
+.stroke-gold-975 {
+  stroke: var(--color-gold-975) !important;
+}
+
+.bg-yellow-25 {
+  background-color: var(--color-yellow-25) !important;
+}
+
+.text-yellow-25 {
+  color: var(--color-yellow-25) !important;
+}
+
+.decoration-yellow-25 {
+  text-decoration-color: var(--color-yellow-25) !important;
+}
+
+.border-yellow-25 {
+  border-color: var(--color-yellow-25) !important;
+}
+
+.outline-yellow-25 {
+  outline-color: var(--color-yellow-25) !important;
+}
+
+.accent-yellow-25 {
+  accent-color: var(--color-yellow-25) !important;
+}
+
+.caret-yellow-25 {
+  caret-color: var(--color-yellow-25) !important;
+}
+
+.fill-yellow-25 {
+  fill: var(--color-yellow-25) !important;
+}
+
+.stroke-yellow-25 {
+  stroke: var(--color-yellow-25) !important;
+}
+
 .bg-yellow-50 {
   background-color: var(--color-yellow-50) !important;
 }
@@ -1976,6 +2300,78 @@
 
 .stroke-yellow-950 {
   stroke: var(--color-yellow-950) !important;
+}
+
+.bg-yellow-975 {
+  background-color: var(--color-yellow-975) !important;
+}
+
+.text-yellow-975 {
+  color: var(--color-yellow-975) !important;
+}
+
+.decoration-yellow-975 {
+  text-decoration-color: var(--color-yellow-975) !important;
+}
+
+.border-yellow-975 {
+  border-color: var(--color-yellow-975) !important;
+}
+
+.outline-yellow-975 {
+  outline-color: var(--color-yellow-975) !important;
+}
+
+.accent-yellow-975 {
+  accent-color: var(--color-yellow-975) !important;
+}
+
+.caret-yellow-975 {
+  caret-color: var(--color-yellow-975) !important;
+}
+
+.fill-yellow-975 {
+  fill: var(--color-yellow-975) !important;
+}
+
+.stroke-yellow-975 {
+  stroke: var(--color-yellow-975) !important;
+}
+
+.bg-green-25 {
+  background-color: var(--color-green-25) !important;
+}
+
+.text-green-25 {
+  color: var(--color-green-25) !important;
+}
+
+.decoration-green-25 {
+  text-decoration-color: var(--color-green-25) !important;
+}
+
+.border-green-25 {
+  border-color: var(--color-green-25) !important;
+}
+
+.outline-green-25 {
+  outline-color: var(--color-green-25) !important;
+}
+
+.accent-green-25 {
+  accent-color: var(--color-green-25) !important;
+}
+
+.caret-green-25 {
+  caret-color: var(--color-green-25) !important;
+}
+
+.fill-green-25 {
+  fill: var(--color-green-25) !important;
+}
+
+.stroke-green-25 {
+  stroke: var(--color-green-25) !important;
 }
 
 .bg-green-50 {
@@ -2374,6 +2770,78 @@
   stroke: var(--color-green-950) !important;
 }
 
+.bg-green-975 {
+  background-color: var(--color-green-975) !important;
+}
+
+.text-green-975 {
+  color: var(--color-green-975) !important;
+}
+
+.decoration-green-975 {
+  text-decoration-color: var(--color-green-975) !important;
+}
+
+.border-green-975 {
+  border-color: var(--color-green-975) !important;
+}
+
+.outline-green-975 {
+  outline-color: var(--color-green-975) !important;
+}
+
+.accent-green-975 {
+  accent-color: var(--color-green-975) !important;
+}
+
+.caret-green-975 {
+  caret-color: var(--color-green-975) !important;
+}
+
+.fill-green-975 {
+  fill: var(--color-green-975) !important;
+}
+
+.stroke-green-975 {
+  stroke: var(--color-green-975) !important;
+}
+
+.bg-teal-25 {
+  background-color: var(--color-teal-25) !important;
+}
+
+.text-teal-25 {
+  color: var(--color-teal-25) !important;
+}
+
+.decoration-teal-25 {
+  text-decoration-color: var(--color-teal-25) !important;
+}
+
+.border-teal-25 {
+  border-color: var(--color-teal-25) !important;
+}
+
+.outline-teal-25 {
+  outline-color: var(--color-teal-25) !important;
+}
+
+.accent-teal-25 {
+  accent-color: var(--color-teal-25) !important;
+}
+
+.caret-teal-25 {
+  caret-color: var(--color-teal-25) !important;
+}
+
+.fill-teal-25 {
+  fill: var(--color-teal-25) !important;
+}
+
+.stroke-teal-25 {
+  stroke: var(--color-teal-25) !important;
+}
+
 .bg-teal-50 {
   background-color: var(--color-teal-50) !important;
 }
@@ -2768,6 +3236,78 @@
 
 .stroke-teal-950 {
   stroke: var(--color-teal-950) !important;
+}
+
+.bg-teal-975 {
+  background-color: var(--color-teal-975) !important;
+}
+
+.text-teal-975 {
+  color: var(--color-teal-975) !important;
+}
+
+.decoration-teal-975 {
+  text-decoration-color: var(--color-teal-975) !important;
+}
+
+.border-teal-975 {
+  border-color: var(--color-teal-975) !important;
+}
+
+.outline-teal-975 {
+  outline-color: var(--color-teal-975) !important;
+}
+
+.accent-teal-975 {
+  accent-color: var(--color-teal-975) !important;
+}
+
+.caret-teal-975 {
+  caret-color: var(--color-teal-975) !important;
+}
+
+.fill-teal-975 {
+  fill: var(--color-teal-975) !important;
+}
+
+.stroke-teal-975 {
+  stroke: var(--color-teal-975) !important;
+}
+
+.bg-cyan-25 {
+  background-color: var(--color-cyan-25) !important;
+}
+
+.text-cyan-25 {
+  color: var(--color-cyan-25) !important;
+}
+
+.decoration-cyan-25 {
+  text-decoration-color: var(--color-cyan-25) !important;
+}
+
+.border-cyan-25 {
+  border-color: var(--color-cyan-25) !important;
+}
+
+.outline-cyan-25 {
+  outline-color: var(--color-cyan-25) !important;
+}
+
+.accent-cyan-25 {
+  accent-color: var(--color-cyan-25) !important;
+}
+
+.caret-cyan-25 {
+  caret-color: var(--color-cyan-25) !important;
+}
+
+.fill-cyan-25 {
+  fill: var(--color-cyan-25) !important;
+}
+
+.stroke-cyan-25 {
+  stroke: var(--color-cyan-25) !important;
 }
 
 .bg-cyan-50 {
@@ -3166,6 +3706,78 @@
   stroke: var(--color-cyan-950) !important;
 }
 
+.bg-cyan-975 {
+  background-color: var(--color-cyan-975) !important;
+}
+
+.text-cyan-975 {
+  color: var(--color-cyan-975) !important;
+}
+
+.decoration-cyan-975 {
+  text-decoration-color: var(--color-cyan-975) !important;
+}
+
+.border-cyan-975 {
+  border-color: var(--color-cyan-975) !important;
+}
+
+.outline-cyan-975 {
+  outline-color: var(--color-cyan-975) !important;
+}
+
+.accent-cyan-975 {
+  accent-color: var(--color-cyan-975) !important;
+}
+
+.caret-cyan-975 {
+  caret-color: var(--color-cyan-975) !important;
+}
+
+.fill-cyan-975 {
+  fill: var(--color-cyan-975) !important;
+}
+
+.stroke-cyan-975 {
+  stroke: var(--color-cyan-975) !important;
+}
+
+.bg-sky-25 {
+  background-color: var(--color-sky-25) !important;
+}
+
+.text-sky-25 {
+  color: var(--color-sky-25) !important;
+}
+
+.decoration-sky-25 {
+  text-decoration-color: var(--color-sky-25) !important;
+}
+
+.border-sky-25 {
+  border-color: var(--color-sky-25) !important;
+}
+
+.outline-sky-25 {
+  outline-color: var(--color-sky-25) !important;
+}
+
+.accent-sky-25 {
+  accent-color: var(--color-sky-25) !important;
+}
+
+.caret-sky-25 {
+  caret-color: var(--color-sky-25) !important;
+}
+
+.fill-sky-25 {
+  fill: var(--color-sky-25) !important;
+}
+
+.stroke-sky-25 {
+  stroke: var(--color-sky-25) !important;
+}
+
 .bg-sky-50 {
   background-color: var(--color-sky-50) !important;
 }
@@ -3560,6 +4172,78 @@
 
 .stroke-sky-950 {
   stroke: var(--color-sky-950) !important;
+}
+
+.bg-sky-975 {
+  background-color: var(--color-sky-975) !important;
+}
+
+.text-sky-975 {
+  color: var(--color-sky-975) !important;
+}
+
+.decoration-sky-975 {
+  text-decoration-color: var(--color-sky-975) !important;
+}
+
+.border-sky-975 {
+  border-color: var(--color-sky-975) !important;
+}
+
+.outline-sky-975 {
+  outline-color: var(--color-sky-975) !important;
+}
+
+.accent-sky-975 {
+  accent-color: var(--color-sky-975) !important;
+}
+
+.caret-sky-975 {
+  caret-color: var(--color-sky-975) !important;
+}
+
+.fill-sky-975 {
+  fill: var(--color-sky-975) !important;
+}
+
+.stroke-sky-975 {
+  stroke: var(--color-sky-975) !important;
+}
+
+.bg-blue-25 {
+  background-color: var(--color-blue-25) !important;
+}
+
+.text-blue-25 {
+  color: var(--color-blue-25) !important;
+}
+
+.decoration-blue-25 {
+  text-decoration-color: var(--color-blue-25) !important;
+}
+
+.border-blue-25 {
+  border-color: var(--color-blue-25) !important;
+}
+
+.outline-blue-25 {
+  outline-color: var(--color-blue-25) !important;
+}
+
+.accent-blue-25 {
+  accent-color: var(--color-blue-25) !important;
+}
+
+.caret-blue-25 {
+  caret-color: var(--color-blue-25) !important;
+}
+
+.fill-blue-25 {
+  fill: var(--color-blue-25) !important;
+}
+
+.stroke-blue-25 {
+  stroke: var(--color-blue-25) !important;
 }
 
 .bg-blue-50 {
@@ -3958,6 +4642,78 @@
   stroke: var(--color-blue-950) !important;
 }
 
+.bg-blue-975 {
+  background-color: var(--color-blue-975) !important;
+}
+
+.text-blue-975 {
+  color: var(--color-blue-975) !important;
+}
+
+.decoration-blue-975 {
+  text-decoration-color: var(--color-blue-975) !important;
+}
+
+.border-blue-975 {
+  border-color: var(--color-blue-975) !important;
+}
+
+.outline-blue-975 {
+  outline-color: var(--color-blue-975) !important;
+}
+
+.accent-blue-975 {
+  accent-color: var(--color-blue-975) !important;
+}
+
+.caret-blue-975 {
+  caret-color: var(--color-blue-975) !important;
+}
+
+.fill-blue-975 {
+  fill: var(--color-blue-975) !important;
+}
+
+.stroke-blue-975 {
+  stroke: var(--color-blue-975) !important;
+}
+
+.bg-royal-25 {
+  background-color: var(--color-royal-25) !important;
+}
+
+.text-royal-25 {
+  color: var(--color-royal-25) !important;
+}
+
+.decoration-royal-25 {
+  text-decoration-color: var(--color-royal-25) !important;
+}
+
+.border-royal-25 {
+  border-color: var(--color-royal-25) !important;
+}
+
+.outline-royal-25 {
+  outline-color: var(--color-royal-25) !important;
+}
+
+.accent-royal-25 {
+  accent-color: var(--color-royal-25) !important;
+}
+
+.caret-royal-25 {
+  caret-color: var(--color-royal-25) !important;
+}
+
+.fill-royal-25 {
+  fill: var(--color-royal-25) !important;
+}
+
+.stroke-royal-25 {
+  stroke: var(--color-royal-25) !important;
+}
+
 .bg-royal-50 {
   background-color: var(--color-royal-50) !important;
 }
@@ -4352,6 +5108,78 @@
 
 .stroke-royal-950 {
   stroke: var(--color-royal-950) !important;
+}
+
+.bg-royal-975 {
+  background-color: var(--color-royal-975) !important;
+}
+
+.text-royal-975 {
+  color: var(--color-royal-975) !important;
+}
+
+.decoration-royal-975 {
+  text-decoration-color: var(--color-royal-975) !important;
+}
+
+.border-royal-975 {
+  border-color: var(--color-royal-975) !important;
+}
+
+.outline-royal-975 {
+  outline-color: var(--color-royal-975) !important;
+}
+
+.accent-royal-975 {
+  accent-color: var(--color-royal-975) !important;
+}
+
+.caret-royal-975 {
+  caret-color: var(--color-royal-975) !important;
+}
+
+.fill-royal-975 {
+  fill: var(--color-royal-975) !important;
+}
+
+.stroke-royal-975 {
+  stroke: var(--color-royal-975) !important;
+}
+
+.bg-purple-25 {
+  background-color: var(--color-purple-25) !important;
+}
+
+.text-purple-25 {
+  color: var(--color-purple-25) !important;
+}
+
+.decoration-purple-25 {
+  text-decoration-color: var(--color-purple-25) !important;
+}
+
+.border-purple-25 {
+  border-color: var(--color-purple-25) !important;
+}
+
+.outline-purple-25 {
+  outline-color: var(--color-purple-25) !important;
+}
+
+.accent-purple-25 {
+  accent-color: var(--color-purple-25) !important;
+}
+
+.caret-purple-25 {
+  caret-color: var(--color-purple-25) !important;
+}
+
+.fill-purple-25 {
+  fill: var(--color-purple-25) !important;
+}
+
+.stroke-purple-25 {
+  stroke: var(--color-purple-25) !important;
 }
 
 .bg-purple-50 {
@@ -4750,6 +5578,78 @@
   stroke: var(--color-purple-950) !important;
 }
 
+.bg-purple-975 {
+  background-color: var(--color-purple-975) !important;
+}
+
+.text-purple-975 {
+  color: var(--color-purple-975) !important;
+}
+
+.decoration-purple-975 {
+  text-decoration-color: var(--color-purple-975) !important;
+}
+
+.border-purple-975 {
+  border-color: var(--color-purple-975) !important;
+}
+
+.outline-purple-975 {
+  outline-color: var(--color-purple-975) !important;
+}
+
+.accent-purple-975 {
+  accent-color: var(--color-purple-975) !important;
+}
+
+.caret-purple-975 {
+  caret-color: var(--color-purple-975) !important;
+}
+
+.fill-purple-975 {
+  fill: var(--color-purple-975) !important;
+}
+
+.stroke-purple-975 {
+  stroke: var(--color-purple-975) !important;
+}
+
+.bg-magenta-25 {
+  background-color: var(--color-magenta-25) !important;
+}
+
+.text-magenta-25 {
+  color: var(--color-magenta-25) !important;
+}
+
+.decoration-magenta-25 {
+  text-decoration-color: var(--color-magenta-25) !important;
+}
+
+.border-magenta-25 {
+  border-color: var(--color-magenta-25) !important;
+}
+
+.outline-magenta-25 {
+  outline-color: var(--color-magenta-25) !important;
+}
+
+.accent-magenta-25 {
+  accent-color: var(--color-magenta-25) !important;
+}
+
+.caret-magenta-25 {
+  caret-color: var(--color-magenta-25) !important;
+}
+
+.fill-magenta-25 {
+  fill: var(--color-magenta-25) !important;
+}
+
+.stroke-magenta-25 {
+  stroke: var(--color-magenta-25) !important;
+}
+
 .bg-magenta-50 {
   background-color: var(--color-magenta-50) !important;
 }
@@ -5144,6 +6044,78 @@
 
 .stroke-magenta-950 {
   stroke: var(--color-magenta-950) !important;
+}
+
+.bg-magenta-975 {
+  background-color: var(--color-magenta-975) !important;
+}
+
+.text-magenta-975 {
+  color: var(--color-magenta-975) !important;
+}
+
+.decoration-magenta-975 {
+  text-decoration-color: var(--color-magenta-975) !important;
+}
+
+.border-magenta-975 {
+  border-color: var(--color-magenta-975) !important;
+}
+
+.outline-magenta-975 {
+  outline-color: var(--color-magenta-975) !important;
+}
+
+.accent-magenta-975 {
+  accent-color: var(--color-magenta-975) !important;
+}
+
+.caret-magenta-975 {
+  caret-color: var(--color-magenta-975) !important;
+}
+
+.fill-magenta-975 {
+  fill: var(--color-magenta-975) !important;
+}
+
+.stroke-magenta-975 {
+  stroke: var(--color-magenta-975) !important;
+}
+
+.bg-pink-25 {
+  background-color: var(--color-pink-25) !important;
+}
+
+.text-pink-25 {
+  color: var(--color-pink-25) !important;
+}
+
+.decoration-pink-25 {
+  text-decoration-color: var(--color-pink-25) !important;
+}
+
+.border-pink-25 {
+  border-color: var(--color-pink-25) !important;
+}
+
+.outline-pink-25 {
+  outline-color: var(--color-pink-25) !important;
+}
+
+.accent-pink-25 {
+  accent-color: var(--color-pink-25) !important;
+}
+
+.caret-pink-25 {
+  caret-color: var(--color-pink-25) !important;
+}
+
+.fill-pink-25 {
+  fill: var(--color-pink-25) !important;
+}
+
+.stroke-pink-25 {
+  stroke: var(--color-pink-25) !important;
 }
 
 .bg-pink-50 {
@@ -5542,6 +6514,78 @@
   stroke: var(--color-pink-950) !important;
 }
 
+.bg-pink-975 {
+  background-color: var(--color-pink-975) !important;
+}
+
+.text-pink-975 {
+  color: var(--color-pink-975) !important;
+}
+
+.decoration-pink-975 {
+  text-decoration-color: var(--color-pink-975) !important;
+}
+
+.border-pink-975 {
+  border-color: var(--color-pink-975) !important;
+}
+
+.outline-pink-975 {
+  outline-color: var(--color-pink-975) !important;
+}
+
+.accent-pink-975 {
+  accent-color: var(--color-pink-975) !important;
+}
+
+.caret-pink-975 {
+  caret-color: var(--color-pink-975) !important;
+}
+
+.fill-pink-975 {
+  fill: var(--color-pink-975) !important;
+}
+
+.stroke-pink-975 {
+  stroke: var(--color-pink-975) !important;
+}
+
+.bg-brown-25 {
+  background-color: var(--color-brown-25) !important;
+}
+
+.text-brown-25 {
+  color: var(--color-brown-25) !important;
+}
+
+.decoration-brown-25 {
+  text-decoration-color: var(--color-brown-25) !important;
+}
+
+.border-brown-25 {
+  border-color: var(--color-brown-25) !important;
+}
+
+.outline-brown-25 {
+  outline-color: var(--color-brown-25) !important;
+}
+
+.accent-brown-25 {
+  accent-color: var(--color-brown-25) !important;
+}
+
+.caret-brown-25 {
+  caret-color: var(--color-brown-25) !important;
+}
+
+.fill-brown-25 {
+  fill: var(--color-brown-25) !important;
+}
+
+.stroke-brown-25 {
+  stroke: var(--color-brown-25) !important;
+}
+
 .bg-brown-50 {
   background-color: var(--color-brown-50) !important;
 }
@@ -5936,6 +6980,78 @@
 
 .stroke-brown-950 {
   stroke: var(--color-brown-950) !important;
+}
+
+.bg-brown-975 {
+  background-color: var(--color-brown-975) !important;
+}
+
+.text-brown-975 {
+  color: var(--color-brown-975) !important;
+}
+
+.decoration-brown-975 {
+  text-decoration-color: var(--color-brown-975) !important;
+}
+
+.border-brown-975 {
+  border-color: var(--color-brown-975) !important;
+}
+
+.outline-brown-975 {
+  outline-color: var(--color-brown-975) !important;
+}
+
+.accent-brown-975 {
+  accent-color: var(--color-brown-975) !important;
+}
+
+.caret-brown-975 {
+  caret-color: var(--color-brown-975) !important;
+}
+
+.fill-brown-975 {
+  fill: var(--color-brown-975) !important;
+}
+
+.stroke-brown-975 {
+  stroke: var(--color-brown-975) !important;
+}
+
+.bg-stone-25 {
+  background-color: var(--color-stone-25) !important;
+}
+
+.text-stone-25 {
+  color: var(--color-stone-25) !important;
+}
+
+.decoration-stone-25 {
+  text-decoration-color: var(--color-stone-25) !important;
+}
+
+.border-stone-25 {
+  border-color: var(--color-stone-25) !important;
+}
+
+.outline-stone-25 {
+  outline-color: var(--color-stone-25) !important;
+}
+
+.accent-stone-25 {
+  accent-color: var(--color-stone-25) !important;
+}
+
+.caret-stone-25 {
+  caret-color: var(--color-stone-25) !important;
+}
+
+.fill-stone-25 {
+  fill: var(--color-stone-25) !important;
+}
+
+.stroke-stone-25 {
+  stroke: var(--color-stone-25) !important;
 }
 
 .bg-stone-50 {
@@ -6334,6 +7450,78 @@
   stroke: var(--color-stone-950) !important;
 }
 
+.bg-stone-975 {
+  background-color: var(--color-stone-975) !important;
+}
+
+.text-stone-975 {
+  color: var(--color-stone-975) !important;
+}
+
+.decoration-stone-975 {
+  text-decoration-color: var(--color-stone-975) !important;
+}
+
+.border-stone-975 {
+  border-color: var(--color-stone-975) !important;
+}
+
+.outline-stone-975 {
+  outline-color: var(--color-stone-975) !important;
+}
+
+.accent-stone-975 {
+  accent-color: var(--color-stone-975) !important;
+}
+
+.caret-stone-975 {
+  caret-color: var(--color-stone-975) !important;
+}
+
+.fill-stone-975 {
+  fill: var(--color-stone-975) !important;
+}
+
+.stroke-stone-975 {
+  stroke: var(--color-stone-975) !important;
+}
+
+.bg-iron-25 {
+  background-color: var(--color-iron-25) !important;
+}
+
+.text-iron-25 {
+  color: var(--color-iron-25) !important;
+}
+
+.decoration-iron-25 {
+  text-decoration-color: var(--color-iron-25) !important;
+}
+
+.border-iron-25 {
+  border-color: var(--color-iron-25) !important;
+}
+
+.outline-iron-25 {
+  outline-color: var(--color-iron-25) !important;
+}
+
+.accent-iron-25 {
+  accent-color: var(--color-iron-25) !important;
+}
+
+.caret-iron-25 {
+  caret-color: var(--color-iron-25) !important;
+}
+
+.fill-iron-25 {
+  fill: var(--color-iron-25) !important;
+}
+
+.stroke-iron-25 {
+  stroke: var(--color-iron-25) !important;
+}
+
 .bg-iron-50 {
   background-color: var(--color-iron-50) !important;
 }
@@ -6728,6 +7916,78 @@
 
 .stroke-iron-950 {
   stroke: var(--color-iron-950) !important;
+}
+
+.bg-iron-975 {
+  background-color: var(--color-iron-975) !important;
+}
+
+.text-iron-975 {
+  color: var(--color-iron-975) !important;
+}
+
+.decoration-iron-975 {
+  text-decoration-color: var(--color-iron-975) !important;
+}
+
+.border-iron-975 {
+  border-color: var(--color-iron-975) !important;
+}
+
+.outline-iron-975 {
+  outline-color: var(--color-iron-975) !important;
+}
+
+.accent-iron-975 {
+  accent-color: var(--color-iron-975) !important;
+}
+
+.caret-iron-975 {
+  caret-color: var(--color-iron-975) !important;
+}
+
+.fill-iron-975 {
+  fill: var(--color-iron-975) !important;
+}
+
+.stroke-iron-975 {
+  stroke: var(--color-iron-975) !important;
+}
+
+.bg-navy-25 {
+  background-color: var(--color-navy-25) !important;
+}
+
+.text-navy-25 {
+  color: var(--color-navy-25) !important;
+}
+
+.decoration-navy-25 {
+  text-decoration-color: var(--color-navy-25) !important;
+}
+
+.border-navy-25 {
+  border-color: var(--color-navy-25) !important;
+}
+
+.outline-navy-25 {
+  outline-color: var(--color-navy-25) !important;
+}
+
+.accent-navy-25 {
+  accent-color: var(--color-navy-25) !important;
+}
+
+.caret-navy-25 {
+  caret-color: var(--color-navy-25) !important;
+}
+
+.fill-navy-25 {
+  fill: var(--color-navy-25) !important;
+}
+
+.stroke-navy-25 {
+  stroke: var(--color-navy-25) !important;
 }
 
 .bg-navy-50 {
@@ -7126,6 +8386,78 @@
   stroke: var(--color-navy-950) !important;
 }
 
+.bg-navy-975 {
+  background-color: var(--color-navy-975) !important;
+}
+
+.text-navy-975 {
+  color: var(--color-navy-975) !important;
+}
+
+.decoration-navy-975 {
+  text-decoration-color: var(--color-navy-975) !important;
+}
+
+.border-navy-975 {
+  border-color: var(--color-navy-975) !important;
+}
+
+.outline-navy-975 {
+  outline-color: var(--color-navy-975) !important;
+}
+
+.accent-navy-975 {
+  accent-color: var(--color-navy-975) !important;
+}
+
+.caret-navy-975 {
+  caret-color: var(--color-navy-975) !important;
+}
+
+.fill-navy-975 {
+  fill: var(--color-navy-975) !important;
+}
+
+.stroke-navy-975 {
+  stroke: var(--color-navy-975) !important;
+}
+
+.bg-gray-25 {
+  background-color: var(--color-gray-25) !important;
+}
+
+.text-gray-25 {
+  color: var(--color-gray-25) !important;
+}
+
+.decoration-gray-25 {
+  text-decoration-color: var(--color-gray-25) !important;
+}
+
+.border-gray-25 {
+  border-color: var(--color-gray-25) !important;
+}
+
+.outline-gray-25 {
+  outline-color: var(--color-gray-25) !important;
+}
+
+.accent-gray-25 {
+  accent-color: var(--color-gray-25) !important;
+}
+
+.caret-gray-25 {
+  caret-color: var(--color-gray-25) !important;
+}
+
+.fill-gray-25 {
+  fill: var(--color-gray-25) !important;
+}
+
+.stroke-gray-25 {
+  stroke: var(--color-gray-25) !important;
+}
+
 .bg-gray-50 {
   background-color: var(--color-gray-50) !important;
 }
@@ -7522,6 +8854,42 @@
   stroke: var(--color-gray-950) !important;
 }
 
+.bg-gray-975 {
+  background-color: var(--color-gray-975) !important;
+}
+
+.text-gray-975 {
+  color: var(--color-gray-975) !important;
+}
+
+.decoration-gray-975 {
+  text-decoration-color: var(--color-gray-975) !important;
+}
+
+.border-gray-975 {
+  border-color: var(--color-gray-975) !important;
+}
+
+.outline-gray-975 {
+  outline-color: var(--color-gray-975) !important;
+}
+
+.accent-gray-975 {
+  accent-color: var(--color-gray-975) !important;
+}
+
+.caret-gray-975 {
+  caret-color: var(--color-gray-975) !important;
+}
+
+.fill-gray-975 {
+  fill: var(--color-gray-975) !important;
+}
+
+.stroke-gray-975 {
+  stroke: var(--color-gray-975) !important;
+}
+
 .bg-white {
   background-color: var(--color-white) !important;
 }
@@ -7615,21 +8983,21 @@
 }
 
 .button-red.colored {
-  background-color: var(--color-red-50) !important;
+  background-color: var(--color-red-25) !important;
   color: var(--color-red-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-red.colored:hover {
-  background-color: var(--color-red-100) !important;
+  background-color: var(--color-red-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-red.colored {
-    background-color: var(--color-red-950) !important;
+    background-color: var(--color-red-975) !important;
     color: var(--color-red-500) !important;
   }
   .button-red.colored:hover {
-    background-color: var(--color-red-900) !important;
+    background-color: var(--color-red-950) !important;
   }
 }
 .button-white {
@@ -7693,21 +9061,21 @@
 }
 
 .button-cherry.colored {
-  background-color: var(--color-cherry-50) !important;
+  background-color: var(--color-cherry-25) !important;
   color: var(--color-cherry-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-cherry.colored:hover {
-  background-color: var(--color-cherry-100) !important;
+  background-color: var(--color-cherry-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-cherry.colored {
-    background-color: var(--color-cherry-950) !important;
+    background-color: var(--color-cherry-975) !important;
     color: var(--color-cherry-500) !important;
   }
   .button-cherry.colored:hover {
-    background-color: var(--color-cherry-900) !important;
+    background-color: var(--color-cherry-950) !important;
   }
 }
 .button-white {
@@ -7771,21 +9139,21 @@
 }
 
 .button-orange.colored {
-  background-color: var(--color-orange-50) !important;
+  background-color: var(--color-orange-25) !important;
   color: var(--color-orange-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-orange.colored:hover {
-  background-color: var(--color-orange-100) !important;
+  background-color: var(--color-orange-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-orange.colored {
-    background-color: var(--color-orange-950) !important;
+    background-color: var(--color-orange-975) !important;
     color: var(--color-orange-500) !important;
   }
   .button-orange.colored:hover {
-    background-color: var(--color-orange-900) !important;
+    background-color: var(--color-orange-950) !important;
   }
 }
 .button-white {
@@ -7849,21 +9217,21 @@
 }
 
 .button-gold.colored {
-  background-color: var(--color-gold-50) !important;
+  background-color: var(--color-gold-25) !important;
   color: var(--color-gold-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-gold.colored:hover {
-  background-color: var(--color-gold-100) !important;
+  background-color: var(--color-gold-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-gold.colored {
-    background-color: var(--color-gold-950) !important;
+    background-color: var(--color-gold-975) !important;
     color: var(--color-gold-500) !important;
   }
   .button-gold.colored:hover {
-    background-color: var(--color-gold-900) !important;
+    background-color: var(--color-gold-950) !important;
   }
 }
 .button-white {
@@ -7927,21 +9295,21 @@
 }
 
 .button-yellow.colored {
-  background-color: var(--color-yellow-50) !important;
+  background-color: var(--color-yellow-25) !important;
   color: var(--color-yellow-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-yellow.colored:hover {
-  background-color: var(--color-yellow-100) !important;
+  background-color: var(--color-yellow-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-yellow.colored {
-    background-color: var(--color-yellow-950) !important;
+    background-color: var(--color-yellow-975) !important;
     color: var(--color-yellow-500) !important;
   }
   .button-yellow.colored:hover {
-    background-color: var(--color-yellow-900) !important;
+    background-color: var(--color-yellow-950) !important;
   }
 }
 .button-white {
@@ -8005,21 +9373,21 @@
 }
 
 .button-green.colored {
-  background-color: var(--color-green-50) !important;
+  background-color: var(--color-green-25) !important;
   color: var(--color-green-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-green.colored:hover {
-  background-color: var(--color-green-100) !important;
+  background-color: var(--color-green-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-green.colored {
-    background-color: var(--color-green-950) !important;
+    background-color: var(--color-green-975) !important;
     color: var(--color-green-500) !important;
   }
   .button-green.colored:hover {
-    background-color: var(--color-green-900) !important;
+    background-color: var(--color-green-950) !important;
   }
 }
 .button-white {
@@ -8083,21 +9451,21 @@
 }
 
 .button-teal.colored {
-  background-color: var(--color-teal-50) !important;
+  background-color: var(--color-teal-25) !important;
   color: var(--color-teal-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-teal.colored:hover {
-  background-color: var(--color-teal-100) !important;
+  background-color: var(--color-teal-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-teal.colored {
-    background-color: var(--color-teal-950) !important;
+    background-color: var(--color-teal-975) !important;
     color: var(--color-teal-500) !important;
   }
   .button-teal.colored:hover {
-    background-color: var(--color-teal-900) !important;
+    background-color: var(--color-teal-950) !important;
   }
 }
 .button-white {
@@ -8161,21 +9529,21 @@
 }
 
 .button-cyan.colored {
-  background-color: var(--color-cyan-50) !important;
+  background-color: var(--color-cyan-25) !important;
   color: var(--color-cyan-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-cyan.colored:hover {
-  background-color: var(--color-cyan-100) !important;
+  background-color: var(--color-cyan-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-cyan.colored {
-    background-color: var(--color-cyan-950) !important;
+    background-color: var(--color-cyan-975) !important;
     color: var(--color-cyan-500) !important;
   }
   .button-cyan.colored:hover {
-    background-color: var(--color-cyan-900) !important;
+    background-color: var(--color-cyan-950) !important;
   }
 }
 .button-white {
@@ -8239,21 +9607,21 @@
 }
 
 .button-sky.colored {
-  background-color: var(--color-sky-50) !important;
+  background-color: var(--color-sky-25) !important;
   color: var(--color-sky-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-sky.colored:hover {
-  background-color: var(--color-sky-100) !important;
+  background-color: var(--color-sky-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-sky.colored {
-    background-color: var(--color-sky-950) !important;
+    background-color: var(--color-sky-975) !important;
     color: var(--color-sky-500) !important;
   }
   .button-sky.colored:hover {
-    background-color: var(--color-sky-900) !important;
+    background-color: var(--color-sky-950) !important;
   }
 }
 .button-white {
@@ -8317,21 +9685,21 @@
 }
 
 .button-blue.colored {
-  background-color: var(--color-blue-50) !important;
+  background-color: var(--color-blue-25) !important;
   color: var(--color-blue-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-blue.colored:hover {
-  background-color: var(--color-blue-100) !important;
+  background-color: var(--color-blue-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-blue.colored {
-    background-color: var(--color-blue-950) !important;
+    background-color: var(--color-blue-975) !important;
     color: var(--color-blue-500) !important;
   }
   .button-blue.colored:hover {
-    background-color: var(--color-blue-900) !important;
+    background-color: var(--color-blue-950) !important;
   }
 }
 .button-white {
@@ -8395,21 +9763,21 @@
 }
 
 .button-royal.colored {
-  background-color: var(--color-royal-50) !important;
+  background-color: var(--color-royal-25) !important;
   color: var(--color-royal-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-royal.colored:hover {
-  background-color: var(--color-royal-100) !important;
+  background-color: var(--color-royal-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-royal.colored {
-    background-color: var(--color-royal-950) !important;
+    background-color: var(--color-royal-975) !important;
     color: var(--color-royal-500) !important;
   }
   .button-royal.colored:hover {
-    background-color: var(--color-royal-900) !important;
+    background-color: var(--color-royal-950) !important;
   }
 }
 .button-white {
@@ -8473,21 +9841,21 @@
 }
 
 .button-purple.colored {
-  background-color: var(--color-purple-50) !important;
+  background-color: var(--color-purple-25) !important;
   color: var(--color-purple-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-purple.colored:hover {
-  background-color: var(--color-purple-100) !important;
+  background-color: var(--color-purple-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-purple.colored {
-    background-color: var(--color-purple-950) !important;
+    background-color: var(--color-purple-975) !important;
     color: var(--color-purple-500) !important;
   }
   .button-purple.colored:hover {
-    background-color: var(--color-purple-900) !important;
+    background-color: var(--color-purple-950) !important;
   }
 }
 .button-white {
@@ -8551,21 +9919,21 @@
 }
 
 .button-magenta.colored {
-  background-color: var(--color-magenta-50) !important;
+  background-color: var(--color-magenta-25) !important;
   color: var(--color-magenta-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-magenta.colored:hover {
-  background-color: var(--color-magenta-100) !important;
+  background-color: var(--color-magenta-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-magenta.colored {
-    background-color: var(--color-magenta-950) !important;
+    background-color: var(--color-magenta-975) !important;
     color: var(--color-magenta-500) !important;
   }
   .button-magenta.colored:hover {
-    background-color: var(--color-magenta-900) !important;
+    background-color: var(--color-magenta-950) !important;
   }
 }
 .button-white {
@@ -8629,21 +9997,21 @@
 }
 
 .button-pink.colored {
-  background-color: var(--color-pink-50) !important;
+  background-color: var(--color-pink-25) !important;
   color: var(--color-pink-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-pink.colored:hover {
-  background-color: var(--color-pink-100) !important;
+  background-color: var(--color-pink-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-pink.colored {
-    background-color: var(--color-pink-950) !important;
+    background-color: var(--color-pink-975) !important;
     color: var(--color-pink-500) !important;
   }
   .button-pink.colored:hover {
-    background-color: var(--color-pink-900) !important;
+    background-color: var(--color-pink-950) !important;
   }
 }
 .button-white {
@@ -8707,21 +10075,21 @@
 }
 
 .button-brown.colored {
-  background-color: var(--color-brown-50) !important;
+  background-color: var(--color-brown-25) !important;
   color: var(--color-brown-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-brown.colored:hover {
-  background-color: var(--color-brown-100) !important;
+  background-color: var(--color-brown-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-brown.colored {
-    background-color: var(--color-brown-950) !important;
+    background-color: var(--color-brown-975) !important;
     color: var(--color-brown-500) !important;
   }
   .button-brown.colored:hover {
-    background-color: var(--color-brown-900) !important;
+    background-color: var(--color-brown-950) !important;
   }
 }
 .button-white {
@@ -8785,21 +10153,21 @@
 }
 
 .button-stone.colored {
-  background-color: var(--color-stone-50) !important;
+  background-color: var(--color-stone-25) !important;
   color: var(--color-stone-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-stone.colored:hover {
-  background-color: var(--color-stone-100) !important;
+  background-color: var(--color-stone-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-stone.colored {
-    background-color: var(--color-stone-950) !important;
+    background-color: var(--color-stone-975) !important;
     color: var(--color-stone-500) !important;
   }
   .button-stone.colored:hover {
-    background-color: var(--color-stone-900) !important;
+    background-color: var(--color-stone-950) !important;
   }
 }
 .button-white {
@@ -8863,21 +10231,21 @@
 }
 
 .button-iron.colored {
-  background-color: var(--color-iron-50) !important;
+  background-color: var(--color-iron-25) !important;
   color: var(--color-iron-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-iron.colored:hover {
-  background-color: var(--color-iron-100) !important;
+  background-color: var(--color-iron-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-iron.colored {
-    background-color: var(--color-iron-950) !important;
+    background-color: var(--color-iron-975) !important;
     color: var(--color-iron-500) !important;
   }
   .button-iron.colored:hover {
-    background-color: var(--color-iron-900) !important;
+    background-color: var(--color-iron-950) !important;
   }
 }
 .button-white {
@@ -8941,21 +10309,21 @@
 }
 
 .button-navy.colored {
-  background-color: var(--color-navy-50) !important;
+  background-color: var(--color-navy-25) !important;
   color: var(--color-navy-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-navy.colored:hover {
-  background-color: var(--color-navy-100) !important;
+  background-color: var(--color-navy-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-navy.colored {
-    background-color: var(--color-navy-950) !important;
+    background-color: var(--color-navy-975) !important;
     color: var(--color-navy-500) !important;
   }
   .button-navy.colored:hover {
-    background-color: var(--color-navy-900) !important;
+    background-color: var(--color-navy-950) !important;
   }
 }
 .button-white {
@@ -9019,21 +10387,21 @@
 }
 
 .button-gray.colored {
-  background-color: var(--color-gray-50) !important;
+  background-color: var(--color-gray-25) !important;
   color: var(--color-gray-500) !important;
   transition: color ease-in-out 200ms, background ease-in 200ms !important;
 }
 .button-gray.colored:hover {
-  background-color: var(--color-gray-100) !important;
+  background-color: var(--color-gray-50) !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .button-gray.colored {
-    background-color: var(--color-gray-950) !important;
+    background-color: var(--color-gray-975) !important;
     color: var(--color-gray-500) !important;
   }
   .button-gray.colored:hover {
-    background-color: var(--color-gray-900) !important;
+    background-color: var(--color-gray-950) !important;
   }
 }
 .button-white {
@@ -13281,6 +14649,7 @@
 }
 
 :root {
+  --color-red-25: rgb(252.6, 232.4, 234.4);
   --color-red-50: rgb(251.4, 221.1, 224.1);
   --color-red-100: rgb(246.6, 175.9, 182.9);
   --color-red-200: #f38e98;
@@ -13292,6 +14661,8 @@
   --color-red-800: rgb(127.05, 15.95, 26.95);
   --color-red-900: rgb(92.4, 11.6, 19.6);
   --color-red-950: rgb(57.75, 7.25, 12.25);
+  --color-red-975: rgb(34.65, 4.35, 7.35);
+  --color-cherry-25: rgb(253.9, 235.8, 238.9);
   --color-cherry-50: rgb(253.35, 226.2, 230.85);
   --color-cherry-100: rgb(251.15, 187.8, 198.65);
   --color-cherry-200: rgb(249.5, 159, 174.5);
@@ -13303,6 +14674,8 @@
   --color-cherry-800: rgb(134.2, 34.65, 51.7);
   --color-cherry-900: rgb(97.6, 25.2, 37.6);
   --color-cherry-950: rgb(61, 15.75, 23.5);
+  --color-cherry-975: rgb(36.6, 9.45, 14.1);
+  --color-orange-25: rgb(254.8, 242.1, 231.5);
   --color-orange-50: rgb(254.7, 235.65, 219.75);
   --color-orange-100: rgb(254.3, 209.85, 172.75);
   --color-orange-200: rgb(254, 190.5, 137.5);
@@ -13314,6 +14687,8 @@
   --color-orange-800: rgb(139.15, 69.3, 11);
   --color-orange-900: rgb(101.2, 50.4, 8);
   --color-orange-950: rgb(63.25, 31.5, 5);
+  --color-orange-975: rgb(37.95, 18.9, 3);
+  --color-gold-25: rgb(254, 246.6, 230.6);
   --color-gold-50: rgb(253.5, 242.4, 218.4);
   --color-gold-100: rgb(251.5, 225.6, 169.6);
   --color-gold-200: #fad585;
@@ -13325,6 +14700,8 @@
   --color-gold-800: rgb(134.75, 94.05, 6.05);
   --color-gold-900: rgb(98, 68.4, 4.4);
   --color-gold-950: rgb(61.25, 42.75, 2.75);
+  --color-gold-975: rgb(36.75, 25.65, 1.65);
+  --color-yellow-25: rgb(254.2, 250.7, 231.2);
   --color-yellow-50: rgb(253.8, 248.55, 219.3);
   --color-yellow-100: rgb(252.2, 239.95, 171.7);
   --color-yellow-200: rgb(251, 233.5, 136);
@@ -13336,6 +14713,8 @@
   --color-yellow-800: rgb(135.85, 116.6, 9.35);
   --color-yellow-900: rgb(98.8, 84.8, 6.8);
   --color-yellow-950: rgb(61.75, 53, 4.25);
+  --color-yellow-975: rgb(37.05, 31.8, 2.55);
+  --color-green-25: rgb(233.5, 246.2, 236.4);
   --color-green-50: rgb(222.75, 241.8, 227.1);
   --color-green-100: rgb(179.75, 224.2, 189.9);
   --color-green-200: rgb(147.5, 211, 162);
@@ -13347,6 +14726,8 @@
   --color-green-800: rgb(22, 91.85, 37.95);
   --color-green-900: rgb(16, 66.8, 27.6);
   --color-green-950: rgb(10, 41.75, 17.25);
+  --color-green-975: rgb(6, 25.05, 10.35);
+  --color-teal-25: rgb(232.7, 249.6, 244.6);
   --color-teal-50: rgb(221.55, 246.9, 239.4);
   --color-teal-100: rgb(176.95, 236.1, 218.6);
   --color-teal-200: rgb(143.5, 228, 203);
@@ -13358,6 +14739,8 @@
   --color-teal-800: rgb(17.6, 110.55, 83.05);
   --color-teal-900: rgb(12.8, 80.4, 60.4);
   --color-teal-950: rgb(8, 50.25, 37.75);
+  --color-teal-975: rgb(4.8, 30.15, 22.65);
+  --color-cyan-25: rgb(233.8, 246.9, 248.9);
   --color-cyan-50: rgb(223.2, 242.85, 245.85);
   --color-cyan-100: rgb(180.8, 226.65, 233.65);
   --color-cyan-200: rgb(149, 214.5, 224.5);
@@ -13369,6 +14752,8 @@
   --color-cyan-800: rgb(23.65, 95.7, 106.7);
   --color-cyan-900: rgb(17.2, 69.6, 77.6);
   --color-cyan-950: rgb(10.75, 43.5, 48.5);
+  --color-cyan-975: rgb(6.45, 26.1, 29.1);
+  --color-sky-25: rgb(235.1, 246, 255);
   --color-sky-50: rgb(225.15, 241.5, 255);
   --color-sky-100: rgb(185.35, 223.5, 255);
   --color-sky-200: rgb(155.5, 210, 255);
@@ -13380,6 +14765,8 @@
   --color-sky-800: rgb(30.8, 90.75, 140.25);
   --color-sky-900: rgb(22.4, 66, 102);
   --color-sky-950: rgb(14, 41.25, 63.75);
+  --color-sky-975: rgb(8.4, 24.75, 38.25);
+  --color-blue-25: rgb(229.5, 241.8, 255);
   --color-blue-50: rgb(216.75, 235.2, 255);
   --color-blue-100: rgb(165.75, 208.8, 255);
   --color-blue-200: rgb(127.5, 189, 255);
@@ -13391,6 +14778,8 @@
   --color-blue-800: rgb(0, 67.65, 140.25);
   --color-blue-900: rgb(0, 49.2, 102);
   --color-blue-950: rgb(0, 30.75, 63.75);
+  --color-blue-975: rgb(0, 18.45, 38.25);
+  --color-royal-25: rgb(239.4, 239.7, 253.6);
   --color-royal-50: rgb(231.6, 232.05, 252.9);
   --color-royal-100: rgb(200.4, 201.45, 250.1);
   --color-royal-200: rgb(177, 178.5, 248);
@@ -13402,6 +14791,8 @@
   --color-royal-800: rgb(54.45, 56.1, 132.55);
   --color-royal-900: rgb(39.6, 40.8, 96.4);
   --color-royal-950: rgb(24.75, 25.5, 60.25);
+  --color-royal-975: rgb(14.85, 15.3, 36.15);
+  --color-purple-25: rgb(246.3, 238, 254.2);
   --color-purple-50: rgb(241.95, 229.5, 253.8);
   --color-purple-100: rgb(224.55, 195.5, 252.2);
   --color-purple-200: rgb(211.5, 170, 251);
@@ -13413,6 +14804,8 @@
   --color-purple-800: rgb(92.4, 46.75, 135.85);
   --color-purple-900: rgb(67.2, 34, 98.8);
   --color-purple-950: rgb(42, 21.25, 61.75);
+  --color-purple-975: rgb(25.2, 12.75, 37.05);
+  --color-magenta-25: rgb(251.2, 236.5, 253.4);
   --color-magenta-50: rgb(249.3, 227.25, 252.6);
   --color-magenta-100: rgb(241.7, 190.25, 249.4);
   --color-magenta-200: rgb(236, 162.5, 247);
@@ -13424,6 +14817,8 @@
   --color-magenta-800: rgb(119.35, 38.5, 131.45);
   --color-magenta-900: rgb(86.8, 28, 95.6);
   --color-magenta-950: rgb(54.25, 17.5, 59.75);
+  --color-magenta-975: rgb(32.55, 10.5, 35.85);
+  --color-pink-25: rgb(255, 240.2, 245.2);
   --color-pink-50: rgb(255, 232.8, 240.3);
   --color-pink-100: rgb(255, 203.2, 220.7);
   --color-pink-200: #ffb5ce;
@@ -13435,6 +14830,8 @@
   --color-pink-800: rgb(140.25, 58.85, 86.35);
   --color-pink-900: rgb(102, 42.8, 62.8);
   --color-pink-950: rgb(63.75, 26.75, 39.25);
+  --color-pink-975: rgb(38.25, 16.05, 23.55);
+  --color-brown-25: rgb(245.5, 240.9, 237.4);
   --color-brown-50: rgb(240.75, 233.85, 228.6);
   --color-brown-100: rgb(221.75, 205.65, 193.4);
   --color-brown-200: rgb(207.5, 184.5, 167);
@@ -13446,6 +14843,8 @@
   --color-brown-800: rgb(88, 62.7, 43.45);
   --color-brown-900: rgb(64, 45.6, 31.6);
   --color-brown-950: rgb(40, 28.5, 19.75);
+  --color-brown-975: rgb(24, 17.1, 11.85);
+  --color-stone-25: rgb(243.4, 242.9, 242.3);
   --color-stone-50: rgb(237.6, 236.85, 235.95);
   --color-stone-100: rgb(214.4, 212.65, 210.55);
   --color-stone-200: rgb(197, 194.5, 191.5);
@@ -13457,6 +14856,8 @@
   --color-stone-800: rgb(76.45, 73.7, 70.4);
   --color-stone-900: rgb(55.6, 53.6, 51.2);
   --color-stone-950: rgb(34.75, 33.5, 32);
+  --color-stone-975: rgb(20.85, 20.1, 19.2);
+  --color-iron-25: rgb(239.5, 241.1, 243.4);
   --color-iron-50: rgb(231.75, 234.15, 237.6);
   --color-iron-100: rgb(200.75, 206.35, 214.4);
   --color-iron-200: rgb(177.5, 185.5, 197);
@@ -13468,6 +14869,8 @@
   --color-iron-800: rgb(55, 63.8, 76.45);
   --color-iron-900: rgb(40, 46.4, 55.6);
   --color-iron-950: rgb(25, 29, 34.75);
+  --color-iron-975: rgb(15, 17.4, 20.85);
+  --color-navy-25: rgb(234.6, 236, 238);
   --color-navy-50: rgb(224.4, 226.5, 229.5);
   --color-navy-100: rgb(183.6, 188.5, 195.5);
   --color-navy-200: #99a0aa;
@@ -13479,6 +14882,8 @@
   --color-navy-800: rgb(28.05, 35.75, 46.75);
   --color-navy-900: rgb(20.4, 26, 34);
   --color-navy-950: rgb(12.75, 16.25, 21.25);
+  --color-navy-975: rgb(7.65, 9.75, 12.75);
+  --color-gray-25: #fefefe;
   --color-gray-50: #fcfcfc;
   --color-gray-100: #f7f7f7;
   --color-gray-200: #eeeeee;
@@ -13490,312 +14895,313 @@
   --color-gray-800: #424242;
   --color-gray-900: #212121;
   --color-gray-950: #121212;
+  --color-gray-975: #0a0a0a;
   --color-white: #ffffff;
   --color-black: #000000;
 }
 
 .button-red.colored.light {
-  background-color: var(--color-red-50) !important;
+  background-color: var(--color-red-25) !important;
   color: var(--color-red-500) !important;
 }
 .button-red.colored.light:hover {
-  background-color: var(--color-red-100) !important;
+  background-color: var(--color-red-50) !important;
 }
 
 .button-cherry.colored.light {
-  background-color: var(--color-cherry-50) !important;
+  background-color: var(--color-cherry-25) !important;
   color: var(--color-cherry-500) !important;
 }
 .button-cherry.colored.light:hover {
-  background-color: var(--color-cherry-100) !important;
+  background-color: var(--color-cherry-50) !important;
 }
 
 .button-orange.colored.light {
-  background-color: var(--color-orange-50) !important;
+  background-color: var(--color-orange-25) !important;
   color: var(--color-orange-500) !important;
 }
 .button-orange.colored.light:hover {
-  background-color: var(--color-orange-100) !important;
+  background-color: var(--color-orange-50) !important;
 }
 
 .button-gold.colored.light {
-  background-color: var(--color-gold-50) !important;
+  background-color: var(--color-gold-25) !important;
   color: var(--color-gold-500) !important;
 }
 .button-gold.colored.light:hover {
-  background-color: var(--color-gold-100) !important;
+  background-color: var(--color-gold-50) !important;
 }
 
 .button-yellow.colored.light {
-  background-color: var(--color-yellow-50) !important;
+  background-color: var(--color-yellow-25) !important;
   color: var(--color-yellow-500) !important;
 }
 .button-yellow.colored.light:hover {
-  background-color: var(--color-yellow-100) !important;
+  background-color: var(--color-yellow-50) !important;
 }
 
 .button-green.colored.light {
-  background-color: var(--color-green-50) !important;
+  background-color: var(--color-green-25) !important;
   color: var(--color-green-500) !important;
 }
 .button-green.colored.light:hover {
-  background-color: var(--color-green-100) !important;
+  background-color: var(--color-green-50) !important;
 }
 
 .button-teal.colored.light {
-  background-color: var(--color-teal-50) !important;
+  background-color: var(--color-teal-25) !important;
   color: var(--color-teal-500) !important;
 }
 .button-teal.colored.light:hover {
-  background-color: var(--color-teal-100) !important;
+  background-color: var(--color-teal-50) !important;
 }
 
 .button-cyan.colored.light {
-  background-color: var(--color-cyan-50) !important;
+  background-color: var(--color-cyan-25) !important;
   color: var(--color-cyan-500) !important;
 }
 .button-cyan.colored.light:hover {
-  background-color: var(--color-cyan-100) !important;
+  background-color: var(--color-cyan-50) !important;
 }
 
 .button-sky.colored.light {
-  background-color: var(--color-sky-50) !important;
+  background-color: var(--color-sky-25) !important;
   color: var(--color-sky-500) !important;
 }
 .button-sky.colored.light:hover {
-  background-color: var(--color-sky-100) !important;
+  background-color: var(--color-sky-50) !important;
 }
 
 .button-blue.colored.light {
-  background-color: var(--color-blue-50) !important;
+  background-color: var(--color-blue-25) !important;
   color: var(--color-blue-500) !important;
 }
 .button-blue.colored.light:hover {
-  background-color: var(--color-blue-100) !important;
+  background-color: var(--color-blue-50) !important;
 }
 
 .button-royal.colored.light {
-  background-color: var(--color-royal-50) !important;
+  background-color: var(--color-royal-25) !important;
   color: var(--color-royal-500) !important;
 }
 .button-royal.colored.light:hover {
-  background-color: var(--color-royal-100) !important;
+  background-color: var(--color-royal-50) !important;
 }
 
 .button-purple.colored.light {
-  background-color: var(--color-purple-50) !important;
+  background-color: var(--color-purple-25) !important;
   color: var(--color-purple-500) !important;
 }
 .button-purple.colored.light:hover {
-  background-color: var(--color-purple-100) !important;
+  background-color: var(--color-purple-50) !important;
 }
 
 .button-magenta.colored.light {
-  background-color: var(--color-magenta-50) !important;
+  background-color: var(--color-magenta-25) !important;
   color: var(--color-magenta-500) !important;
 }
 .button-magenta.colored.light:hover {
-  background-color: var(--color-magenta-100) !important;
+  background-color: var(--color-magenta-50) !important;
 }
 
 .button-pink.colored.light {
-  background-color: var(--color-pink-50) !important;
+  background-color: var(--color-pink-25) !important;
   color: var(--color-pink-500) !important;
 }
 .button-pink.colored.light:hover {
-  background-color: var(--color-pink-100) !important;
+  background-color: var(--color-pink-50) !important;
 }
 
 .button-brown.colored.light {
-  background-color: var(--color-brown-50) !important;
+  background-color: var(--color-brown-25) !important;
   color: var(--color-brown-500) !important;
 }
 .button-brown.colored.light:hover {
-  background-color: var(--color-brown-100) !important;
+  background-color: var(--color-brown-50) !important;
 }
 
 .button-stone.colored.light {
-  background-color: var(--color-stone-50) !important;
+  background-color: var(--color-stone-25) !important;
   color: var(--color-stone-500) !important;
 }
 .button-stone.colored.light:hover {
-  background-color: var(--color-stone-100) !important;
+  background-color: var(--color-stone-50) !important;
 }
 
 .button-iron.colored.light {
-  background-color: var(--color-iron-50) !important;
+  background-color: var(--color-iron-25) !important;
   color: var(--color-iron-500) !important;
 }
 .button-iron.colored.light:hover {
-  background-color: var(--color-iron-100) !important;
+  background-color: var(--color-iron-50) !important;
 }
 
 .button-navy.colored.light {
-  background-color: var(--color-navy-50) !important;
+  background-color: var(--color-navy-25) !important;
   color: var(--color-navy-500) !important;
 }
 .button-navy.colored.light:hover {
-  background-color: var(--color-navy-100) !important;
+  background-color: var(--color-navy-50) !important;
 }
 
 .button-gray.colored.light {
-  background-color: var(--color-gray-50) !important;
+  background-color: var(--color-gray-25) !important;
   color: var(--color-gray-500) !important;
 }
 .button-gray.colored.light:hover {
-  background-color: var(--color-gray-100) !important;
+  background-color: var(--color-gray-50) !important;
 }
 
 .button-red.colored.dark {
-  background-color: var(--color-red-950) !important;
+  background-color: var(--color-red-975) !important;
   color: var(--color-red-500) !important;
 }
 .button-red.colored.dark:hover {
-  background-color: var(--color-red-900) !important;
+  background-color: var(--color-red-950) !important;
 }
 
 .button-cherry.colored.dark {
-  background-color: var(--color-cherry-950) !important;
+  background-color: var(--color-cherry-975) !important;
   color: var(--color-cherry-500) !important;
 }
 .button-cherry.colored.dark:hover {
-  background-color: var(--color-cherry-900) !important;
+  background-color: var(--color-cherry-950) !important;
 }
 
 .button-orange.colored.dark {
-  background-color: var(--color-orange-950) !important;
+  background-color: var(--color-orange-975) !important;
   color: var(--color-orange-500) !important;
 }
 .button-orange.colored.dark:hover {
-  background-color: var(--color-orange-900) !important;
+  background-color: var(--color-orange-950) !important;
 }
 
 .button-gold.colored.dark {
-  background-color: var(--color-gold-950) !important;
+  background-color: var(--color-gold-975) !important;
   color: var(--color-gold-500) !important;
 }
 .button-gold.colored.dark:hover {
-  background-color: var(--color-gold-900) !important;
+  background-color: var(--color-gold-950) !important;
 }
 
 .button-yellow.colored.dark {
-  background-color: var(--color-yellow-950) !important;
+  background-color: var(--color-yellow-975) !important;
   color: var(--color-yellow-500) !important;
 }
 .button-yellow.colored.dark:hover {
-  background-color: var(--color-yellow-900) !important;
+  background-color: var(--color-yellow-950) !important;
 }
 
 .button-green.colored.dark {
-  background-color: var(--color-green-950) !important;
+  background-color: var(--color-green-975) !important;
   color: var(--color-green-500) !important;
 }
 .button-green.colored.dark:hover {
-  background-color: var(--color-green-900) !important;
+  background-color: var(--color-green-950) !important;
 }
 
 .button-teal.colored.dark {
-  background-color: var(--color-teal-950) !important;
+  background-color: var(--color-teal-975) !important;
   color: var(--color-teal-500) !important;
 }
 .button-teal.colored.dark:hover {
-  background-color: var(--color-teal-900) !important;
+  background-color: var(--color-teal-950) !important;
 }
 
 .button-cyan.colored.dark {
-  background-color: var(--color-cyan-950) !important;
+  background-color: var(--color-cyan-975) !important;
   color: var(--color-cyan-500) !important;
 }
 .button-cyan.colored.dark:hover {
-  background-color: var(--color-cyan-900) !important;
+  background-color: var(--color-cyan-950) !important;
 }
 
 .button-sky.colored.dark {
-  background-color: var(--color-sky-950) !important;
+  background-color: var(--color-sky-975) !important;
   color: var(--color-sky-500) !important;
 }
 .button-sky.colored.dark:hover {
-  background-color: var(--color-sky-900) !important;
+  background-color: var(--color-sky-950) !important;
 }
 
 .button-blue.colored.dark {
-  background-color: var(--color-blue-950) !important;
+  background-color: var(--color-blue-975) !important;
   color: var(--color-blue-500) !important;
 }
 .button-blue.colored.dark:hover {
-  background-color: var(--color-blue-900) !important;
+  background-color: var(--color-blue-950) !important;
 }
 
 .button-royal.colored.dark {
-  background-color: var(--color-royal-950) !important;
+  background-color: var(--color-royal-975) !important;
   color: var(--color-royal-500) !important;
 }
 .button-royal.colored.dark:hover {
-  background-color: var(--color-royal-900) !important;
+  background-color: var(--color-royal-950) !important;
 }
 
 .button-purple.colored.dark {
-  background-color: var(--color-purple-950) !important;
+  background-color: var(--color-purple-975) !important;
   color: var(--color-purple-500) !important;
 }
 .button-purple.colored.dark:hover {
-  background-color: var(--color-purple-900) !important;
+  background-color: var(--color-purple-950) !important;
 }
 
 .button-magenta.colored.dark {
-  background-color: var(--color-magenta-950) !important;
+  background-color: var(--color-magenta-975) !important;
   color: var(--color-magenta-500) !important;
 }
 .button-magenta.colored.dark:hover {
-  background-color: var(--color-magenta-900) !important;
+  background-color: var(--color-magenta-950) !important;
 }
 
 .button-pink.colored.dark {
-  background-color: var(--color-pink-950) !important;
+  background-color: var(--color-pink-975) !important;
   color: var(--color-pink-500) !important;
 }
 .button-pink.colored.dark:hover {
-  background-color: var(--color-pink-900) !important;
+  background-color: var(--color-pink-950) !important;
 }
 
 .button-brown.colored.dark {
-  background-color: var(--color-brown-950) !important;
+  background-color: var(--color-brown-975) !important;
   color: var(--color-brown-500) !important;
 }
 .button-brown.colored.dark:hover {
-  background-color: var(--color-brown-900) !important;
+  background-color: var(--color-brown-950) !important;
 }
 
 .button-stone.colored.dark {
-  background-color: var(--color-stone-950) !important;
+  background-color: var(--color-stone-975) !important;
   color: var(--color-stone-500) !important;
 }
 .button-stone.colored.dark:hover {
-  background-color: var(--color-stone-900) !important;
+  background-color: var(--color-stone-950) !important;
 }
 
 .button-iron.colored.dark {
-  background-color: var(--color-iron-950) !important;
+  background-color: var(--color-iron-975) !important;
   color: var(--color-iron-500) !important;
 }
 .button-iron.colored.dark:hover {
-  background-color: var(--color-iron-900) !important;
+  background-color: var(--color-iron-950) !important;
 }
 
 .button-navy.colored.dark {
-  background-color: var(--color-navy-950) !important;
+  background-color: var(--color-navy-975) !important;
   color: var(--color-navy-500) !important;
 }
 .button-navy.colored.dark:hover {
-  background-color: var(--color-navy-900) !important;
+  background-color: var(--color-navy-950) !important;
 }
 
 .button-gray.colored.dark {
-  background-color: var(--color-gray-950) !important;
+  background-color: var(--color-gray-975) !important;
   color: var(--color-gray-500) !important;
 }
 .button-gray.colored.dark:hover {
-  background-color: var(--color-gray-900) !important;
+  background-color: var(--color-gray-950) !important;
 }
 
 html {

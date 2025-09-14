@@ -6,11 +6,11 @@
     $varName: func.buildVariableName("color", $name, "");
 
     .button-#{$name}.colored.dark {
-      background-color: var(#{$varName}-950) !important;
+      background-color: var(#{$varName}-975) !important;
       color: var(#{$varName}-500) !important;
 
       &:hover {
-        background-color: var(#{$varName}-900) !important;
+        background-color: var(#{$varName}-950) !important;
       }
     }
   }
@@ -21,11 +21,11 @@
     $varName: func.buildVariableName("color", $name, "");
 
     .button-#{$name}.colored.light {
-      background-color: var(#{$varName}-50) !important;
+      background-color: var(#{$varName}-25) !important;
       color: var(#{$varName}-500) !important;
 
       &:hover {
-        background-color: var(#{$varName}-100) !important;
+        background-color: var(#{$varName}-50) !important;
       }
     }
   }
