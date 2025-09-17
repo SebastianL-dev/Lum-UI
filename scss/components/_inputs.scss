@@ -1,3 +1,4 @@
+// Styles for text inputs like text area, password, email or text inputs
 .input {
   border: solid var(--color-gray-300) 2px;
   height: fit-content;
@@ -19,5 +20,57 @@
 
   &:focus {
     border: solid var(--color-gray-400) 2px;
+  }
+}
+
+// Styles for checkbox inputs
+.checkbox {
+  appearance: none;
+  border: 2px solid var(--color-gray-400) !important;
+  border-radius: 0.4em;
+  cursor: pointer;
+  transition: border ease-in-out 200ms;
+  position: relative;
+
+  &:hover {
+    border: 2px solid var(--color-gray-600) !important;
+  }
+
+  &:checked {
+    border: 2px solid var(--color-gray-500) !important;
+  }
+
+  &:checked::before,
+  &:checked::after {
+    opacity: 1;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    border-radius: 0.2em;
+    background-color: var(--color-gray-400);
+    opacity: 0;
+    transition: opacity ease-in-out 150ms;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    translate: -50% -50%;
+    width: 25%;
+    height: 50%;
+    border: solid var(--color-gray-100);
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+    opacity: 0;
+    transition: opacity ease-in-out 150ms;
   }
 }

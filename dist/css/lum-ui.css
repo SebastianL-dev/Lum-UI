@@ -16227,4 +16227,49 @@ details {
   border: solid var(--color-gray-400) 2px;
 }
 
+.checkbox {
+  appearance: none;
+  border: 2px solid var(--color-gray-400) !important;
+  border-radius: 0.4em;
+  cursor: pointer;
+  transition: border ease-in-out 200ms;
+  position: relative;
+}
+.checkbox:hover {
+  border: 2px solid var(--color-gray-600) !important;
+}
+.checkbox:checked {
+  border: 2px solid var(--color-gray-500) !important;
+}
+.checkbox:checked::before, .checkbox:checked::after {
+  opacity: 1;
+}
+.checkbox::before {
+  content: "";
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  border-radius: 0.2em;
+  background-color: var(--color-gray-400);
+  opacity: 0;
+  transition: opacity ease-in-out 150ms;
+}
+.checkbox::after {
+  content: "";
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  translate: -50% -50%;
+  width: 25%;
+  height: 50%;
+  border: solid var(--color-gray-100);
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  opacity: 0;
+  transition: opacity ease-in-out 150ms;
+}
+
 /*# sourceMappingURL=lum-ui.css.map */
